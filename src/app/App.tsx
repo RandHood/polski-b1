@@ -10,7 +10,7 @@ import { FlashCards } from '../pages/FlashCards';
 import { Statistics } from '../pages/Statistics';
 import { Settings } from '../pages/Settings';
 import { UnderConstruction } from '../pages/UnderConstruction';
-import { UpdateBanner } from '../components/UpdateBanner';
+import { useUpdate } from './useUpdate';
 
 type Dir = 'forward' | 'back' | 'switch';
 
@@ -20,7 +20,7 @@ function titleFor(cfg: AppConfig, r: Route): string {
   return page?.label ?? item?.label ?? 'Polski B1';
 }
 
-function Page({ cfg, route, onMenu }: { cfg: AppConfig; route: Route; onMenu: () => void }) {
+function Page({ cfg, route, onMenu, onUpdate }: { cfg: AppConfig; route: Route; onMenu: () => void; onUpdate: (() => void) | null }) {
   const item = cfg.navigation.find((n) => n.id === route.parts[0]);
   let body: ComponentChildren;
   if (!item) body = <UnderConstruction label="This page" />;
@@ -32,7 +32,7 @@ function Page({ cfg, route, onMenu }: { cfg: AppConfig; route: Route; onMenu: ()
   else body = <UnderConstruction label={item.label} />;
   return (
     <>
-      <Header title={titleFor(cfg, route)} depth={route.depth} onMenu={onMenu} />
+      <Header title={titleFor(cfg, route)} depth={route.depth} onMenu={onMenu} onUpdate={onUpdate} />
       <main class="page__body">{body}</main>
     </>
   );
@@ -44,6 +44,7 @@ export function App() {
   const route = useRoute();
   const [shown, setShown] = useState<{ cur: Route; prev: Route | null; dir: Dir }>({ cur: route, prev: null, dir: 'switch' });
   const [menu, setMenu] = useState(false);
+  const onUpdate = useUpdate();
   const touch = useRef<{ x: number; y: number } | null>(null);
 
   useEffect(() => { loadConfig().then(setCfg, (e: Error) => setError(e.message)); }, []);
@@ -81,14 +82,13 @@ export function App() {
         {shown.prev && (
           <section key={shown.prev.path} class={`page page--leave-${shown.dir}`} aria-hidden="true"
             onAnimationEnd={() => setShown((s) => ({ ...s, prev: null }))}>
-            <Page cfg={cfg} route={shown.prev} onMenu={() => setMenu(true)} />
+            <Page cfg={cfg} route={shown.prev} onMenu={() => setMenu(true)} onUpdate={onUpdate} />
           </section>
         )}
         <section key={shown.cur.path} class={`page${shown.prev ? ` page--enter-${shown.dir}` : ''}`}>
-          <Page cfg={cfg} route={shown.cur} onMenu={() => setMenu(true)} />
+          <Page cfg={cfg} route={shown.cur} onMenu={() => setMenu(true)} onUpdate={onUpdate} />
         </section>
       </div>
-      <UpdateBanner />
     </div>
   );
 }
