@@ -55,7 +55,7 @@ export function Settings() {
           <span class="mono">{rate.toFixed(1)}×</span>
           <button type="button" class="btn btn--small btn--ghost" onClick={() => speak('Dzień dobry')}>Try it</button>
         </div>
-        <p class="hint">Tip: for a clearer voice, download the Enhanced Polish voice in iPhone Settings → Accessibility → Spoken Content → Voices.</p>
+        <p class="hint">Tip: for a clearer voice, download the Enhanced Polish voice (Zosia) in iPhone Settings → Accessibility → Read &amp; Speak → Voices → Polish.</p>
       </section>
 
       <section class="card">

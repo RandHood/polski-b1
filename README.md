@@ -21,7 +21,7 @@ Results are saved on the phone only (IndexedDB). Export a backup from Settings n
 2. Tap Share, then **Add to Home Screen**.
 3. Open Polski B1 from the home screen. After the first open it works offline.
 
-For a clearer voice, download the Enhanced Polish voice in Settings → Accessibility → Spoken Content → Voices.
+For a clearer voice, download the Enhanced Polish voice (Zosia) in iPhone Settings → Accessibility → Read & Speak → Voices → Polish.
 
 ## Change the word lists or settings
 
