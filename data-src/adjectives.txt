@@ -1,0 +1,327 @@
+# Polish adjectives (masculine form), most frequent first. Format: polish|english|arabic
+nowy|new|جديد
+duży|big|كبير
+dobry|good|جيد
+wielki|great, huge|عظيم
+mały|small|صغير
+stary|old|قديم، عجوز
+młody|young|شاب
+polski|Polish|بولندي
+ważny|important|مهم
+cały|whole|كامل
+pierwszy|first|أول
+ostatni|last|أخير
+inny|other, different|آخر
+własny|own|خاص
+pełny|full|ممتلئ
+wysoki|tall, high|طويل، عال
+niski|short, low|قصير، منخفض
+długi|long|طويل
+krótki|short|قصير
+szeroki|wide|واسع
+wąski|narrow|ضيق
+gruby|thick, fat|سميك، سمين
+chudy|thin, skinny|نحيف
+ciężki|heavy, difficult|ثقيل، صعب
+lekki|light|خفيف
+trudny|difficult|صعب
+łatwy|easy|سهل
+prosty|simple, straight|بسيط، مستقيم
+skomplikowany|complicated|معقد
+możliwy|possible|ممكن
+niemożliwy|impossible|مستحيل
+konieczny|necessary|ضروري
+potrzebny|needed|لازم
+gotowy|ready|جاهز
+wolny|free, slow|حر، بطيء
+zajęty|busy, occupied|مشغول
+szybki|fast|سريع
+wczesny|early|مبكر
+późny|late|متأخر
+bliski|close, near|قريب
+daleki|far|بعيد
+pewny|sure, certain|متأكد
+prawdziwy|true, real|حقيقي
+fałszywy|false, fake|مزيف
+właściwy|proper, right|مناسب
+poprawny|correct|صحيح
+zły|bad, angry|سيء، غاضب
+piękny|beautiful|جميل
+ładny|pretty, nice|جميل
+brzydki|ugly|قبيح
+miły|nice, kind|لطيف
+sympatyczny|likeable|ودود
+uprzejmy|polite|مهذب
+grzeczny|polite, well-behaved|مؤدب
+niegrzeczny|rude, naughty|وقح
+mądry|wise, clever|حكيم
+inteligentny|intelligent|ذكي
+głupi|stupid|غبي
+zdolny|talented, able|موهوب
+leniwy|lazy|كسول
+pracowity|hard-working|مجتهد
+spokojny|calm, quiet|هادئ
+nerwowy|nervous|عصبي
+cichy|quiet|هادئ
+głośny|loud|صاخب
+wesoły|cheerful|مرح
+smutny|sad|حزين
+szczęśliwy|happy|سعيد
+zadowolony|satisfied, pleased|راض
+zmęczony|tired|متعب
+chory|ill, sick|مريض
+zdrowy|healthy|صحي
+głodny|hungry|جائع
+spragniony|thirsty|عطشان
+silny|strong|قوي
+słaby|weak|ضعيف
+bogaty|rich|غني
+biedny|poor|فقير
+drogi|expensive, dear|غال، عزيز
+tani|cheap|رخيص
+czysty|clean|نظيف
+brudny|dirty|متسخ
+ciepły|warm|دافئ
+zimny|cold|بارد
+gorący|hot|حار
+chłodny|cool|بارد قليلا
+suchy|dry|جاف
+mokry|wet|مبلل
+jasny|bright, light|فاتح، مضيء
+ciemny|dark|داكن، مظلم
+biały|white|أبيض
+czarny|black|أسود
+czerwony|red|أحمر
+zielony|green|أخضر
+niebieski|blue|أزرق
+żółty|yellow|أصفر
+szary|grey|رمادي
+brązowy|brown|بني
+różowy|pink|وردي
+pomarańczowy|orange|برتقالي
+fioletowy|purple|بنفسجي
+kolorowy|colourful|ملون
+słodki|sweet|حلو
+gorzki|bitter|مر
+kwaśny|sour|حامض
+słony|salty|مالح
+ostry|sharp, spicy|حاد، حار
+smaczny|tasty|لذيذ
+świeży|fresh|طازج
+gotowany|boiled|مسلوق
+surowy|raw, strict|نيء، صارم
+twardy|hard|صلب
+miękki|soft|ناعم
+gładki|smooth|أملس
+okrągły|round|دائري
+płaski|flat|مسطح
+głęboki|deep|عميق
+pusty|empty|فارغ
+otwarty|open|مفتوح
+zamknięty|closed|مغلق
+publiczny|public|عام
+prywatny|private|خاص
+państwowy|state, national|حكومي
+społeczny|social|اجتماعي
+polityczny|political|سياسي
+ekonomiczny|economic|اقتصادي
+gospodarczy|economic|اقتصادي
+narodowy|national|وطني
+międzynarodowy|international|دولي
+europejski|European|أوروبي
+zagraniczny|foreign|أجنبي
+obcy|foreign, strange|غريب
+lokalny|local|محلي
+miejski|urban, city|حضري
+wiejski|rural|ريفي
+rodzinny|family|عائلي
+domowy|home, homemade|منزلي
+szkolny|school|مدرسي
+zawodowy|professional|مهني
+naukowy|scientific|علمي
+kulturalny|cultural, cultured|ثقافي، مثقف
+historyczny|historical|تاريخي
+nowoczesny|modern|حديث
+współczesny|contemporary|معاصر
+tradycyjny|traditional|تقليدي
+dawny|former, old|سابق، قديم
+obecny|current, present|حالي
+przyszły|future, next|مستقبلي، قادم
+następny|next|التالي
+poprzedni|previous|السابق
+kolejny|next, another|التالي، آخر
+ostateczny|final|نهائي
+główny|main|رئيسي
+podstawowy|basic|أساسي
+ogólny|general|عام
+szczególny|particular, special|خاص
+specjalny|special|خاص
+wyjątkowy|exceptional|استثنائي
+typowy|typical|نموذجي
+normalny|normal|عادي
+zwykły|ordinary, usual|عادي
+dziwny|strange|غريب
+ciekawy|interesting, curious|مثير للاهتمام، فضولي
+interesujący|interesting|مثير للاهتمام
+nudny|boring|ممل
+śmieszny|funny|مضحك
+zabawny|amusing|مسل
+poważny|serious|جدي
+niebezpieczny|dangerous|خطير
+bezpieczny|safe|آمن
+straszny|terrible, scary|فظيع، مخيف
+okropny|awful|فظيع
+wspaniały|wonderful|رائع
+świetny|great, excellent|ممتاز
+doskonały|perfect, excellent|ممتاز
+idealny|ideal, perfect|مثالي
+fantastyczny|fantastic|رائع
+cudowny|marvellous|رائع
+niezły|not bad|لا بأس به
+przyjemny|pleasant|ممتع
+nieprzyjemny|unpleasant|مزعج
+wygodny|comfortable|مريح
+niewygodny|uncomfortable|غير مريح
+praktyczny|practical|عملي
+przydatny|useful|مفيد
+pożyteczny|useful|نافع
+skuteczny|effective|فعال
+aktywny|active|نشيط
+popularny|popular|شائع
+znany|well-known|معروف
+sławny|famous|مشهور
+nieznany|unknown|مجهول
+słynny|famous|شهير
+podobny|similar|مشابه
+różny|different, various|مختلف
+taki sam|the same|نفسه
+jedyny|only, sole|الوحيد
+wspólny|common, shared|مشترك
+samotny|lonely, single|وحيد
+żonaty|married (man)|متزوج
+zamężna|married (woman)|متزوجة
+rozwiedziony|divorced|مطلق
+dorosły|adult|بالغ
+starszy|elderly, older|مسن، أكبر
+młodszy|younger|أصغر
+odpowiedni|suitable|مناسب
+odpowiedzialny|responsible|مسؤول
+uczciwy|honest|صادق
+szczery|sincere|صريح
+wierny|faithful|وفي
+dumny|proud|فخور
+odważny|brave|شجاع
+tchórzliwy|cowardly|جبان
+cierpliwy|patient|صبور
+uważny|careful, attentive|منتبه
+ostrożny|careful|حذر
+nieśmiały|shy|خجول
+towarzyski|sociable|اجتماعي
+gościnny|hospitable|مضياف
+hojny|generous|كريم
+skąpy|stingy|بخيل
+zazdrosny|jealous|غيور
+zakochany|in love|عاشق
+wściekły|furious|غاضب جدا
+zdenerwowany|upset, nervous|منزعج
+zaskoczony|surprised|متفاجئ
+zdziwiony|astonished|مندهش
+przestraszony|frightened|خائف
+pijany|drunk|سكران
+żywy|alive, lively|حي
+martwy|dead|ميت
+ślepy|blind|أعمى
+głuchy|deaf|أصم
+ranny|injured|جريح
+bolesny|painful|مؤلم
+pełnoletni|of age|راشد
+ciężarna|pregnant|حامل
+lepszy|better|أفضل
+gorszy|worse|أسوأ
+większy|bigger|أكبر
+mniejszy|smaller|أصغر
+najlepszy|best|الأفضل
+najgorszy|worst|الأسوأ
+prawy|right (side)|أيمن
+lewy|left (side)|أيسر
+górny|upper|علوي
+dolny|lower|سفلي
+przedni|front|أمامي
+tylny|back, rear|خلفي
+środkowy|middle|أوسط
+wewnętrzny|internal|داخلي
+zewnętrzny|external|خارجي
+północny|northern|شمالي
+południowy|southern|جنوبي
+wschodni|eastern|شرقي
+zachodni|western|غربي
+morski|sea, marine|بحري
+górski|mountain|جبلي
+leśny|forest|حرجي
+letni|summer|صيفي
+zimowy|winter|شتوي
+wiosenny|spring|ربيعي
+jesienny|autumn|خريفي
+dzienny|daily, day|يومي، نهاري
+nocny|night|ليلي
+poranny|morning|صباحي
+wieczorny|evening|مسائي
+codzienny|everyday|يومي
+tygodniowy|weekly|أسبوعي
+miesięczny|monthly|شهري
+roczny|annual|سنوي
+stały|permanent, constant|دائم، ثابت
+tymczasowy|temporary|مؤقت
+częsty|frequent|متكرر
+rzadki|rare|نادر
+pilny|urgent|عاجل
+dokładny|exact, precise|دقيق
+zrozumiały|understandable|مفهوم
+oczywisty|obvious|واضح
+widoczny|visible|مرئي
+niewidoczny|invisible|غير مرئي
+cenny|valuable|ثمين
+bezpłatny|free of charge|مجاني
+darmowy|free of charge|مجاني
+płatny|paid|مدفوع
+elektryczny|electric|كهربائي
+komputerowy|computer|حاسوبي
+internetowy|internet, online|إلكتروني
+cyfrowy|digital|رقمي
+techniczny|technical|تقني
+medyczny|medical|طبي
+sportowy|sports|رياضي
+muzyczny|musical|موسيقي
+artystyczny|artistic|فني
+religijny|religious|ديني
+katolicki|Catholic|كاثوليكي
+angielski|English|إنجليزي
+niemiecki|German|ألماني
+francuski|French|فرنسي
+rosyjski|Russian|روسي
+ukraiński|Ukrainian|أوكراني
+arabski|Arabic|عربي
+amerykański|American|أمريكي
+brytyjski|British|بريطاني
+hiszpański|Spanish|إسباني
+włoski|Italian|إيطالي
+czeski|Czech|تشيكي
+słowacki|Slovak|سلوفاكي
+krajowy|domestic, national|محلي، وطني
+światowy|world, global|عالمي
+całkowity|total, complete|كلي
+częściowy|partial|جزئي
+miejscowy|local|محلي
+sąsiedni|neighbouring|مجاور
+centralny|central|مركزي
+nagły|sudden|مفاجئ
+spóźniony|late (delayed)|متأخر
+punktualny|punctual|دقيق في المواعيد
+zepsuty|broken|معطل
+nowiutki|brand new|جديد تماما
+używany|used, second-hand|مستعمل
+wysportowany|fit, athletic|رياضي
+przystojny|handsome|وسيم
+elegancki|elegant|أنيق
+modny|fashionable|عصري
+skromny|modest|متواضع

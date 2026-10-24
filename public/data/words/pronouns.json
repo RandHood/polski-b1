@@ -1,0 +1,447 @@
+{
+ "schemaVersion": 1,
+ "category": "pronouns",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "pronouns.ja",
+   "rank": 1,
+   "pl": "ja",
+   "pos": "pronoun",
+   "translations": {
+    "en": "I",
+    "ar": "أنا"
+   }
+  },
+  {
+   "id": "pronouns.ty",
+   "rank": 2,
+   "pl": "ty",
+   "pos": "pronoun",
+   "translations": {
+    "en": "you (singular)",
+    "ar": "أنت"
+   }
+  },
+  {
+   "id": "pronouns.on",
+   "rank": 3,
+   "pl": "on",
+   "pos": "pronoun",
+   "translations": {
+    "en": "he",
+    "ar": "هو"
+   }
+  },
+  {
+   "id": "pronouns.ona",
+   "rank": 4,
+   "pl": "ona",
+   "pos": "pronoun",
+   "translations": {
+    "en": "she",
+    "ar": "هي"
+   }
+  },
+  {
+   "id": "pronouns.ono",
+   "rank": 5,
+   "pl": "ono",
+   "pos": "pronoun",
+   "translations": {
+    "en": "it",
+    "ar": "هو (للمحايد)"
+   }
+  },
+  {
+   "id": "pronouns.my",
+   "rank": 6,
+   "pl": "my",
+   "pos": "pronoun",
+   "translations": {
+    "en": "we",
+    "ar": "نحن"
+   }
+  },
+  {
+   "id": "pronouns.wy",
+   "rank": 7,
+   "pl": "wy",
+   "pos": "pronoun",
+   "translations": {
+    "en": "you (plural)",
+    "ar": "أنتم"
+   }
+  },
+  {
+   "id": "pronouns.oni",
+   "rank": 8,
+   "pl": "oni",
+   "pos": "pronoun",
+   "translations": {
+    "en": "they (with men)",
+    "ar": "هم"
+   }
+  },
+  {
+   "id": "pronouns.one",
+   "rank": 9,
+   "pl": "one",
+   "pos": "pronoun",
+   "translations": {
+    "en": "they (no men)",
+    "ar": "هن"
+   }
+  },
+  {
+   "id": "pronouns.pan",
+   "rank": 10,
+   "pl": "pan",
+   "pos": "pronoun",
+   "translations": {
+    "en": "you (formal, to a man)",
+    "ar": "حضرتك (لرجل)"
+   }
+  },
+  {
+   "id": "pronouns.pani",
+   "rank": 11,
+   "pl": "pani",
+   "pos": "pronoun",
+   "translations": {
+    "en": "you (formal, to a woman)",
+    "ar": "حضرتك (لامرأة)"
+   }
+  },
+  {
+   "id": "pronouns.panstwo",
+   "rank": 12,
+   "pl": "państwo",
+   "pos": "pronoun",
+   "translations": {
+    "en": "you (formal, plural)",
+    "ar": "حضراتكم"
+   }
+  },
+  {
+   "id": "pronouns.sie",
+   "rank": 13,
+   "pl": "się",
+   "pos": "pronoun",
+   "translations": {
+    "en": "oneself (reflexive)",
+    "ar": "نفسه"
+   }
+  },
+  {
+   "id": "pronouns.siebie",
+   "rank": 14,
+   "pl": "siebie",
+   "pos": "pronoun",
+   "translations": {
+    "en": "oneself",
+    "ar": "نفسه"
+   }
+  },
+  {
+   "id": "pronouns.moj",
+   "rank": 15,
+   "pl": "mój",
+   "pos": "pronoun",
+   "translations": {
+    "en": "my, mine",
+    "ar": "لي"
+   }
+  },
+  {
+   "id": "pronouns.twoj",
+   "rank": 16,
+   "pl": "twój",
+   "pos": "pronoun",
+   "translations": {
+    "en": "your, yours",
+    "ar": "لك"
+   }
+  },
+  {
+   "id": "pronouns.jego",
+   "rank": 17,
+   "pl": "jego",
+   "pos": "pronoun",
+   "translations": {
+    "en": "his",
+    "ar": "له"
+   }
+  },
+  {
+   "id": "pronouns.jej",
+   "rank": 18,
+   "pl": "jej",
+   "pos": "pronoun",
+   "translations": {
+    "en": "her, hers",
+    "ar": "لها"
+   }
+  },
+  {
+   "id": "pronouns.nasz",
+   "rank": 19,
+   "pl": "nasz",
+   "pos": "pronoun",
+   "translations": {
+    "en": "our, ours",
+    "ar": "لنا"
+   }
+  },
+  {
+   "id": "pronouns.wasz",
+   "rank": 20,
+   "pl": "wasz",
+   "pos": "pronoun",
+   "translations": {
+    "en": "your (plural)",
+    "ar": "لكم"
+   }
+  },
+  {
+   "id": "pronouns.ich",
+   "rank": 21,
+   "pl": "ich",
+   "pos": "pronoun",
+   "translations": {
+    "en": "their",
+    "ar": "لهم"
+   }
+  },
+  {
+   "id": "pronouns.swoj",
+   "rank": 22,
+   "pl": "swój",
+   "pos": "pronoun",
+   "translations": {
+    "en": "one's own",
+    "ar": "خاصته"
+   }
+  },
+  {
+   "id": "pronouns.ten",
+   "rank": 23,
+   "pl": "ten",
+   "pos": "pronoun",
+   "translations": {
+    "en": "this (masculine)",
+    "ar": "هذا"
+   }
+  },
+  {
+   "id": "pronouns.ta",
+   "rank": 24,
+   "pl": "ta",
+   "pos": "pronoun",
+   "translations": {
+    "en": "this (feminine)",
+    "ar": "هذه"
+   }
+  },
+  {
+   "id": "pronouns.to",
+   "rank": 25,
+   "pl": "to",
+   "pos": "pronoun",
+   "translations": {
+    "en": "this, it",
+    "ar": "هذا"
+   }
+  },
+  {
+   "id": "pronouns.tamten",
+   "rank": 26,
+   "pl": "tamten",
+   "pos": "pronoun",
+   "translations": {
+    "en": "that (over there)",
+    "ar": "ذلك"
+   }
+  },
+  {
+   "id": "pronouns.taki",
+   "rank": 27,
+   "pl": "taki",
+   "pos": "pronoun",
+   "translations": {
+    "en": "such",
+    "ar": "مثل هذا"
+   }
+  },
+  {
+   "id": "pronouns.sam",
+   "rank": 28,
+   "pl": "sam",
+   "pos": "pronoun",
+   "translations": {
+    "en": "oneself, alone",
+    "ar": "نفسه"
+   }
+  },
+  {
+   "id": "pronouns.ktos",
+   "rank": 29,
+   "pl": "ktoś",
+   "pos": "pronoun",
+   "translations": {
+    "en": "somebody",
+    "ar": "شخص ما"
+   }
+  },
+  {
+   "id": "pronouns.cos",
+   "rank": 30,
+   "pl": "coś",
+   "pos": "pronoun",
+   "translations": {
+    "en": "something",
+    "ar": "شيء ما"
+   }
+  },
+  {
+   "id": "pronouns.nikt",
+   "rank": 31,
+   "pl": "nikt",
+   "pos": "pronoun",
+   "translations": {
+    "en": "nobody",
+    "ar": "لا أحد"
+   }
+  },
+  {
+   "id": "pronouns.nic",
+   "rank": 32,
+   "pl": "nic",
+   "pos": "pronoun",
+   "translations": {
+    "en": "nothing",
+    "ar": "لا شيء"
+   }
+  },
+  {
+   "id": "pronouns.kazdy",
+   "rank": 33,
+   "pl": "każdy",
+   "pos": "pronoun",
+   "translations": {
+    "en": "every, everyone",
+    "ar": "كل"
+   }
+  },
+  {
+   "id": "pronouns.wszyscy",
+   "rank": 34,
+   "pl": "wszyscy",
+   "pos": "pronoun",
+   "translations": {
+    "en": "everybody",
+    "ar": "الجميع"
+   }
+  },
+  {
+   "id": "pronouns.wszystko",
+   "rank": 35,
+   "pl": "wszystko",
+   "pos": "pronoun",
+   "translations": {
+    "en": "everything",
+    "ar": "كل شيء"
+   }
+  },
+  {
+   "id": "pronouns.zaden",
+   "rank": 36,
+   "pl": "żaden",
+   "pos": "pronoun",
+   "translations": {
+    "en": "none, no",
+    "ar": "لا أحد، لا"
+   }
+  },
+  {
+   "id": "pronouns.jakis",
+   "rank": 37,
+   "pl": "jakiś",
+   "pos": "pronoun",
+   "translations": {
+    "en": "some (kind of)",
+    "ar": "ما، أحد"
+   }
+  },
+  {
+   "id": "pronouns.ktorys",
+   "rank": 38,
+   "pl": "któryś",
+   "pos": "pronoun",
+   "translations": {
+    "en": "one of, some",
+    "ar": "أحدهم"
+   }
+  },
+  {
+   "id": "pronouns.niektorzy",
+   "rank": 39,
+   "pl": "niektórzy",
+   "pos": "pronoun",
+   "translations": {
+    "en": "some (people)",
+    "ar": "بعض الناس"
+   }
+  },
+  {
+   "id": "pronouns.inny",
+   "rank": 40,
+   "pl": "inny",
+   "pos": "pronoun",
+   "translations": {
+    "en": "other",
+    "ar": "آخر"
+   }
+  },
+  {
+   "id": "pronouns.ktory",
+   "rank": 41,
+   "pl": "który",
+   "pos": "pronoun",
+   "translations": {
+    "en": "which, who (relative)",
+    "ar": "الذي"
+   }
+  },
+  {
+   "id": "pronouns.kto",
+   "rank": 42,
+   "pl": "kto",
+   "pos": "pronoun",
+   "translations": {
+    "en": "who",
+    "ar": "من"
+   }
+  },
+  {
+   "id": "pronouns.co",
+   "rank": 43,
+   "pl": "co",
+   "pos": "pronoun",
+   "translations": {
+    "en": "what",
+    "ar": "ماذا"
+   }
+  },
+  {
+   "id": "pronouns.czyj",
+   "rank": 44,
+   "pl": "czyj",
+   "pos": "pronoun",
+   "translations": {
+    "en": "whose",
+    "ar": "لمن"
+   }
+  }
+ ]
+}
