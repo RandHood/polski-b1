@@ -55,6 +55,7 @@ export function Settings() {
           <span class="mono">{rate.toFixed(1)}×</span>
           <button type="button" class="btn btn--small btn--ghost" onClick={() => speak('Dzień dobry')}>Try it</button>
         </div>
+        <p class="hint">Pronunciation is silent when your iPhone is in silent mode. Turn silent mode off to hear words.</p>
         <p class="hint">Tip: for a clearer voice, download the Enhanced Polish voice in iPhone Settings → Accessibility → Read &amp; Speak → Voices → Polish.</p>
       </section>
 
