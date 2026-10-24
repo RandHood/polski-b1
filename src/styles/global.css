@@ -72,14 +72,21 @@ button { cursor: pointer; }
 
 /* ---------- Header ---------- */
 .header {
-  display: grid; grid-template-columns: 44px 1fr 44px; align-items: center; gap: 8px;
+  display: grid; grid-template-columns: 1fr minmax(0, auto) 1fr; align-items: center; gap: 8px;
   padding: 12px var(--gutter) 12px; max-width: 640px; margin: 0 auto;
 }
 .header__title {
   margin: 0; text-align: center; font: 700 22px/1.15 var(--serif); letter-spacing: 0.005em;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
-.header__spacer { width: 44px; }
+.header > :first-child { justify-self: start; }
+.header__end { justify-self: end; display: flex; align-items: center; min-height: 44px; }
+.update-btn {
+  min-height: 36px; padding: 6px 16px; border-radius: 999px; border: 0;
+  background: var(--ink); color: var(--paper); font-size: 15px; font-weight: 500; letter-spacing: 0.01em;
+  animation: fade-up var(--dur) var(--ease) both;
+}
+.update-btn:active { transform: scale(0.96); }
 
 /* ---------- Buttons ---------- */
 .round-btn {
@@ -171,8 +178,6 @@ button { cursor: pointer; }
   .panel { transform: none; box-shadow: 1px 0 0 var(--line); }
   .scrim, .panel__close, .menu-btn { display: none; }
   .stage { left: var(--panel-w); }
-  .header { grid-template-columns: 0 1fr 0; }
-  .header__spacer { width: 0; }
 }
 
 /* ---------- Study home ---------- */
@@ -284,14 +289,6 @@ button { cursor: pointer; }
 .dots span { width: 6px; height: 6px; border-radius: 50%; background: var(--line); transition: background 200ms ease, width 200ms ease; }
 .dots span.is-on { background: var(--ink); width: 16px; border-radius: 3px; }
 
-/* ---------- Update banner ---------- */
-.update {
-  position: fixed; left: var(--gutter); right: var(--gutter); bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 30;
-  display: flex; align-items: center; justify-content: space-between; gap: 12px;
-  padding: 10px 10px 10px 18px; border-radius: 999px; background: var(--ink); color: var(--paper);
-  max-width: 480px; margin: 0 auto;
-}
-.update .btn { background: var(--paper); color: var(--ink); border-color: var(--paper); }
 
 @media (prefers-reduced-motion: reduce) {
   .page--enter-forward, .page--enter-back, .page--enter-switch,
