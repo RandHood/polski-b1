@@ -1,0 +1,43 @@
+# Polish conjunctions. Format: polish|english|arabic
+i|and|و
+a|and, whereas|و، بينما
+ale|but|لكن
+lub|or|أو
+albo|or|أو
+czy|or (in questions), whether|أم، هل
+ani|nor|ولا
+oraz|and, as well as|و
+lecz|but|لكن
+jednak|however|ومع ذلك
+natomiast|whereas|بينما
+więc|so|إذن
+zatem|therefore|لذلك
+dlatego że|because|لأن
+bo|because|لأن
+ponieważ|because, since|لأن
+że|that|أن
+żeby|in order to, so that|لكي
+aby|in order to|لكي
+gdy|when|عندما
+kiedy|when|عندما
+jeśli|if|إذا
+jeżeli|if|إذا
+gdyby|if (hypothetical)|لو
+chociaż|although|رغم أن
+choć|although|مع أن
+mimo że|even though|على الرغم من أن
+zanim|before|قبل أن
+dopóki|as long as, until|طالما
+odkąd|since|منذ أن
+aż|until|حتى
+jak|as, like, when|كما، عندما
+jakby|as if|كأن
+niż|than|من (للمقارنة)
+czyli|that is, i.e.|أي
+to znaczy|that means|يعني
+zarówno ... jak i|both ... and|كل من ... و
+nie tylko ... ale też|not only ... but also|ليس فقط ... بل أيضا
+albo ... albo|either ... or|إما ... أو
+ani ... ani|neither ... nor|لا ... ولا
+skoro|since, given that|بما أن
+podczas gdy|while|بينما

@@ -1,0 +1,562 @@
+{
+ "schemaVersion": 1,
+ "category": "prepositions",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "prepositions.w",
+   "rank": 1,
+   "pl": "w",
+   "pos": "preposition",
+   "governs": [
+    "locative",
+    "accusative"
+   ],
+   "translations": {
+    "en": "in, on (days)",
+    "ar": "في"
+   }
+  },
+  {
+   "id": "prepositions.na",
+   "rank": 2,
+   "pl": "na",
+   "pos": "preposition",
+   "governs": [
+    "locative",
+    "accusative"
+   ],
+   "translations": {
+    "en": "on, at, for",
+    "ar": "على"
+   }
+  },
+  {
+   "id": "prepositions.z",
+   "rank": 3,
+   "pl": "z",
+   "pos": "preposition",
+   "governs": [
+    "instrumental",
+    "genitive"
+   ],
+   "translations": {
+    "en": "with; from, out of",
+    "ar": "مع؛ من"
+   }
+  },
+  {
+   "id": "prepositions.do",
+   "rank": 4,
+   "pl": "do",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "to, into",
+    "ar": "إلى"
+   }
+  },
+  {
+   "id": "prepositions.od",
+   "rank": 5,
+   "pl": "od",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "from, since",
+    "ar": "من، منذ"
+   }
+  },
+  {
+   "id": "prepositions.o",
+   "rank": 6,
+   "pl": "o",
+   "pos": "preposition",
+   "governs": [
+    "locative",
+    "accusative"
+   ],
+   "translations": {
+    "en": "about; for",
+    "ar": "عن؛ من أجل"
+   }
+  },
+  {
+   "id": "prepositions.po",
+   "rank": 7,
+   "pl": "po",
+   "pos": "preposition",
+   "governs": [
+    "locative",
+    "accusative"
+   ],
+   "translations": {
+    "en": "after, along; for (to fetch)",
+    "ar": "بعد، على طول؛ لإحضار"
+   }
+  },
+  {
+   "id": "prepositions.przy",
+   "rank": 8,
+   "pl": "przy",
+   "pos": "preposition",
+   "governs": [
+    "locative"
+   ],
+   "translations": {
+    "en": "by, next to",
+    "ar": "بجانب"
+   }
+  },
+  {
+   "id": "prepositions.dla",
+   "rank": 9,
+   "pl": "dla",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "for",
+    "ar": "لأجل"
+   }
+  },
+  {
+   "id": "prepositions.bez",
+   "rank": 10,
+   "pl": "bez",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "without",
+    "ar": "بدون"
+   }
+  },
+  {
+   "id": "prepositions.u",
+   "rank": 11,
+   "pl": "u",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "at (someone's place)",
+    "ar": "عند"
+   }
+  },
+  {
+   "id": "prepositions.za",
+   "rank": 12,
+   "pl": "za",
+   "pos": "preposition",
+   "governs": [
+    "instrumental",
+    "accusative"
+   ],
+   "translations": {
+    "en": "behind; for, in (time)",
+    "ar": "خلف؛ مقابل، بعد"
+   }
+  },
+  {
+   "id": "prepositions.przed",
+   "rank": 13,
+   "pl": "przed",
+   "pos": "preposition",
+   "governs": [
+    "instrumental"
+   ],
+   "translations": {
+    "en": "in front of, before",
+    "ar": "أمام، قبل"
+   }
+  },
+  {
+   "id": "prepositions.nad",
+   "rank": 14,
+   "pl": "nad",
+   "pos": "preposition",
+   "governs": [
+    "instrumental"
+   ],
+   "translations": {
+    "en": "above, over",
+    "ar": "فوق"
+   }
+  },
+  {
+   "id": "prepositions.pod",
+   "rank": 15,
+   "pl": "pod",
+   "pos": "preposition",
+   "governs": [
+    "instrumental",
+    "accusative"
+   ],
+   "translations": {
+    "en": "under",
+    "ar": "تحت"
+   }
+  },
+  {
+   "id": "prepositions.miedzy",
+   "rank": 16,
+   "pl": "między",
+   "pos": "preposition",
+   "governs": [
+    "instrumental"
+   ],
+   "translations": {
+    "en": "between",
+    "ar": "بين"
+   }
+  },
+  {
+   "id": "prepositions.obok",
+   "rank": 17,
+   "pl": "obok",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "next to",
+    "ar": "بجانب"
+   }
+  },
+  {
+   "id": "prepositions.kolo",
+   "rank": 18,
+   "pl": "koło",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "near",
+    "ar": "قرب"
+   }
+  },
+  {
+   "id": "prepositions.okolo",
+   "rank": 19,
+   "pl": "około",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "around, about",
+    "ar": "حوالي"
+   }
+  },
+  {
+   "id": "prepositions.wsrod",
+   "rank": 20,
+   "pl": "wśród",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "among",
+    "ar": "بين"
+   }
+  },
+  {
+   "id": "prepositions.podczas",
+   "rank": 21,
+   "pl": "podczas",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "during",
+    "ar": "أثناء"
+   }
+  },
+  {
+   "id": "prepositions.wedlug",
+   "rank": 22,
+   "pl": "według",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "according to",
+    "ar": "وفقا لـ"
+   }
+  },
+  {
+   "id": "prepositions.dzieki",
+   "rank": 23,
+   "pl": "dzięki",
+   "pos": "preposition",
+   "governs": [
+    "dative"
+   ],
+   "translations": {
+    "en": "thanks to",
+    "ar": "بفضل"
+   }
+  },
+  {
+   "id": "prepositions.przeciwko",
+   "rank": 24,
+   "pl": "przeciwko",
+   "pos": "preposition",
+   "governs": [
+    "dative"
+   ],
+   "translations": {
+    "en": "against",
+    "ar": "ضد"
+   }
+  },
+  {
+   "id": "prepositions.wbrew",
+   "rank": 25,
+   "pl": "wbrew",
+   "pos": "preposition",
+   "governs": [
+    "dative"
+   ],
+   "translations": {
+    "en": "contrary to",
+    "ar": "خلافا لـ"
+   }
+  },
+  {
+   "id": "prepositions.ku",
+   "rank": 26,
+   "pl": "ku",
+   "pos": "preposition",
+   "governs": [
+    "dative"
+   ],
+   "translations": {
+    "en": "towards",
+    "ar": "نحو"
+   }
+  },
+  {
+   "id": "prepositions.przez",
+   "rank": 27,
+   "pl": "przez",
+   "pos": "preposition",
+   "governs": [
+    "accusative"
+   ],
+   "translations": {
+    "en": "through, across, for (time)",
+    "ar": "عبر، خلال"
+   }
+  },
+  {
+   "id": "prepositions.mimo",
+   "rank": 28,
+   "pl": "mimo",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "despite",
+    "ar": "رغم"
+   }
+  },
+  {
+   "id": "prepositions.zamiast",
+   "rank": 29,
+   "pl": "zamiast",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "instead of",
+    "ar": "بدلا من"
+   }
+  },
+  {
+   "id": "prepositions.oprocz",
+   "rank": 30,
+   "pl": "oprócz",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "apart from, besides",
+    "ar": "ما عدا"
+   }
+  },
+  {
+   "id": "prepositions.z-powodu",
+   "rank": 31,
+   "pl": "z powodu",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "because of",
+    "ar": "بسبب"
+   }
+  },
+  {
+   "id": "prepositions.naprzeciwko",
+   "rank": 32,
+   "pl": "naprzeciwko",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "opposite",
+    "ar": "مقابل"
+   }
+  },
+  {
+   "id": "prepositions.wokol",
+   "rank": 33,
+   "pl": "wokół",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "around",
+    "ar": "حول"
+   }
+  },
+  {
+   "id": "prepositions.dookola",
+   "rank": 34,
+   "pl": "dookoła",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "around",
+    "ar": "حول"
+   }
+  },
+  {
+   "id": "prepositions.wzdluz",
+   "rank": 35,
+   "pl": "wzdłuż",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "along",
+    "ar": "على طول"
+   }
+  },
+  {
+   "id": "prepositions.spod",
+   "rank": 36,
+   "pl": "spod",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "from under",
+    "ar": "من تحت"
+   }
+  },
+  {
+   "id": "prepositions.zza",
+   "rank": 37,
+   "pl": "zza",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "from behind",
+    "ar": "من خلف"
+   }
+  },
+  {
+   "id": "prepositions.sprzed",
+   "rank": 38,
+   "pl": "sprzed",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "from before, from in front of",
+    "ar": "من أمام، من قبل"
+   }
+  },
+  {
+   "id": "prepositions.poza",
+   "rank": 39,
+   "pl": "poza",
+   "pos": "preposition",
+   "governs": [
+    "instrumental",
+    "accusative"
+   ],
+   "translations": {
+    "en": "outside, beyond",
+    "ar": "خارج"
+   }
+  },
+  {
+   "id": "prepositions.ponad",
+   "rank": 40,
+   "pl": "ponad",
+   "pos": "preposition",
+   "governs": [
+    "instrumental",
+    "accusative"
+   ],
+   "translations": {
+    "en": "above, over, more than",
+    "ar": "فوق، أكثر من"
+   }
+  },
+  {
+   "id": "prepositions.w-czasie",
+   "rank": 41,
+   "pl": "w czasie",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "during",
+    "ar": "خلال"
+   }
+  },
+  {
+   "id": "prepositions.na-temat",
+   "rank": 42,
+   "pl": "na temat",
+   "pos": "preposition",
+   "governs": [
+    "genitive"
+   ],
+   "translations": {
+    "en": "on the subject of",
+    "ar": "حول موضوع"
+   }
+  }
+ ]
+}

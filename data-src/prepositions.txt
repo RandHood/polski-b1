@@ -1,0 +1,43 @@
+# Polish prepositions with the case they take. Format: polish|cases|english|arabic
+w|locative, accusative|in, on (days)|في
+na|locative, accusative|on, at, for|على
+z|instrumental, genitive|with; from, out of|مع؛ من
+do|genitive|to, into|إلى
+od|genitive|from, since|من، منذ
+o|locative, accusative|about; for|عن؛ من أجل
+po|locative, accusative|after, along; for (to fetch)|بعد، على طول؛ لإحضار
+przy|locative|by, next to|بجانب
+dla|genitive|for|لأجل
+bez|genitive|without|بدون
+u|genitive|at (someone's place)|عند
+za|instrumental, accusative|behind; for, in (time)|خلف؛ مقابل، بعد
+przed|instrumental|in front of, before|أمام، قبل
+nad|instrumental|above, over|فوق
+pod|instrumental, accusative|under|تحت
+między|instrumental|between|بين
+obok|genitive|next to|بجانب
+koło|genitive|near|قرب
+około|genitive|around, about|حوالي
+wśród|genitive|among|بين
+podczas|genitive|during|أثناء
+według|genitive|according to|وفقا لـ
+dzięki|dative|thanks to|بفضل
+przeciwko|dative|against|ضد
+wbrew|dative|contrary to|خلافا لـ
+ku|dative|towards|نحو
+przez|accusative|through, across, for (time)|عبر، خلال
+mimo|genitive|despite|رغم
+zamiast|genitive|instead of|بدلا من
+oprócz|genitive|apart from, besides|ما عدا
+z powodu|genitive|because of|بسبب
+naprzeciwko|genitive|opposite|مقابل
+wokół|genitive|around|حول
+dookoła|genitive|around|حول
+wzdłuż|genitive|along|على طول
+spod|genitive|from under|من تحت
+zza|genitive|from behind|من خلف
+sprzed|genitive|from before, from in front of|من أمام، من قبل
+poza|instrumental, accusative|outside, beyond|خارج
+ponad|instrumental, accusative|above, over, more than|فوق، أكثر من
+w czasie|genitive|during|خلال
+na temat|genitive|on the subject of|حول موضوع

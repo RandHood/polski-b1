@@ -1,0 +1,297 @@
+{
+ "schemaVersion": 1,
+ "category": "interrogatives",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "interrogatives.kto",
+   "rank": 1,
+   "pl": "kto",
+   "pos": "question word",
+   "translations": {
+    "en": "who",
+    "ar": "من"
+   }
+  },
+  {
+   "id": "interrogatives.co",
+   "rank": 2,
+   "pl": "co",
+   "pos": "question word",
+   "translations": {
+    "en": "what",
+    "ar": "ماذا"
+   }
+  },
+  {
+   "id": "interrogatives.gdzie",
+   "rank": 3,
+   "pl": "gdzie",
+   "pos": "question word",
+   "translations": {
+    "en": "where",
+    "ar": "أين"
+   }
+  },
+  {
+   "id": "interrogatives.kiedy",
+   "rank": 4,
+   "pl": "kiedy",
+   "pos": "question word",
+   "translations": {
+    "en": "when",
+    "ar": "متى"
+   }
+  },
+  {
+   "id": "interrogatives.dlaczego",
+   "rank": 5,
+   "pl": "dlaczego",
+   "pos": "question word",
+   "translations": {
+    "en": "why",
+    "ar": "لماذا"
+   }
+  },
+  {
+   "id": "interrogatives.czemu",
+   "rank": 6,
+   "pl": "czemu",
+   "pos": "question word",
+   "translations": {
+    "en": "why (informal)",
+    "ar": "لماذا"
+   }
+  },
+  {
+   "id": "interrogatives.jak",
+   "rank": 7,
+   "pl": "jak",
+   "pos": "question word",
+   "translations": {
+    "en": "how",
+    "ar": "كيف"
+   }
+  },
+  {
+   "id": "interrogatives.ile",
+   "rank": 8,
+   "pl": "ile",
+   "pos": "question word",
+   "translations": {
+    "en": "how much, how many",
+    "ar": "كم"
+   }
+  },
+  {
+   "id": "interrogatives.ktory",
+   "rank": 9,
+   "pl": "który",
+   "pos": "question word",
+   "translations": {
+    "en": "which",
+    "ar": "أي"
+   }
+  },
+  {
+   "id": "interrogatives.jaki",
+   "rank": 10,
+   "pl": "jaki",
+   "pos": "question word",
+   "translations": {
+    "en": "what kind of",
+    "ar": "أي نوع"
+   }
+  },
+  {
+   "id": "interrogatives.czyj",
+   "rank": 11,
+   "pl": "czyj",
+   "pos": "question word",
+   "translations": {
+    "en": "whose",
+    "ar": "لمن"
+   }
+  },
+  {
+   "id": "interrogatives.skad",
+   "rank": 12,
+   "pl": "skąd",
+   "pos": "question word",
+   "translations": {
+    "en": "where from",
+    "ar": "من أين"
+   }
+  },
+  {
+   "id": "interrogatives.dokad",
+   "rank": 13,
+   "pl": "dokąd",
+   "pos": "question word",
+   "translations": {
+    "en": "where to",
+    "ar": "إلى أين"
+   }
+  },
+  {
+   "id": "interrogatives.po-co",
+   "rank": 14,
+   "pl": "po co",
+   "pos": "question word",
+   "translations": {
+    "en": "what for",
+    "ar": "لأي غرض"
+   }
+  },
+  {
+   "id": "interrogatives.od-kiedy",
+   "rank": 15,
+   "pl": "od kiedy",
+   "pos": "question word",
+   "translations": {
+    "en": "since when",
+    "ar": "منذ متى"
+   }
+  },
+  {
+   "id": "interrogatives.do-kiedy",
+   "rank": 16,
+   "pl": "do kiedy",
+   "pos": "question word",
+   "translations": {
+    "en": "until when",
+    "ar": "حتى متى"
+   }
+  },
+  {
+   "id": "interrogatives.jak-dlugo",
+   "rank": 17,
+   "pl": "jak długo",
+   "pos": "question word",
+   "translations": {
+    "en": "how long",
+    "ar": "كم من الوقت"
+   }
+  },
+  {
+   "id": "interrogatives.jak-czesto",
+   "rank": 18,
+   "pl": "jak często",
+   "pos": "question word",
+   "translations": {
+    "en": "how often",
+    "ar": "كم مرة"
+   }
+  },
+  {
+   "id": "interrogatives.o-ktorej",
+   "rank": 19,
+   "pl": "o której",
+   "pos": "question word",
+   "translations": {
+    "en": "at what time",
+    "ar": "في أي ساعة"
+   }
+  },
+  {
+   "id": "interrogatives.ktora-godzina",
+   "rank": 20,
+   "pl": "która godzina",
+   "pos": "question word",
+   "translations": {
+    "en": "what time is it",
+    "ar": "كم الساعة"
+   }
+  },
+  {
+   "id": "interrogatives.ile-razy",
+   "rank": 21,
+   "pl": "ile razy",
+   "pos": "question word",
+   "translations": {
+    "en": "how many times",
+    "ar": "كم مرة"
+   }
+  },
+  {
+   "id": "interrogatives.z-kim",
+   "rank": 22,
+   "pl": "z kim",
+   "pos": "question word",
+   "translations": {
+    "en": "with whom",
+    "ar": "مع من"
+   }
+  },
+  {
+   "id": "interrogatives.o-czym",
+   "rank": 23,
+   "pl": "o czym",
+   "pos": "question word",
+   "translations": {
+    "en": "about what",
+    "ar": "عن ماذا"
+   }
+  },
+  {
+   "id": "interrogatives.o-kim",
+   "rank": 24,
+   "pl": "o kim",
+   "pos": "question word",
+   "translations": {
+    "en": "about whom",
+    "ar": "عن من"
+   }
+  },
+  {
+   "id": "interrogatives.komu",
+   "rank": 25,
+   "pl": "komu",
+   "pos": "question word",
+   "translations": {
+    "en": "to whom",
+    "ar": "لمن"
+   }
+  },
+  {
+   "id": "interrogatives.kogo",
+   "rank": 26,
+   "pl": "kogo",
+   "pos": "question word",
+   "translations": {
+    "en": "whom",
+    "ar": "من"
+   }
+  },
+  {
+   "id": "interrogatives.czym",
+   "rank": 27,
+   "pl": "czym",
+   "pos": "question word",
+   "translations": {
+    "en": "with what",
+    "ar": "بماذا"
+   }
+  },
+  {
+   "id": "interrogatives.czy",
+   "rank": 28,
+   "pl": "czy",
+   "pos": "question word",
+   "translations": {
+    "en": "(yes/no question word)",
+    "ar": "هل"
+   }
+  },
+  {
+   "id": "interrogatives.jakim-cudem",
+   "rank": 29,
+   "pl": "jakim cudem",
+   "pos": "question word",
+   "translations": {
+    "en": "how on earth",
+    "ar": "كيف بحق السماء"
+   }
+  }
+ ]
+}

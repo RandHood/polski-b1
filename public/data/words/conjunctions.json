@@ -1,0 +1,427 @@
+{
+ "schemaVersion": 1,
+ "category": "conjunctions",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "conjunctions.i",
+   "rank": 1,
+   "pl": "i",
+   "pos": "conjunction",
+   "translations": {
+    "en": "and",
+    "ar": "و"
+   }
+  },
+  {
+   "id": "conjunctions.a",
+   "rank": 2,
+   "pl": "a",
+   "pos": "conjunction",
+   "translations": {
+    "en": "and, whereas",
+    "ar": "و، بينما"
+   }
+  },
+  {
+   "id": "conjunctions.ale",
+   "rank": 3,
+   "pl": "ale",
+   "pos": "conjunction",
+   "translations": {
+    "en": "but",
+    "ar": "لكن"
+   }
+  },
+  {
+   "id": "conjunctions.lub",
+   "rank": 4,
+   "pl": "lub",
+   "pos": "conjunction",
+   "translations": {
+    "en": "or",
+    "ar": "أو"
+   }
+  },
+  {
+   "id": "conjunctions.albo",
+   "rank": 5,
+   "pl": "albo",
+   "pos": "conjunction",
+   "translations": {
+    "en": "or",
+    "ar": "أو"
+   }
+  },
+  {
+   "id": "conjunctions.czy",
+   "rank": 6,
+   "pl": "czy",
+   "pos": "conjunction",
+   "translations": {
+    "en": "or (in questions), whether",
+    "ar": "أم، هل"
+   }
+  },
+  {
+   "id": "conjunctions.ani",
+   "rank": 7,
+   "pl": "ani",
+   "pos": "conjunction",
+   "translations": {
+    "en": "nor",
+    "ar": "ولا"
+   }
+  },
+  {
+   "id": "conjunctions.oraz",
+   "rank": 8,
+   "pl": "oraz",
+   "pos": "conjunction",
+   "translations": {
+    "en": "and, as well as",
+    "ar": "و"
+   }
+  },
+  {
+   "id": "conjunctions.lecz",
+   "rank": 9,
+   "pl": "lecz",
+   "pos": "conjunction",
+   "translations": {
+    "en": "but",
+    "ar": "لكن"
+   }
+  },
+  {
+   "id": "conjunctions.jednak",
+   "rank": 10,
+   "pl": "jednak",
+   "pos": "conjunction",
+   "translations": {
+    "en": "however",
+    "ar": "ومع ذلك"
+   }
+  },
+  {
+   "id": "conjunctions.natomiast",
+   "rank": 11,
+   "pl": "natomiast",
+   "pos": "conjunction",
+   "translations": {
+    "en": "whereas",
+    "ar": "بينما"
+   }
+  },
+  {
+   "id": "conjunctions.wiec",
+   "rank": 12,
+   "pl": "więc",
+   "pos": "conjunction",
+   "translations": {
+    "en": "so",
+    "ar": "إذن"
+   }
+  },
+  {
+   "id": "conjunctions.zatem",
+   "rank": 13,
+   "pl": "zatem",
+   "pos": "conjunction",
+   "translations": {
+    "en": "therefore",
+    "ar": "لذلك"
+   }
+  },
+  {
+   "id": "conjunctions.dlatego-ze",
+   "rank": 14,
+   "pl": "dlatego że",
+   "pos": "conjunction",
+   "translations": {
+    "en": "because",
+    "ar": "لأن"
+   }
+  },
+  {
+   "id": "conjunctions.bo",
+   "rank": 15,
+   "pl": "bo",
+   "pos": "conjunction",
+   "translations": {
+    "en": "because",
+    "ar": "لأن"
+   }
+  },
+  {
+   "id": "conjunctions.poniewaz",
+   "rank": 16,
+   "pl": "ponieważ",
+   "pos": "conjunction",
+   "translations": {
+    "en": "because, since",
+    "ar": "لأن"
+   }
+  },
+  {
+   "id": "conjunctions.ze",
+   "rank": 17,
+   "pl": "że",
+   "pos": "conjunction",
+   "translations": {
+    "en": "that",
+    "ar": "أن"
+   }
+  },
+  {
+   "id": "conjunctions.zeby",
+   "rank": 18,
+   "pl": "żeby",
+   "pos": "conjunction",
+   "translations": {
+    "en": "in order to, so that",
+    "ar": "لكي"
+   }
+  },
+  {
+   "id": "conjunctions.aby",
+   "rank": 19,
+   "pl": "aby",
+   "pos": "conjunction",
+   "translations": {
+    "en": "in order to",
+    "ar": "لكي"
+   }
+  },
+  {
+   "id": "conjunctions.gdy",
+   "rank": 20,
+   "pl": "gdy",
+   "pos": "conjunction",
+   "translations": {
+    "en": "when",
+    "ar": "عندما"
+   }
+  },
+  {
+   "id": "conjunctions.kiedy",
+   "rank": 21,
+   "pl": "kiedy",
+   "pos": "conjunction",
+   "translations": {
+    "en": "when",
+    "ar": "عندما"
+   }
+  },
+  {
+   "id": "conjunctions.jesli",
+   "rank": 22,
+   "pl": "jeśli",
+   "pos": "conjunction",
+   "translations": {
+    "en": "if",
+    "ar": "إذا"
+   }
+  },
+  {
+   "id": "conjunctions.jezeli",
+   "rank": 23,
+   "pl": "jeżeli",
+   "pos": "conjunction",
+   "translations": {
+    "en": "if",
+    "ar": "إذا"
+   }
+  },
+  {
+   "id": "conjunctions.gdyby",
+   "rank": 24,
+   "pl": "gdyby",
+   "pos": "conjunction",
+   "translations": {
+    "en": "if (hypothetical)",
+    "ar": "لو"
+   }
+  },
+  {
+   "id": "conjunctions.chociaz",
+   "rank": 25,
+   "pl": "chociaż",
+   "pos": "conjunction",
+   "translations": {
+    "en": "although",
+    "ar": "رغم أن"
+   }
+  },
+  {
+   "id": "conjunctions.choc",
+   "rank": 26,
+   "pl": "choć",
+   "pos": "conjunction",
+   "translations": {
+    "en": "although",
+    "ar": "مع أن"
+   }
+  },
+  {
+   "id": "conjunctions.mimo-ze",
+   "rank": 27,
+   "pl": "mimo że",
+   "pos": "conjunction",
+   "translations": {
+    "en": "even though",
+    "ar": "على الرغم من أن"
+   }
+  },
+  {
+   "id": "conjunctions.zanim",
+   "rank": 28,
+   "pl": "zanim",
+   "pos": "conjunction",
+   "translations": {
+    "en": "before",
+    "ar": "قبل أن"
+   }
+  },
+  {
+   "id": "conjunctions.dopoki",
+   "rank": 29,
+   "pl": "dopóki",
+   "pos": "conjunction",
+   "translations": {
+    "en": "as long as, until",
+    "ar": "طالما"
+   }
+  },
+  {
+   "id": "conjunctions.odkad",
+   "rank": 30,
+   "pl": "odkąd",
+   "pos": "conjunction",
+   "translations": {
+    "en": "since",
+    "ar": "منذ أن"
+   }
+  },
+  {
+   "id": "conjunctions.az",
+   "rank": 31,
+   "pl": "aż",
+   "pos": "conjunction",
+   "translations": {
+    "en": "until",
+    "ar": "حتى"
+   }
+  },
+  {
+   "id": "conjunctions.jak",
+   "rank": 32,
+   "pl": "jak",
+   "pos": "conjunction",
+   "translations": {
+    "en": "as, like, when",
+    "ar": "كما، عندما"
+   }
+  },
+  {
+   "id": "conjunctions.jakby",
+   "rank": 33,
+   "pl": "jakby",
+   "pos": "conjunction",
+   "translations": {
+    "en": "as if",
+    "ar": "كأن"
+   }
+  },
+  {
+   "id": "conjunctions.niz",
+   "rank": 34,
+   "pl": "niż",
+   "pos": "conjunction",
+   "translations": {
+    "en": "than",
+    "ar": "من (للمقارنة)"
+   }
+  },
+  {
+   "id": "conjunctions.czyli",
+   "rank": 35,
+   "pl": "czyli",
+   "pos": "conjunction",
+   "translations": {
+    "en": "that is, i.e.",
+    "ar": "أي"
+   }
+  },
+  {
+   "id": "conjunctions.to-znaczy",
+   "rank": 36,
+   "pl": "to znaczy",
+   "pos": "conjunction",
+   "translations": {
+    "en": "that means",
+    "ar": "يعني"
+   }
+  },
+  {
+   "id": "conjunctions.zarowno-jak-i",
+   "rank": 37,
+   "pl": "zarówno ... jak i",
+   "pos": "conjunction",
+   "translations": {
+    "en": "both ... and",
+    "ar": "كل من ... و"
+   }
+  },
+  {
+   "id": "conjunctions.nie-tylko-ale-tez",
+   "rank": 38,
+   "pl": "nie tylko ... ale też",
+   "pos": "conjunction",
+   "translations": {
+    "en": "not only ... but also",
+    "ar": "ليس فقط ... بل أيضا"
+   }
+  },
+  {
+   "id": "conjunctions.albo-albo",
+   "rank": 39,
+   "pl": "albo ... albo",
+   "pos": "conjunction",
+   "translations": {
+    "en": "either ... or",
+    "ar": "إما ... أو"
+   }
+  },
+  {
+   "id": "conjunctions.ani-ani",
+   "rank": 40,
+   "pl": "ani ... ani",
+   "pos": "conjunction",
+   "translations": {
+    "en": "neither ... nor",
+    "ar": "لا ... ولا"
+   }
+  },
+  {
+   "id": "conjunctions.skoro",
+   "rank": 41,
+   "pl": "skoro",
+   "pos": "conjunction",
+   "translations": {
+    "en": "since, given that",
+    "ar": "بما أن"
+   }
+  },
+  {
+   "id": "conjunctions.podczas-gdy",
+   "rank": 42,
+   "pl": "podczas gdy",
+   "pos": "conjunction",
+   "translations": {
+    "en": "while",
+    "ar": "بينما"
+   }
+  }
+ ]
+}

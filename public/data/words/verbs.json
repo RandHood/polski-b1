@@ -1,0 +1,3739 @@
+{
+ "schemaVersion": 1,
+ "category": "verbs",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "verbs.byc",
+   "rank": 1,
+   "pl": "być",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to be",
+    "ar": "يكون"
+   }
+  },
+  {
+   "id": "verbs.miec",
+   "rank": 2,
+   "pl": "mieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to have",
+    "ar": "يملك"
+   }
+  },
+  {
+   "id": "verbs.moc",
+   "rank": 3,
+   "pl": "móc",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "can, to be able",
+    "ar": "يستطيع"
+   }
+  },
+  {
+   "id": "verbs.chciec",
+   "rank": 4,
+   "pl": "chcieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to want",
+    "ar": "يريد"
+   }
+  },
+  {
+   "id": "verbs.musiec",
+   "rank": 5,
+   "pl": "musieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "must, to have to",
+    "ar": "يجب"
+   }
+  },
+  {
+   "id": "verbs.wiedziec",
+   "rank": 6,
+   "pl": "wiedzieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to know (a fact)",
+    "ar": "يعرف"
+   }
+  },
+  {
+   "id": "verbs.mowic",
+   "rank": 7,
+   "pl": "mówić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "powiedzieć",
+   "translations": {
+    "en": "to speak, to say",
+    "ar": "يتكلم، يقول"
+   }
+  },
+  {
+   "id": "verbs.powiedziec",
+   "rank": 8,
+   "pl": "powiedzieć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "mówić",
+   "translations": {
+    "en": "to say, to tell",
+    "ar": "يقول"
+   }
+  },
+  {
+   "id": "verbs.robic",
+   "rank": 9,
+   "pl": "robić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zrobić",
+   "translations": {
+    "en": "to do, to make",
+    "ar": "يفعل"
+   }
+  },
+  {
+   "id": "verbs.zrobic",
+   "rank": 10,
+   "pl": "zrobić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "robić",
+   "translations": {
+    "en": "to do, to make",
+    "ar": "يفعل"
+   }
+  },
+  {
+   "id": "verbs.isc",
+   "rank": 11,
+   "pl": "iść",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pójść",
+   "translations": {
+    "en": "to go (on foot)",
+    "ar": "يذهب"
+   }
+  },
+  {
+   "id": "verbs.pojsc",
+   "rank": 12,
+   "pl": "pójść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "iść",
+   "translations": {
+    "en": "to go (on foot)",
+    "ar": "يذهب"
+   }
+  },
+  {
+   "id": "verbs.chodzic",
+   "rank": 13,
+   "pl": "chodzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to walk, to go (regularly)",
+    "ar": "يمشي"
+   }
+  },
+  {
+   "id": "verbs.jechac",
+   "rank": 14,
+   "pl": "jechać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pojechać",
+   "translations": {
+    "en": "to go (by vehicle)",
+    "ar": "يسافر"
+   }
+  },
+  {
+   "id": "verbs.pojechac",
+   "rank": 15,
+   "pl": "pojechać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "jechać",
+   "translations": {
+    "en": "to go (by vehicle)",
+    "ar": "يسافر"
+   }
+  },
+  {
+   "id": "verbs.jezdzic",
+   "rank": 16,
+   "pl": "jeździć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to ride, to travel (regularly)",
+    "ar": "يركب، يسافر"
+   }
+  },
+  {
+   "id": "verbs.widziec",
+   "rank": 17,
+   "pl": "widzieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zobaczyć",
+   "translations": {
+    "en": "to see",
+    "ar": "يرى"
+   }
+  },
+  {
+   "id": "verbs.zobaczyc",
+   "rank": 18,
+   "pl": "zobaczyć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "widzieć",
+   "translations": {
+    "en": "to see",
+    "ar": "يرى"
+   }
+  },
+  {
+   "id": "verbs.patrzec",
+   "rank": 19,
+   "pl": "patrzeć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "popatrzeć",
+   "translations": {
+    "en": "to look",
+    "ar": "ينظر"
+   }
+  },
+  {
+   "id": "verbs.dac",
+   "rank": 20,
+   "pl": "dać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "dawać",
+   "translations": {
+    "en": "to give",
+    "ar": "يعطي"
+   }
+  },
+  {
+   "id": "verbs.dawac",
+   "rank": 21,
+   "pl": "dawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "dać",
+   "translations": {
+    "en": "to give",
+    "ar": "يعطي"
+   }
+  },
+  {
+   "id": "verbs.brac",
+   "rank": 22,
+   "pl": "brać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wziąć",
+   "translations": {
+    "en": "to take",
+    "ar": "يأخذ"
+   }
+  },
+  {
+   "id": "verbs.wziac",
+   "rank": 23,
+   "pl": "wziąć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "brać",
+   "translations": {
+    "en": "to take",
+    "ar": "يأخذ"
+   }
+  },
+  {
+   "id": "verbs.znac",
+   "rank": 24,
+   "pl": "znać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to know (someone, something)",
+    "ar": "يعرف"
+   }
+  },
+  {
+   "id": "verbs.myslec",
+   "rank": 25,
+   "pl": "myśleć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pomyśleć",
+   "translations": {
+    "en": "to think",
+    "ar": "يفكر"
+   }
+  },
+  {
+   "id": "verbs.zostac",
+   "rank": 26,
+   "pl": "zostać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zostawać",
+   "translations": {
+    "en": "to stay, to become",
+    "ar": "يبقى، يصبح"
+   }
+  },
+  {
+   "id": "verbs.stac",
+   "rank": 27,
+   "pl": "stać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to stand",
+    "ar": "يقف"
+   }
+  },
+  {
+   "id": "verbs.stac-sie",
+   "rank": 28,
+   "pl": "stać się",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "stawać się",
+   "translations": {
+    "en": "to become, to happen",
+    "ar": "يصبح"
+   }
+  },
+  {
+   "id": "verbs.siedziec",
+   "rank": 29,
+   "pl": "siedzieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to sit",
+    "ar": "يجلس"
+   }
+  },
+  {
+   "id": "verbs.lezec",
+   "rank": 30,
+   "pl": "leżeć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to lie",
+    "ar": "يستلقي"
+   }
+  },
+  {
+   "id": "verbs.zyc",
+   "rank": 31,
+   "pl": "żyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to live, to be alive",
+    "ar": "يعيش"
+   }
+  },
+  {
+   "id": "verbs.mieszkac",
+   "rank": 32,
+   "pl": "mieszkać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to live (reside)",
+    "ar": "يسكن"
+   }
+  },
+  {
+   "id": "verbs.pracowac",
+   "rank": 33,
+   "pl": "pracować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to work",
+    "ar": "يعمل"
+   }
+  },
+  {
+   "id": "verbs.uczyc-sie",
+   "rank": 34,
+   "pl": "uczyć się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "nauczyć się",
+   "translations": {
+    "en": "to learn, to study",
+    "ar": "يتعلم"
+   }
+  },
+  {
+   "id": "verbs.uczyc",
+   "rank": 35,
+   "pl": "uczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "nauczyć",
+   "translations": {
+    "en": "to teach",
+    "ar": "يعلم"
+   }
+  },
+  {
+   "id": "verbs.studiowac",
+   "rank": 36,
+   "pl": "studiować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to study (at university)",
+    "ar": "يدرس"
+   }
+  },
+  {
+   "id": "verbs.czytac",
+   "rank": 37,
+   "pl": "czytać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przeczytać",
+   "translations": {
+    "en": "to read",
+    "ar": "يقرأ"
+   }
+  },
+  {
+   "id": "verbs.przeczytac",
+   "rank": 38,
+   "pl": "przeczytać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "czytać",
+   "translations": {
+    "en": "to read",
+    "ar": "يقرأ"
+   }
+  },
+  {
+   "id": "verbs.pisac",
+   "rank": 39,
+   "pl": "pisać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "napisać",
+   "translations": {
+    "en": "to write",
+    "ar": "يكتب"
+   }
+  },
+  {
+   "id": "verbs.napisac",
+   "rank": 40,
+   "pl": "napisać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "pisać",
+   "translations": {
+    "en": "to write",
+    "ar": "يكتب"
+   }
+  },
+  {
+   "id": "verbs.sluchac",
+   "rank": 41,
+   "pl": "słuchać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "posłuchać",
+   "translations": {
+    "en": "to listen",
+    "ar": "يستمع"
+   }
+  },
+  {
+   "id": "verbs.slyszec",
+   "rank": 42,
+   "pl": "słyszeć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "usłyszeć",
+   "translations": {
+    "en": "to hear",
+    "ar": "يسمع"
+   }
+  },
+  {
+   "id": "verbs.uslyszec",
+   "rank": 43,
+   "pl": "usłyszeć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "słyszeć",
+   "translations": {
+    "en": "to hear",
+    "ar": "يسمع"
+   }
+  },
+  {
+   "id": "verbs.rozumiec",
+   "rank": 44,
+   "pl": "rozumieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zrozumieć",
+   "translations": {
+    "en": "to understand",
+    "ar": "يفهم"
+   }
+  },
+  {
+   "id": "verbs.zrozumiec",
+   "rank": 45,
+   "pl": "zrozumieć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "rozumieć",
+   "translations": {
+    "en": "to understand",
+    "ar": "يفهم"
+   }
+  },
+  {
+   "id": "verbs.pytac",
+   "rank": 46,
+   "pl": "pytać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zapytać",
+   "translations": {
+    "en": "to ask",
+    "ar": "يسأل"
+   }
+  },
+  {
+   "id": "verbs.zapytac",
+   "rank": 47,
+   "pl": "zapytać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "pytać",
+   "translations": {
+    "en": "to ask",
+    "ar": "يسأل"
+   }
+  },
+  {
+   "id": "verbs.odpowiadac",
+   "rank": 48,
+   "pl": "odpowiadać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "odpowiedzieć",
+   "translations": {
+    "en": "to answer",
+    "ar": "يجيب"
+   }
+  },
+  {
+   "id": "verbs.odpowiedziec",
+   "rank": 49,
+   "pl": "odpowiedzieć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "odpowiadać",
+   "translations": {
+    "en": "to answer",
+    "ar": "يجيب"
+   }
+  },
+  {
+   "id": "verbs.prosic",
+   "rank": 50,
+   "pl": "prosić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poprosić",
+   "translations": {
+    "en": "to ask for, to request",
+    "ar": "يطلب"
+   }
+  },
+  {
+   "id": "verbs.dziekowac",
+   "rank": 51,
+   "pl": "dziękować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "podziękować",
+   "translations": {
+    "en": "to thank",
+    "ar": "يشكر"
+   }
+  },
+  {
+   "id": "verbs.kochac",
+   "rank": 52,
+   "pl": "kochać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to love",
+    "ar": "يحب"
+   }
+  },
+  {
+   "id": "verbs.lubic",
+   "rank": 53,
+   "pl": "lubić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "polubić",
+   "translations": {
+    "en": "to like",
+    "ar": "يحب"
+   }
+  },
+  {
+   "id": "verbs.wolec",
+   "rank": 54,
+   "pl": "woleć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to prefer",
+    "ar": "يفضل"
+   }
+  },
+  {
+   "id": "verbs.podobac-sie",
+   "rank": 55,
+   "pl": "podobać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "spodobać się",
+   "translations": {
+    "en": "to be liked, to appeal",
+    "ar": "يعجب"
+   }
+  },
+  {
+   "id": "verbs.czuc",
+   "rank": 56,
+   "pl": "czuć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poczuć",
+   "translations": {
+    "en": "to feel",
+    "ar": "يشعر"
+   }
+  },
+  {
+   "id": "verbs.czuc-sie",
+   "rank": 57,
+   "pl": "czuć się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poczuć się",
+   "translations": {
+    "en": "to feel (well, ill)",
+    "ar": "يشعر"
+   }
+  },
+  {
+   "id": "verbs.bac-sie",
+   "rank": 58,
+   "pl": "bać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to be afraid",
+    "ar": "يخاف"
+   }
+  },
+  {
+   "id": "verbs.cieszyc-sie",
+   "rank": 59,
+   "pl": "cieszyć się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "ucieszyć się",
+   "translations": {
+    "en": "to be glad",
+    "ar": "يفرح"
+   }
+  },
+  {
+   "id": "verbs.martwic-sie",
+   "rank": 60,
+   "pl": "martwić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to worry",
+    "ar": "يقلق"
+   }
+  },
+  {
+   "id": "verbs.denerwowac-sie",
+   "rank": 61,
+   "pl": "denerwować się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zdenerwować się",
+   "translations": {
+    "en": "to be nervous, to get upset",
+    "ar": "يتوتر"
+   }
+  },
+  {
+   "id": "verbs.smiac-sie",
+   "rank": 62,
+   "pl": "śmiać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaśmiać się",
+   "translations": {
+    "en": "to laugh",
+    "ar": "يضحك"
+   }
+  },
+  {
+   "id": "verbs.plakac",
+   "rank": 63,
+   "pl": "płakać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zapłakać",
+   "translations": {
+    "en": "to cry",
+    "ar": "يبكي"
+   }
+  },
+  {
+   "id": "verbs.usmiechac-sie",
+   "rank": 64,
+   "pl": "uśmiechać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "uśmiechnąć się",
+   "translations": {
+    "en": "to smile",
+    "ar": "يبتسم"
+   }
+  },
+  {
+   "id": "verbs.jesc",
+   "rank": 65,
+   "pl": "jeść",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zjeść",
+   "translations": {
+    "en": "to eat",
+    "ar": "يأكل"
+   }
+  },
+  {
+   "id": "verbs.zjesc",
+   "rank": 66,
+   "pl": "zjeść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "jeść",
+   "translations": {
+    "en": "to eat",
+    "ar": "يأكل"
+   }
+  },
+  {
+   "id": "verbs.pic",
+   "rank": 67,
+   "pl": "pić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wypić",
+   "translations": {
+    "en": "to drink",
+    "ar": "يشرب"
+   }
+  },
+  {
+   "id": "verbs.wypic",
+   "rank": 68,
+   "pl": "wypić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "pić",
+   "translations": {
+    "en": "to drink",
+    "ar": "يشرب"
+   }
+  },
+  {
+   "id": "verbs.gotowac",
+   "rank": 69,
+   "pl": "gotować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "ugotować",
+   "translations": {
+    "en": "to cook",
+    "ar": "يطبخ"
+   }
+  },
+  {
+   "id": "verbs.spac",
+   "rank": 70,
+   "pl": "spać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to sleep",
+    "ar": "ينام"
+   }
+  },
+  {
+   "id": "verbs.zasypiac",
+   "rank": 71,
+   "pl": "zasypiać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zasnąć",
+   "translations": {
+    "en": "to fall asleep",
+    "ar": "يغفو"
+   }
+  },
+  {
+   "id": "verbs.budzic-sie",
+   "rank": 72,
+   "pl": "budzić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "obudzić się",
+   "translations": {
+    "en": "to wake up",
+    "ar": "يستيقظ"
+   }
+  },
+  {
+   "id": "verbs.wstawac",
+   "rank": 73,
+   "pl": "wstawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wstać",
+   "translations": {
+    "en": "to get up",
+    "ar": "ينهض"
+   }
+  },
+  {
+   "id": "verbs.wstac",
+   "rank": 74,
+   "pl": "wstać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wstawać",
+   "translations": {
+    "en": "to get up",
+    "ar": "ينهض"
+   }
+  },
+  {
+   "id": "verbs.myc",
+   "rank": 75,
+   "pl": "myć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "umyć",
+   "translations": {
+    "en": "to wash",
+    "ar": "يغسل"
+   }
+  },
+  {
+   "id": "verbs.ubierac-sie",
+   "rank": 76,
+   "pl": "ubierać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "ubrać się",
+   "translations": {
+    "en": "to get dressed",
+    "ar": "يرتدي ملابسه"
+   }
+  },
+  {
+   "id": "verbs.kupowac",
+   "rank": 77,
+   "pl": "kupować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "kupić",
+   "translations": {
+    "en": "to buy",
+    "ar": "يشتري"
+   }
+  },
+  {
+   "id": "verbs.kupic",
+   "rank": 78,
+   "pl": "kupić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "kupować",
+   "translations": {
+    "en": "to buy",
+    "ar": "يشتري"
+   }
+  },
+  {
+   "id": "verbs.sprzedawac",
+   "rank": 79,
+   "pl": "sprzedawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "sprzedać",
+   "translations": {
+    "en": "to sell",
+    "ar": "يبيع"
+   }
+  },
+  {
+   "id": "verbs.placic",
+   "rank": 80,
+   "pl": "płacić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zapłacić",
+   "translations": {
+    "en": "to pay",
+    "ar": "يدفع"
+   }
+  },
+  {
+   "id": "verbs.zaplacic",
+   "rank": 81,
+   "pl": "zapłacić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "płacić",
+   "translations": {
+    "en": "to pay",
+    "ar": "يدفع"
+   }
+  },
+  {
+   "id": "verbs.kosztowac",
+   "rank": 82,
+   "pl": "kosztować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to cost",
+    "ar": "يكلف"
+   }
+  },
+  {
+   "id": "verbs.wydawac",
+   "rank": 83,
+   "pl": "wydawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wydać",
+   "translations": {
+    "en": "to spend, to publish",
+    "ar": "ينفق، ينشر"
+   }
+  },
+  {
+   "id": "verbs.oszczedzac",
+   "rank": 84,
+   "pl": "oszczędzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "oszczędzić",
+   "translations": {
+    "en": "to save (money)",
+    "ar": "يدخر"
+   }
+  },
+  {
+   "id": "verbs.zarabiac",
+   "rank": 85,
+   "pl": "zarabiać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zarobić",
+   "translations": {
+    "en": "to earn",
+    "ar": "يكسب"
+   }
+  },
+  {
+   "id": "verbs.szukac",
+   "rank": 86,
+   "pl": "szukać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poszukać",
+   "translations": {
+    "en": "to look for",
+    "ar": "يبحث"
+   }
+  },
+  {
+   "id": "verbs.znalezc",
+   "rank": 87,
+   "pl": "znaleźć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "znajdować",
+   "translations": {
+    "en": "to find",
+    "ar": "يجد"
+   }
+  },
+  {
+   "id": "verbs.znajdowac",
+   "rank": 88,
+   "pl": "znajdować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "znaleźć",
+   "translations": {
+    "en": "to find",
+    "ar": "يجد"
+   }
+  },
+  {
+   "id": "verbs.tracic",
+   "rank": 89,
+   "pl": "tracić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "stracić",
+   "translations": {
+    "en": "to lose",
+    "ar": "يفقد"
+   }
+  },
+  {
+   "id": "verbs.zgubic",
+   "rank": 90,
+   "pl": "zgubić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "gubić",
+   "translations": {
+    "en": "to lose (an item)",
+    "ar": "يضيع"
+   }
+  },
+  {
+   "id": "verbs.otwierac",
+   "rank": 91,
+   "pl": "otwierać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "otworzyć",
+   "translations": {
+    "en": "to open",
+    "ar": "يفتح"
+   }
+  },
+  {
+   "id": "verbs.otworzyc",
+   "rank": 92,
+   "pl": "otworzyć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "otwierać",
+   "translations": {
+    "en": "to open",
+    "ar": "يفتح"
+   }
+  },
+  {
+   "id": "verbs.zamykac",
+   "rank": 93,
+   "pl": "zamykać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zamknąć",
+   "translations": {
+    "en": "to close",
+    "ar": "يغلق"
+   }
+  },
+  {
+   "id": "verbs.zamknac",
+   "rank": 94,
+   "pl": "zamknąć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zamykać",
+   "translations": {
+    "en": "to close",
+    "ar": "يغلق"
+   }
+  },
+  {
+   "id": "verbs.zaczynac",
+   "rank": 95,
+   "pl": "zaczynać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zacząć",
+   "translations": {
+    "en": "to begin",
+    "ar": "يبدأ"
+   }
+  },
+  {
+   "id": "verbs.zaczac",
+   "rank": 96,
+   "pl": "zacząć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zaczynać",
+   "translations": {
+    "en": "to begin",
+    "ar": "يبدأ"
+   }
+  },
+  {
+   "id": "verbs.konczyc",
+   "rank": 97,
+   "pl": "kończyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "skończyć",
+   "translations": {
+    "en": "to finish",
+    "ar": "ينهي"
+   }
+  },
+  {
+   "id": "verbs.skonczyc",
+   "rank": 98,
+   "pl": "skończyć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "kończyć",
+   "translations": {
+    "en": "to finish",
+    "ar": "ينهي"
+   }
+  },
+  {
+   "id": "verbs.przychodzic",
+   "rank": 99,
+   "pl": "przychodzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przyjść",
+   "translations": {
+    "en": "to come (on foot)",
+    "ar": "يأتي"
+   }
+  },
+  {
+   "id": "verbs.przyjsc",
+   "rank": 100,
+   "pl": "przyjść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "przychodzić",
+   "translations": {
+    "en": "to come (on foot)",
+    "ar": "يأتي"
+   }
+  },
+  {
+   "id": "verbs.przyjezdzac",
+   "rank": 101,
+   "pl": "przyjeżdżać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przyjechać",
+   "translations": {
+    "en": "to arrive (by vehicle)",
+    "ar": "يصل"
+   }
+  },
+  {
+   "id": "verbs.przyjechac",
+   "rank": 102,
+   "pl": "przyjechać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "przyjeżdżać",
+   "translations": {
+    "en": "to arrive (by vehicle)",
+    "ar": "يصل"
+   }
+  },
+  {
+   "id": "verbs.wychodzic",
+   "rank": 103,
+   "pl": "wychodzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyjść",
+   "translations": {
+    "en": "to go out, to leave",
+    "ar": "يخرج"
+   }
+  },
+  {
+   "id": "verbs.wyjsc",
+   "rank": 104,
+   "pl": "wyjść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wychodzić",
+   "translations": {
+    "en": "to go out, to leave",
+    "ar": "يخرج"
+   }
+  },
+  {
+   "id": "verbs.wyjezdzac",
+   "rank": 105,
+   "pl": "wyjeżdżać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyjechać",
+   "translations": {
+    "en": "to leave (by vehicle)",
+    "ar": "يغادر"
+   }
+  },
+  {
+   "id": "verbs.wchodzic",
+   "rank": 106,
+   "pl": "wchodzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wejść",
+   "translations": {
+    "en": "to enter",
+    "ar": "يدخل"
+   }
+  },
+  {
+   "id": "verbs.wejsc",
+   "rank": 107,
+   "pl": "wejść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wchodzić",
+   "translations": {
+    "en": "to enter",
+    "ar": "يدخل"
+   }
+  },
+  {
+   "id": "verbs.wracac",
+   "rank": 108,
+   "pl": "wracać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wrócić",
+   "translations": {
+    "en": "to return",
+    "ar": "يعود"
+   }
+  },
+  {
+   "id": "verbs.wrocic",
+   "rank": 109,
+   "pl": "wrócić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wracać",
+   "translations": {
+    "en": "to return",
+    "ar": "يعود"
+   }
+  },
+  {
+   "id": "verbs.leciec",
+   "rank": 110,
+   "pl": "lecieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "polecieć",
+   "translations": {
+    "en": "to fly",
+    "ar": "يطير"
+   }
+  },
+  {
+   "id": "verbs.latac",
+   "rank": 111,
+   "pl": "latać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to fly (regularly)",
+    "ar": "يطير"
+   }
+  },
+  {
+   "id": "verbs.biegac",
+   "rank": 112,
+   "pl": "biegać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to run (regularly)",
+    "ar": "يركض"
+   }
+  },
+  {
+   "id": "verbs.biec",
+   "rank": 113,
+   "pl": "biec",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pobiec",
+   "translations": {
+    "en": "to run",
+    "ar": "يركض"
+   }
+  },
+  {
+   "id": "verbs.plywac",
+   "rank": 114,
+   "pl": "pływać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to swim",
+    "ar": "يسبح"
+   }
+  },
+  {
+   "id": "verbs.tanczyc",
+   "rank": 115,
+   "pl": "tańczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zatańczyć",
+   "translations": {
+    "en": "to dance",
+    "ar": "يرقص"
+   }
+  },
+  {
+   "id": "verbs.spiewac",
+   "rank": 116,
+   "pl": "śpiewać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaśpiewać",
+   "translations": {
+    "en": "to sing",
+    "ar": "يغني"
+   }
+  },
+  {
+   "id": "verbs.grac",
+   "rank": 117,
+   "pl": "grać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zagrać",
+   "translations": {
+    "en": "to play",
+    "ar": "يلعب"
+   }
+  },
+  {
+   "id": "verbs.bawic-sie",
+   "rank": 118,
+   "pl": "bawić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pobawić się",
+   "translations": {
+    "en": "to play, to have fun",
+    "ar": "يلعب، يستمتع"
+   }
+  },
+  {
+   "id": "verbs.odpoczywac",
+   "rank": 119,
+   "pl": "odpoczywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "odpocząć",
+   "translations": {
+    "en": "to rest",
+    "ar": "يرتاح"
+   }
+  },
+  {
+   "id": "verbs.podrozowac",
+   "rank": 120,
+   "pl": "podróżować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to travel",
+    "ar": "يسافر"
+   }
+  },
+  {
+   "id": "verbs.zwiedzac",
+   "rank": 121,
+   "pl": "zwiedzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zwiedzić",
+   "translations": {
+    "en": "to sightsee, to visit",
+    "ar": "يزور"
+   }
+  },
+  {
+   "id": "verbs.odwiedzac",
+   "rank": 122,
+   "pl": "odwiedzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "odwiedzić",
+   "translations": {
+    "en": "to visit (someone)",
+    "ar": "يزور"
+   }
+  },
+  {
+   "id": "verbs.spotykac",
+   "rank": 123,
+   "pl": "spotykać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "spotkać",
+   "translations": {
+    "en": "to meet",
+    "ar": "يقابل"
+   }
+  },
+  {
+   "id": "verbs.spotkac-sie",
+   "rank": 124,
+   "pl": "spotkać się",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "spotykać się",
+   "translations": {
+    "en": "to meet up",
+    "ar": "يلتقي"
+   }
+  },
+  {
+   "id": "verbs.poznac",
+   "rank": 125,
+   "pl": "poznać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "poznawać",
+   "translations": {
+    "en": "to get to know, to meet",
+    "ar": "يتعرف على"
+   }
+  },
+  {
+   "id": "verbs.czekac",
+   "rank": 126,
+   "pl": "czekać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poczekać",
+   "translations": {
+    "en": "to wait",
+    "ar": "ينتظر"
+   }
+  },
+  {
+   "id": "verbs.dzwonic",
+   "rank": 127,
+   "pl": "dzwonić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zadzwonić",
+   "translations": {
+    "en": "to call, to ring",
+    "ar": "يتصل"
+   }
+  },
+  {
+   "id": "verbs.zadzwonic",
+   "rank": 128,
+   "pl": "zadzwonić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "dzwonić",
+   "translations": {
+    "en": "to call, to ring",
+    "ar": "يتصل"
+   }
+  },
+  {
+   "id": "verbs.wysylac",
+   "rank": 129,
+   "pl": "wysyłać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wysłać",
+   "translations": {
+    "en": "to send",
+    "ar": "يرسل"
+   }
+  },
+  {
+   "id": "verbs.wyslac",
+   "rank": 130,
+   "pl": "wysłać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wysyłać",
+   "translations": {
+    "en": "to send",
+    "ar": "يرسل"
+   }
+  },
+  {
+   "id": "verbs.dostawac",
+   "rank": 131,
+   "pl": "dostawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "dostać",
+   "translations": {
+    "en": "to receive, to get",
+    "ar": "يحصل على"
+   }
+  },
+  {
+   "id": "verbs.dostac",
+   "rank": 132,
+   "pl": "dostać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "dostawać",
+   "translations": {
+    "en": "to receive, to get",
+    "ar": "يحصل على"
+   }
+  },
+  {
+   "id": "verbs.otrzymac",
+   "rank": 133,
+   "pl": "otrzymać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "otrzymywać",
+   "translations": {
+    "en": "to receive",
+    "ar": "يتلقى"
+   }
+  },
+  {
+   "id": "verbs.przynosic",
+   "rank": 134,
+   "pl": "przynosić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przynieść",
+   "translations": {
+    "en": "to bring",
+    "ar": "يحضر"
+   }
+  },
+  {
+   "id": "verbs.przyniesc",
+   "rank": 135,
+   "pl": "przynieść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "przynosić",
+   "translations": {
+    "en": "to bring",
+    "ar": "يحضر"
+   }
+  },
+  {
+   "id": "verbs.nosic",
+   "rank": 136,
+   "pl": "nosić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to carry, to wear",
+    "ar": "يحمل، يرتدي"
+   }
+  },
+  {
+   "id": "verbs.niesc",
+   "rank": 137,
+   "pl": "nieść",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zanieść",
+   "translations": {
+    "en": "to carry",
+    "ar": "يحمل"
+   }
+  },
+  {
+   "id": "verbs.klasc",
+   "rank": 138,
+   "pl": "kłaść",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "położyć",
+   "translations": {
+    "en": "to put (lay down)",
+    "ar": "يضع"
+   }
+  },
+  {
+   "id": "verbs.polozyc",
+   "rank": 139,
+   "pl": "położyć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "kłaść",
+   "translations": {
+    "en": "to put (lay down)",
+    "ar": "يضع"
+   }
+  },
+  {
+   "id": "verbs.stawiac",
+   "rank": 140,
+   "pl": "stawiać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "postawić",
+   "translations": {
+    "en": "to put (upright)",
+    "ar": "يضع"
+   }
+  },
+  {
+   "id": "verbs.wkladac",
+   "rank": 141,
+   "pl": "wkładać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "włożyć",
+   "translations": {
+    "en": "to put in, to put on",
+    "ar": "يدخل، يلبس"
+   }
+  },
+  {
+   "id": "verbs.trzymac",
+   "rank": 142,
+   "pl": "trzymać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to hold",
+    "ar": "يمسك"
+   }
+  },
+  {
+   "id": "verbs.rzucac",
+   "rank": 143,
+   "pl": "rzucać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "rzucić",
+   "translations": {
+    "en": "to throw, to quit",
+    "ar": "يرمي، يترك"
+   }
+  },
+  {
+   "id": "verbs.lapac",
+   "rank": 144,
+   "pl": "łapać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "złapać",
+   "translations": {
+    "en": "to catch",
+    "ar": "يمسك"
+   }
+  },
+  {
+   "id": "verbs.pomagac",
+   "rank": 145,
+   "pl": "pomagać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pomóc",
+   "translations": {
+    "en": "to help",
+    "ar": "يساعد"
+   }
+  },
+  {
+   "id": "verbs.pomoc",
+   "rank": 146,
+   "pl": "pomóc",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "pomagać",
+   "translations": {
+    "en": "to help",
+    "ar": "يساعد"
+   }
+  },
+  {
+   "id": "verbs.potrzebowac",
+   "rank": 147,
+   "pl": "potrzebować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to need",
+    "ar": "يحتاج"
+   }
+  },
+  {
+   "id": "verbs.uzywac",
+   "rank": 148,
+   "pl": "używać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "użyć",
+   "translations": {
+    "en": "to use",
+    "ar": "يستخدم"
+   }
+  },
+  {
+   "id": "verbs.korzystac",
+   "rank": 149,
+   "pl": "korzystać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "skorzystać",
+   "translations": {
+    "en": "to use, to benefit",
+    "ar": "يستفيد"
+   }
+  },
+  {
+   "id": "verbs.probowac",
+   "rank": 150,
+   "pl": "próbować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "spróbować",
+   "translations": {
+    "en": "to try",
+    "ar": "يحاول"
+   }
+  },
+  {
+   "id": "verbs.starac-sie",
+   "rank": 151,
+   "pl": "starać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "postarać się",
+   "translations": {
+    "en": "to try hard",
+    "ar": "يسعى"
+   }
+  },
+  {
+   "id": "verbs.udawac-sie",
+   "rank": 152,
+   "pl": "udawać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "udać się",
+   "translations": {
+    "en": "to succeed, to go",
+    "ar": "ينجح"
+   }
+  },
+  {
+   "id": "verbs.zdawac",
+   "rank": 153,
+   "pl": "zdawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zdać",
+   "translations": {
+    "en": "to take (an exam); to pass",
+    "ar": "يتقدم لامتحان؛ ينجح"
+   }
+  },
+  {
+   "id": "verbs.zdac",
+   "rank": 154,
+   "pl": "zdać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zdawać",
+   "translations": {
+    "en": "to pass (an exam)",
+    "ar": "ينجح"
+   }
+  },
+  {
+   "id": "verbs.oblac",
+   "rank": 155,
+   "pl": "oblać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "oblewać",
+   "translations": {
+    "en": "to fail (an exam)",
+    "ar": "يرسب"
+   }
+  },
+  {
+   "id": "verbs.powtarzac",
+   "rank": 156,
+   "pl": "powtarzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "powtórzyć",
+   "translations": {
+    "en": "to repeat, to revise",
+    "ar": "يكرر، يراجع"
+   }
+  },
+  {
+   "id": "verbs.cwiczyc",
+   "rank": 157,
+   "pl": "ćwiczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poćwiczyć",
+   "translations": {
+    "en": "to practise, to exercise",
+    "ar": "يتمرن"
+   }
+  },
+  {
+   "id": "verbs.tlumaczyc",
+   "rank": 158,
+   "pl": "tłumaczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przetłumaczyć",
+   "translations": {
+    "en": "to translate, to explain",
+    "ar": "يترجم، يشرح"
+   }
+  },
+  {
+   "id": "verbs.wyjasniac",
+   "rank": 159,
+   "pl": "wyjaśniać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyjaśnić",
+   "translations": {
+    "en": "to explain",
+    "ar": "يوضح"
+   }
+  },
+  {
+   "id": "verbs.opowiadac",
+   "rank": 160,
+   "pl": "opowiadać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "opowiedzieć",
+   "translations": {
+    "en": "to tell (a story)",
+    "ar": "يروي"
+   }
+  },
+  {
+   "id": "verbs.rozmawiac",
+   "rank": 161,
+   "pl": "rozmawiać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "porozmawiać",
+   "translations": {
+    "en": "to talk",
+    "ar": "يتحدث"
+   }
+  },
+  {
+   "id": "verbs.dyskutowac",
+   "rank": 162,
+   "pl": "dyskutować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przedyskutować",
+   "translations": {
+    "en": "to discuss",
+    "ar": "يناقش"
+   }
+  },
+  {
+   "id": "verbs.klocic-sie",
+   "rank": 163,
+   "pl": "kłócić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pokłócić się",
+   "translations": {
+    "en": "to quarrel",
+    "ar": "يتشاجر"
+   }
+  },
+  {
+   "id": "verbs.zgadzac-sie",
+   "rank": 164,
+   "pl": "zgadzać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zgodzić się",
+   "translations": {
+    "en": "to agree",
+    "ar": "يوافق"
+   }
+  },
+  {
+   "id": "verbs.zgodzic-sie",
+   "rank": 165,
+   "pl": "zgodzić się",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zgadzać się",
+   "translations": {
+    "en": "to agree",
+    "ar": "يوافق"
+   }
+  },
+  {
+   "id": "verbs.decydowac",
+   "rank": 166,
+   "pl": "decydować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zdecydować",
+   "translations": {
+    "en": "to decide",
+    "ar": "يقرر"
+   }
+  },
+  {
+   "id": "verbs.zdecydowac-sie",
+   "rank": 167,
+   "pl": "zdecydować się",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "decydować się",
+   "translations": {
+    "en": "to make up one's mind",
+    "ar": "يقرر"
+   }
+  },
+  {
+   "id": "verbs.wybierac",
+   "rank": 168,
+   "pl": "wybierać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wybrać",
+   "translations": {
+    "en": "to choose",
+    "ar": "يختار"
+   }
+  },
+  {
+   "id": "verbs.wybrac",
+   "rank": 169,
+   "pl": "wybrać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wybierać",
+   "translations": {
+    "en": "to choose",
+    "ar": "يختار"
+   }
+  },
+  {
+   "id": "verbs.planowac",
+   "rank": 170,
+   "pl": "planować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaplanować",
+   "translations": {
+    "en": "to plan",
+    "ar": "يخطط"
+   }
+  },
+  {
+   "id": "verbs.przygotowywac",
+   "rank": 171,
+   "pl": "przygotowywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przygotować",
+   "translations": {
+    "en": "to prepare",
+    "ar": "يحضر"
+   }
+  },
+  {
+   "id": "verbs.przygotowac",
+   "rank": 172,
+   "pl": "przygotować",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "przygotowywać",
+   "translations": {
+    "en": "to prepare",
+    "ar": "يحضر"
+   }
+  },
+  {
+   "id": "verbs.organizowac",
+   "rank": 173,
+   "pl": "organizować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zorganizować",
+   "translations": {
+    "en": "to organise",
+    "ar": "ينظم"
+   }
+  },
+  {
+   "id": "verbs.zapraszac",
+   "rank": 174,
+   "pl": "zapraszać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaprosić",
+   "translations": {
+    "en": "to invite",
+    "ar": "يدعو"
+   }
+  },
+  {
+   "id": "verbs.zaprosic",
+   "rank": 175,
+   "pl": "zaprosić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zapraszać",
+   "translations": {
+    "en": "to invite",
+    "ar": "يدعو"
+   }
+  },
+  {
+   "id": "verbs.obiecywac",
+   "rank": 176,
+   "pl": "obiecywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "obiecać",
+   "translations": {
+    "en": "to promise",
+    "ar": "يعد"
+   }
+  },
+  {
+   "id": "verbs.pamietac",
+   "rank": 177,
+   "pl": "pamiętać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zapamiętać",
+   "translations": {
+    "en": "to remember",
+    "ar": "يتذكر"
+   }
+  },
+  {
+   "id": "verbs.zapominac",
+   "rank": 178,
+   "pl": "zapominać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zapomnieć",
+   "translations": {
+    "en": "to forget",
+    "ar": "ينسى"
+   }
+  },
+  {
+   "id": "verbs.zapomniec",
+   "rank": 179,
+   "pl": "zapomnieć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zapominać",
+   "translations": {
+    "en": "to forget",
+    "ar": "ينسى"
+   }
+  },
+  {
+   "id": "verbs.przypominac",
+   "rank": 180,
+   "pl": "przypominać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przypomnieć",
+   "translations": {
+    "en": "to remind",
+    "ar": "يذكر"
+   }
+  },
+  {
+   "id": "verbs.wierzyc",
+   "rank": 181,
+   "pl": "wierzyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "uwierzyć",
+   "translations": {
+    "en": "to believe",
+    "ar": "يؤمن، يصدق"
+   }
+  },
+  {
+   "id": "verbs.miec-nadzieje",
+   "rank": 182,
+   "pl": "mieć nadzieję",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to hope",
+    "ar": "يأمل"
+   }
+  },
+  {
+   "id": "verbs.marzyc",
+   "rank": 183,
+   "pl": "marzyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to dream (wish)",
+    "ar": "يحلم"
+   }
+  },
+  {
+   "id": "verbs.snic",
+   "rank": 184,
+   "pl": "śnić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to dream (asleep)",
+    "ar": "يحلم"
+   }
+  },
+  {
+   "id": "verbs.uwazac",
+   "rank": 185,
+   "pl": "uważać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to consider, to be careful",
+    "ar": "يعتبر، ينتبه"
+   }
+  },
+  {
+   "id": "verbs.sadzic",
+   "rank": 186,
+   "pl": "sądzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to think, to judge",
+    "ar": "يظن"
+   }
+  },
+  {
+   "id": "verbs.wydawac-sie",
+   "rank": 187,
+   "pl": "wydawać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to seem",
+    "ar": "يبدو"
+   }
+  },
+  {
+   "id": "verbs.wygladac",
+   "rank": 188,
+   "pl": "wyglądać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to look (appear)",
+    "ar": "يبدو"
+   }
+  },
+  {
+   "id": "verbs.zmieniac",
+   "rank": 189,
+   "pl": "zmieniać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zmienić",
+   "translations": {
+    "en": "to change",
+    "ar": "يغير"
+   }
+  },
+  {
+   "id": "verbs.zmienic",
+   "rank": 190,
+   "pl": "zmienić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zmieniać",
+   "translations": {
+    "en": "to change",
+    "ar": "يغير"
+   }
+  },
+  {
+   "id": "verbs.rosnac",
+   "rank": 191,
+   "pl": "rosnąć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "urosnąć",
+   "translations": {
+    "en": "to grow",
+    "ar": "ينمو"
+   }
+  },
+  {
+   "id": "verbs.rozwijac-sie",
+   "rank": 192,
+   "pl": "rozwijać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "rozwinąć się",
+   "translations": {
+    "en": "to develop",
+    "ar": "يتطور"
+   }
+  },
+  {
+   "id": "verbs.budowac",
+   "rank": 193,
+   "pl": "budować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zbudować",
+   "translations": {
+    "en": "to build",
+    "ar": "يبني"
+   }
+  },
+  {
+   "id": "verbs.tworzyc",
+   "rank": 194,
+   "pl": "tworzyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "stworzyć",
+   "translations": {
+    "en": "to create",
+    "ar": "ينشئ"
+   }
+  },
+  {
+   "id": "verbs.niszczyc",
+   "rank": 195,
+   "pl": "niszczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zniszczyć",
+   "translations": {
+    "en": "to destroy",
+    "ar": "يدمر"
+   }
+  },
+  {
+   "id": "verbs.psuc-sie",
+   "rank": 196,
+   "pl": "psuć się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zepsuć się",
+   "translations": {
+    "en": "to break down",
+    "ar": "يتعطل"
+   }
+  },
+  {
+   "id": "verbs.naprawiac",
+   "rank": 197,
+   "pl": "naprawiać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "naprawić",
+   "translations": {
+    "en": "to repair",
+    "ar": "يصلح"
+   }
+  },
+  {
+   "id": "verbs.sprzatac",
+   "rank": 198,
+   "pl": "sprzątać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "posprzątać",
+   "translations": {
+    "en": "to clean up",
+    "ar": "ينظف"
+   }
+  },
+  {
+   "id": "verbs.prac",
+   "rank": 199,
+   "pl": "prać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyprać",
+   "translations": {
+    "en": "to do the laundry",
+    "ar": "يغسل الملابس"
+   }
+  },
+  {
+   "id": "verbs.prasowac",
+   "rank": 200,
+   "pl": "prasować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyprasować",
+   "translations": {
+    "en": "to iron",
+    "ar": "يكوي"
+   }
+  },
+  {
+   "id": "verbs.gotowac-sie",
+   "rank": 201,
+   "pl": "gotować się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "ugotować się",
+   "translations": {
+    "en": "to boil, to cook",
+    "ar": "يغلي"
+   }
+  },
+  {
+   "id": "verbs.piec",
+   "rank": 202,
+   "pl": "piec",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "upiec",
+   "translations": {
+    "en": "to bake",
+    "ar": "يخبز"
+   }
+  },
+  {
+   "id": "verbs.kroic",
+   "rank": 203,
+   "pl": "kroić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pokroić",
+   "translations": {
+    "en": "to cut, to slice",
+    "ar": "يقطع"
+   }
+  },
+  {
+   "id": "verbs.ciac",
+   "rank": 204,
+   "pl": "ciąć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przeciąć",
+   "translations": {
+    "en": "to cut",
+    "ar": "يقص"
+   }
+  },
+  {
+   "id": "verbs.rysowac",
+   "rank": 205,
+   "pl": "rysować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "narysować",
+   "translations": {
+    "en": "to draw",
+    "ar": "يرسم"
+   }
+  },
+  {
+   "id": "verbs.malowac",
+   "rank": 206,
+   "pl": "malować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "namalować",
+   "translations": {
+    "en": "to paint",
+    "ar": "يلون، يرسم"
+   }
+  },
+  {
+   "id": "verbs.fotografowac",
+   "rank": 207,
+   "pl": "fotografować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "sfotografować",
+   "translations": {
+    "en": "to photograph",
+    "ar": "يصور"
+   }
+  },
+  {
+   "id": "verbs.ogladac",
+   "rank": 208,
+   "pl": "oglądać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "obejrzeć",
+   "translations": {
+    "en": "to watch",
+    "ar": "يشاهد"
+   }
+  },
+  {
+   "id": "verbs.obejrzec",
+   "rank": 209,
+   "pl": "obejrzeć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "oglądać",
+   "translations": {
+    "en": "to watch",
+    "ar": "يشاهد"
+   }
+  },
+  {
+   "id": "verbs.pokazywac",
+   "rank": 210,
+   "pl": "pokazywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pokazać",
+   "translations": {
+    "en": "to show",
+    "ar": "يري"
+   }
+  },
+  {
+   "id": "verbs.pokazac",
+   "rank": 211,
+   "pl": "pokazać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "pokazywać",
+   "translations": {
+    "en": "to show",
+    "ar": "يري"
+   }
+  },
+  {
+   "id": "verbs.liczyc",
+   "rank": 212,
+   "pl": "liczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "policzyć",
+   "translations": {
+    "en": "to count",
+    "ar": "يعد"
+   }
+  },
+  {
+   "id": "verbs.mierzyc",
+   "rank": 213,
+   "pl": "mierzyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zmierzyć",
+   "translations": {
+    "en": "to measure",
+    "ar": "يقيس"
+   }
+  },
+  {
+   "id": "verbs.wazyc",
+   "rank": 214,
+   "pl": "ważyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zważyć",
+   "translations": {
+    "en": "to weigh",
+    "ar": "يزن"
+   }
+  },
+  {
+   "id": "verbs.sprawdzac",
+   "rank": 215,
+   "pl": "sprawdzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "sprawdzić",
+   "translations": {
+    "en": "to check",
+    "ar": "يتحقق"
+   }
+  },
+  {
+   "id": "verbs.sprawdzic",
+   "rank": 216,
+   "pl": "sprawdzić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "sprawdzać",
+   "translations": {
+    "en": "to check",
+    "ar": "يتحقق"
+   }
+  },
+  {
+   "id": "verbs.porownywac",
+   "rank": 217,
+   "pl": "porównywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "porównać",
+   "translations": {
+    "en": "to compare",
+    "ar": "يقارن"
+   }
+  },
+  {
+   "id": "verbs.badac",
+   "rank": 218,
+   "pl": "badać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zbadać",
+   "translations": {
+    "en": "to examine, to research",
+    "ar": "يفحص"
+   }
+  },
+  {
+   "id": "verbs.leczyc",
+   "rank": 219,
+   "pl": "leczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyleczyć",
+   "translations": {
+    "en": "to treat, to cure",
+    "ar": "يعالج"
+   }
+  },
+  {
+   "id": "verbs.chorowac",
+   "rank": 220,
+   "pl": "chorować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zachorować",
+   "translations": {
+    "en": "to be ill",
+    "ar": "يمرض"
+   }
+  },
+  {
+   "id": "verbs.bolec",
+   "rank": 221,
+   "pl": "boleć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaboleć",
+   "translations": {
+    "en": "to hurt",
+    "ar": "يؤلم"
+   }
+  },
+  {
+   "id": "verbs.umierac",
+   "rank": 222,
+   "pl": "umierać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "umrzeć",
+   "translations": {
+    "en": "to die",
+    "ar": "يموت"
+   }
+  },
+  {
+   "id": "verbs.umrzec",
+   "rank": 223,
+   "pl": "umrzeć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "umierać",
+   "translations": {
+    "en": "to die",
+    "ar": "يموت"
+   }
+  },
+  {
+   "id": "verbs.rodzic-sie",
+   "rank": 224,
+   "pl": "rodzić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "urodzić się",
+   "translations": {
+    "en": "to be born",
+    "ar": "يولد"
+   }
+  },
+  {
+   "id": "verbs.urodzic-sie",
+   "rank": 225,
+   "pl": "urodzić się",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "rodzić się",
+   "translations": {
+    "en": "to be born",
+    "ar": "يولد"
+   }
+  },
+  {
+   "id": "verbs.zenic-sie",
+   "rank": 226,
+   "pl": "żenić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "ożenić się",
+   "translations": {
+    "en": "to marry (of a man)",
+    "ar": "يتزوج"
+   }
+  },
+  {
+   "id": "verbs.wychodzic-za-maz",
+   "rank": 227,
+   "pl": "wychodzić za mąż",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyjść za mąż",
+   "translations": {
+    "en": "to marry (of a woman)",
+    "ar": "تتزوج"
+   }
+  },
+  {
+   "id": "verbs.rozwodzic-sie",
+   "rank": 228,
+   "pl": "rozwodzić się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "rozwieść się",
+   "translations": {
+    "en": "to divorce",
+    "ar": "يطلق"
+   }
+  },
+  {
+   "id": "verbs.wychowywac",
+   "rank": 229,
+   "pl": "wychowywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wychować",
+   "translations": {
+    "en": "to bring up",
+    "ar": "يربي"
+   }
+  },
+  {
+   "id": "verbs.opiekowac-sie",
+   "rank": 230,
+   "pl": "opiekować się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaopiekować się",
+   "translations": {
+    "en": "to look after",
+    "ar": "يعتني"
+   }
+  },
+  {
+   "id": "verbs.dbac",
+   "rank": 231,
+   "pl": "dbać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zadbać",
+   "translations": {
+    "en": "to take care of",
+    "ar": "يهتم"
+   }
+  },
+  {
+   "id": "verbs.chronic",
+   "rank": 232,
+   "pl": "chronić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "ochronić",
+   "translations": {
+    "en": "to protect",
+    "ar": "يحمي"
+   }
+  },
+  {
+   "id": "verbs.bronic",
+   "rank": 233,
+   "pl": "bronić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "obronić",
+   "translations": {
+    "en": "to defend",
+    "ar": "يدافع"
+   }
+  },
+  {
+   "id": "verbs.walczyc",
+   "rank": 234,
+   "pl": "walczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to fight",
+    "ar": "يقاتل"
+   }
+  },
+  {
+   "id": "verbs.wygrywac",
+   "rank": 235,
+   "pl": "wygrywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wygrać",
+   "translations": {
+    "en": "to win",
+    "ar": "يفوز"
+   }
+  },
+  {
+   "id": "verbs.wygrac",
+   "rank": 236,
+   "pl": "wygrać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "wygrywać",
+   "translations": {
+    "en": "to win",
+    "ar": "يفوز"
+   }
+  },
+  {
+   "id": "verbs.przegrywac",
+   "rank": 237,
+   "pl": "przegrywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przegrać",
+   "translations": {
+    "en": "to lose (a game)",
+    "ar": "يخسر"
+   }
+  },
+  {
+   "id": "verbs.przegrac",
+   "rank": 238,
+   "pl": "przegrać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "przegrywać",
+   "translations": {
+    "en": "to lose (a game)",
+    "ar": "يخسر"
+   }
+  },
+  {
+   "id": "verbs.rzadzic",
+   "rank": 239,
+   "pl": "rządzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to govern, to rule",
+    "ar": "يحكم"
+   }
+  },
+  {
+   "id": "verbs.glosowac",
+   "rank": 240,
+   "pl": "głosować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zagłosować",
+   "translations": {
+    "en": "to vote",
+    "ar": "يصوت"
+   }
+  },
+  {
+   "id": "verbs.wybierac-sie",
+   "rank": 241,
+   "pl": "wybierać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wybrać się",
+   "translations": {
+    "en": "to set off, to plan to go",
+    "ar": "ينوي الذهاب"
+   }
+  },
+  {
+   "id": "verbs.spieszyc-sie",
+   "rank": 242,
+   "pl": "spieszyć się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pośpieszyć się",
+   "translations": {
+    "en": "to hurry",
+    "ar": "يستعجل"
+   }
+  },
+  {
+   "id": "verbs.spozniac-sie",
+   "rank": 243,
+   "pl": "spóźniać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "spóźnić się",
+   "translations": {
+    "en": "to be late",
+    "ar": "يتأخر"
+   }
+  },
+  {
+   "id": "verbs.zdazyc",
+   "rank": 244,
+   "pl": "zdążyć",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "zdążać",
+   "translations": {
+    "en": "to make it in time",
+    "ar": "يلحق"
+   }
+  },
+  {
+   "id": "verbs.przeszkadzac",
+   "rank": 245,
+   "pl": "przeszkadzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przeszkodzić",
+   "translations": {
+    "en": "to disturb",
+    "ar": "يزعج"
+   }
+  },
+  {
+   "id": "verbs.pozwalac",
+   "rank": 246,
+   "pl": "pozwalać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pozwolić",
+   "translations": {
+    "en": "to allow",
+    "ar": "يسمح"
+   }
+  },
+  {
+   "id": "verbs.pozwolic",
+   "rank": 247,
+   "pl": "pozwolić",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "pozwalać",
+   "translations": {
+    "en": "to allow",
+    "ar": "يسمح"
+   }
+  },
+  {
+   "id": "verbs.zabraniac",
+   "rank": 248,
+   "pl": "zabraniać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zabronić",
+   "translations": {
+    "en": "to forbid",
+    "ar": "يمنع"
+   }
+  },
+  {
+   "id": "verbs.kazac",
+   "rank": 249,
+   "pl": "kazać",
+   "pos": "verb",
+   "aspect": "both",
+   "aspectPair": null,
+   "translations": {
+    "en": "to order, to tell (someone to)",
+    "ar": "يأمر"
+   }
+  },
+  {
+   "id": "verbs.radzic",
+   "rank": 250,
+   "pl": "radzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poradzić",
+   "translations": {
+    "en": "to advise",
+    "ar": "ينصح"
+   }
+  },
+  {
+   "id": "verbs.proponowac",
+   "rank": 251,
+   "pl": "proponować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaproponować",
+   "translations": {
+    "en": "to suggest",
+    "ar": "يقترح"
+   }
+  },
+  {
+   "id": "verbs.polecac",
+   "rank": 252,
+   "pl": "polecać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "polecić",
+   "translations": {
+    "en": "to recommend",
+    "ar": "يوصي"
+   }
+  },
+  {
+   "id": "verbs.przepraszac",
+   "rank": 253,
+   "pl": "przepraszać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przeprosić",
+   "translations": {
+    "en": "to apologise",
+    "ar": "يعتذر"
+   }
+  },
+  {
+   "id": "verbs.witac",
+   "rank": 254,
+   "pl": "witać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przywitać",
+   "translations": {
+    "en": "to greet",
+    "ar": "يرحب"
+   }
+  },
+  {
+   "id": "verbs.zegnac-sie",
+   "rank": 255,
+   "pl": "żegnać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pożegnać się",
+   "translations": {
+    "en": "to say goodbye",
+    "ar": "يودع"
+   }
+  },
+  {
+   "id": "verbs.calowac",
+   "rank": 256,
+   "pl": "całować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pocałować",
+   "translations": {
+    "en": "to kiss",
+    "ar": "يقبل"
+   }
+  },
+  {
+   "id": "verbs.przytulac",
+   "rank": 257,
+   "pl": "przytulać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przytulić",
+   "translations": {
+    "en": "to hug",
+    "ar": "يعانق"
+   }
+  },
+  {
+   "id": "verbs.dotykac",
+   "rank": 258,
+   "pl": "dotykać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "dotknąć",
+   "translations": {
+    "en": "to touch",
+    "ar": "يلمس"
+   }
+  },
+  {
+   "id": "verbs.ciagnac",
+   "rank": 259,
+   "pl": "ciągnąć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pociągnąć",
+   "translations": {
+    "en": "to pull",
+    "ar": "يسحب"
+   }
+  },
+  {
+   "id": "verbs.pchac",
+   "rank": 260,
+   "pl": "pchać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pchnąć",
+   "translations": {
+    "en": "to push",
+    "ar": "يدفع"
+   }
+  },
+  {
+   "id": "verbs.podnosic",
+   "rank": 261,
+   "pl": "podnosić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "podnieść",
+   "translations": {
+    "en": "to lift, to raise",
+    "ar": "يرفع"
+   }
+  },
+  {
+   "id": "verbs.spadac",
+   "rank": 262,
+   "pl": "spadać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "spaść",
+   "translations": {
+    "en": "to fall",
+    "ar": "يسقط"
+   }
+  },
+  {
+   "id": "verbs.upadac",
+   "rank": 263,
+   "pl": "upadać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "upaść",
+   "translations": {
+    "en": "to fall over",
+    "ar": "يقع"
+   }
+  },
+  {
+   "id": "verbs.siadac",
+   "rank": 264,
+   "pl": "siadać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "usiąść",
+   "translations": {
+    "en": "to sit down",
+    "ar": "يجلس"
+   }
+  },
+  {
+   "id": "verbs.usiasc",
+   "rank": 265,
+   "pl": "usiąść",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "siadać",
+   "translations": {
+    "en": "to sit down",
+    "ar": "يجلس"
+   }
+  },
+  {
+   "id": "verbs.klasc-sie",
+   "rank": 266,
+   "pl": "kłaść się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "położyć się",
+   "translations": {
+    "en": "to lie down",
+    "ar": "يستلقي"
+   }
+  },
+  {
+   "id": "verbs.skrecac",
+   "rank": 267,
+   "pl": "skręcać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "skręcić",
+   "translations": {
+    "en": "to turn",
+    "ar": "ينعطف"
+   }
+  },
+  {
+   "id": "verbs.przechodzic",
+   "rank": 268,
+   "pl": "przechodzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przejść",
+   "translations": {
+    "en": "to cross, to go through",
+    "ar": "يعبر"
+   }
+  },
+  {
+   "id": "verbs.mijac",
+   "rank": 269,
+   "pl": "mijać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "minąć",
+   "translations": {
+    "en": "to pass",
+    "ar": "يمر"
+   }
+  },
+  {
+   "id": "verbs.zatrzymywac-sie",
+   "rank": 270,
+   "pl": "zatrzymywać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zatrzymać się",
+   "translations": {
+    "en": "to stop",
+    "ar": "يتوقف"
+   }
+  },
+  {
+   "id": "verbs.parkowac",
+   "rank": 271,
+   "pl": "parkować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zaparkować",
+   "translations": {
+    "en": "to park",
+    "ar": "يركن"
+   }
+  },
+  {
+   "id": "verbs.prowadzic",
+   "rank": 272,
+   "pl": "prowadzić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "poprowadzić",
+   "translations": {
+    "en": "to lead, to drive",
+    "ar": "يقود"
+   }
+  },
+  {
+   "id": "verbs.kierowac",
+   "rank": 273,
+   "pl": "kierować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pokierować",
+   "translations": {
+    "en": "to manage, to steer",
+    "ar": "يدير"
+   }
+  },
+  {
+   "id": "verbs.zarzadzac",
+   "rank": 274,
+   "pl": "zarządzać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to manage",
+    "ar": "يدير"
+   }
+  },
+  {
+   "id": "verbs.rozpoczynac",
+   "rank": 275,
+   "pl": "rozpoczynać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "rozpocząć",
+   "translations": {
+    "en": "to start",
+    "ar": "يبدأ"
+   }
+  },
+  {
+   "id": "verbs.kontynuowac",
+   "rank": 276,
+   "pl": "kontynuować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to continue",
+    "ar": "يواصل"
+   }
+  },
+  {
+   "id": "verbs.przestawac",
+   "rank": 277,
+   "pl": "przestawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przestać",
+   "translations": {
+    "en": "to stop (doing)",
+    "ar": "يتوقف عن"
+   }
+  },
+  {
+   "id": "verbs.przestac",
+   "rank": 278,
+   "pl": "przestać",
+   "pos": "verb",
+   "aspect": "perfective",
+   "aspectPair": "przestawać",
+   "translations": {
+    "en": "to stop (doing)",
+    "ar": "يتوقف عن"
+   }
+  },
+  {
+   "id": "verbs.trwac",
+   "rank": 279,
+   "pl": "trwać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to last",
+    "ar": "يستمر"
+   }
+  },
+  {
+   "id": "verbs.dziac-sie",
+   "rank": 280,
+   "pl": "dziać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "stać się",
+   "translations": {
+    "en": "to happen",
+    "ar": "يحدث"
+   }
+  },
+  {
+   "id": "verbs.zdarzac-sie",
+   "rank": 281,
+   "pl": "zdarzać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zdarzyć się",
+   "translations": {
+    "en": "to happen, to occur",
+    "ar": "يحدث"
+   }
+  },
+  {
+   "id": "verbs.istniec",
+   "rank": 282,
+   "pl": "istnieć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to exist",
+    "ar": "يوجد"
+   }
+  },
+  {
+   "id": "verbs.brakowac",
+   "rank": 283,
+   "pl": "brakować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zabraknąć",
+   "translations": {
+    "en": "to be missing, to lack",
+    "ar": "ينقص"
+   }
+  },
+  {
+   "id": "verbs.nalezec",
+   "rank": 284,
+   "pl": "należeć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to belong",
+    "ar": "ينتمي"
+   }
+  },
+  {
+   "id": "verbs.zalezec",
+   "rank": 285,
+   "pl": "zależeć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to depend",
+    "ar": "يعتمد"
+   }
+  },
+  {
+   "id": "verbs.dotyczyc",
+   "rank": 286,
+   "pl": "dotyczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to concern",
+    "ar": "يتعلق"
+   }
+  },
+  {
+   "id": "verbs.oznaczac",
+   "rank": 287,
+   "pl": "oznaczać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to mean",
+    "ar": "يعني"
+   }
+  },
+  {
+   "id": "verbs.znaczyc",
+   "rank": 288,
+   "pl": "znaczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to mean",
+    "ar": "يعني"
+   }
+  },
+  {
+   "id": "verbs.nazywac-sie",
+   "rank": 289,
+   "pl": "nazywać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to be called",
+    "ar": "يسمى"
+   }
+  },
+  {
+   "id": "verbs.przedstawiac",
+   "rank": 290,
+   "pl": "przedstawiać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przedstawić",
+   "translations": {
+    "en": "to introduce, to present",
+    "ar": "يقدم"
+   }
+  },
+  {
+   "id": "verbs.reprezentowac",
+   "rank": 291,
+   "pl": "reprezentować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to represent",
+    "ar": "يمثل"
+   }
+  },
+  {
+   "id": "verbs.uczestniczyc",
+   "rank": 292,
+   "pl": "uczestniczyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": null,
+   "translations": {
+    "en": "to take part",
+    "ar": "يشارك"
+   }
+  },
+  {
+   "id": "verbs.brac-udzial",
+   "rank": 293,
+   "pl": "brać udział",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wziąć udział",
+   "translations": {
+    "en": "to take part",
+    "ar": "يشارك"
+   }
+  },
+  {
+   "id": "verbs.wspierac",
+   "rank": 294,
+   "pl": "wspierać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wesprzeć",
+   "translations": {
+    "en": "to support",
+    "ar": "يدعم"
+   }
+  },
+  {
+   "id": "verbs.dzielic",
+   "rank": 295,
+   "pl": "dzielić",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "podzielić",
+   "translations": {
+    "en": "to divide, to share",
+    "ar": "يقسم"
+   }
+  },
+  {
+   "id": "verbs.laczyc",
+   "rank": 296,
+   "pl": "łączyć",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "połączyć",
+   "translations": {
+    "en": "to connect",
+    "ar": "يربط"
+   }
+  },
+  {
+   "id": "verbs.dodawac",
+   "rank": 297,
+   "pl": "dodawać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "dodać",
+   "translations": {
+    "en": "to add",
+    "ar": "يضيف"
+   }
+  },
+  {
+   "id": "verbs.odejmowac",
+   "rank": 298,
+   "pl": "odejmować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "odjąć",
+   "translations": {
+    "en": "to subtract",
+    "ar": "يطرح"
+   }
+  },
+  {
+   "id": "verbs.wlaczac",
+   "rank": 299,
+   "pl": "włączać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "włączyć",
+   "translations": {
+    "en": "to switch on",
+    "ar": "يشغل"
+   }
+  },
+  {
+   "id": "verbs.wylaczac",
+   "rank": 300,
+   "pl": "wyłączać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wyłączyć",
+   "translations": {
+    "en": "to switch off",
+    "ar": "يطفئ"
+   }
+  },
+  {
+   "id": "verbs.ladowac",
+   "rank": 301,
+   "pl": "ładować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "naładować",
+   "translations": {
+    "en": "to charge, to load",
+    "ar": "يشحن"
+   }
+  },
+  {
+   "id": "verbs.drukowac",
+   "rank": 302,
+   "pl": "drukować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wydrukować",
+   "translations": {
+    "en": "to print",
+    "ar": "يطبع"
+   }
+  },
+  {
+   "id": "verbs.klikac",
+   "rank": 303,
+   "pl": "klikać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "kliknąć",
+   "translations": {
+    "en": "to click",
+    "ar": "ينقر"
+   }
+  },
+  {
+   "id": "verbs.pobierac",
+   "rank": 304,
+   "pl": "pobierać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "pobrać",
+   "translations": {
+    "en": "to download",
+    "ar": "يحمل"
+   }
+  },
+  {
+   "id": "verbs.logowac-sie",
+   "rank": 305,
+   "pl": "logować się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zalogować się",
+   "translations": {
+    "en": "to log in",
+    "ar": "يسجل الدخول"
+   }
+  },
+  {
+   "id": "verbs.rezerwowac",
+   "rank": 306,
+   "pl": "rezerwować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zarezerwować",
+   "translations": {
+    "en": "to book",
+    "ar": "يحجز"
+   }
+  },
+  {
+   "id": "verbs.wynajmowac",
+   "rank": 307,
+   "pl": "wynajmować",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wynająć",
+   "translations": {
+    "en": "to rent",
+    "ar": "يستأجر"
+   }
+  },
+  {
+   "id": "verbs.przeprowadzac-sie",
+   "rank": 308,
+   "pl": "przeprowadzać się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "przeprowadzić się",
+   "translations": {
+    "en": "to move house",
+    "ar": "ينتقل"
+   }
+  },
+  {
+   "id": "verbs.meldowac-sie",
+   "rank": 309,
+   "pl": "meldować się",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "zameldować się",
+   "translations": {
+    "en": "to register, to check in",
+    "ar": "يسجل"
+   }
+  },
+  {
+   "id": "verbs.wypelniac",
+   "rank": 310,
+   "pl": "wypełniać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "wypełnić",
+   "translations": {
+    "en": "to fill in",
+    "ar": "يملأ"
+   }
+  },
+  {
+   "id": "verbs.podpisywac",
+   "rank": 311,
+   "pl": "podpisywać",
+   "pos": "verb",
+   "aspect": "imperfective",
+   "aspectPair": "podpisać",
+   "translations": {
+    "en": "to sign",
+    "ar": "يوقع"
+   }
+  }
+ ]
+}

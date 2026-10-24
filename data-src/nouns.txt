@@ -1,0 +1,688 @@
+# Polish nouns, most frequent first. Format: polish|gender|english|arabic
+# gender: m (masculine), f (feminine), n (neuter), pl (plural only)
+rok|m|year|سنة
+czas|m|time|وقت
+człowiek|m|person, human|إنسان
+sprawa|f|matter, case|مسألة
+dzień|m|day|يوم
+ręka|f|hand|يد
+raz|m|time (occasion)|مرة
+praca|f|work, job|عمل
+życie|n|life|حياة
+oko|n|eye|عين
+miejsce|n|place|مكان
+dom|m|house, home|بيت
+świat|m|world|عالم
+pan|m|sir, Mr|سيد
+pani|f|madam, Mrs|سيدة
+kobieta|f|woman|امرأة
+dziecko|n|child|طفل
+głowa|f|head|رأس
+strona|f|side, page|جانب، صفحة
+słowo|n|word|كلمة
+kraj|m|country|بلد
+moment|m|moment|لحظة
+miasto|n|city, town|مدينة
+koniec|m|end|نهاية
+mężczyzna|m|man|رجل
+noc|f|night|ليل
+woda|f|water|ماء
+droga|f|road, way|طريق
+pieniądze|pl|money|مال
+rzecz|f|thing|شيء
+matka|f|mother|أم
+ojciec|m|father|أب
+przykład|m|example|مثال
+twarz|f|face|وجه
+problem|m|problem|مشكلة
+pytanie|n|question|سؤال
+firma|f|company|شركة
+szkoła|f|school|مدرسة
+rodzina|f|family|عائلة
+prawo|n|law, right|قانون، حق
+sposób|m|way, method|طريقة
+część|f|part|جزء
+system|m|system|نظام
+historia|f|history, story|تاريخ، قصة
+książka|f|book|كتاب
+państwo|n|state|دولة
+wojna|f|war|حرب
+głos|m|voice|صوت
+drzwi|pl|door|باب
+ziemia|f|earth, land|أرض
+pokój|m|room, peace|غرفة، سلام
+samochód|m|car|سيارة
+okno|n|window|نافذة
+syn|m|son|ابن
+córka|f|daughter|ابنة
+brat|m|brother|أخ
+siostra|f|sister|أخت
+mąż|m|husband|زوج
+żona|f|wife|زوجة
+przyjaciel|m|friend|صديق
+koleżanka|f|friend (female), colleague|زميلة
+kolega|m|friend, colleague|زميل
+ulica|f|street|شارع
+godzina|f|hour|ساعة
+minuta|f|minute|دقيقة
+tydzień|m|week|أسبوع
+miesiąc|m|month|شهر
+wieczór|m|evening|مساء
+rano|n|morning|صباح
+serce|n|heart|قلب
+myśl|f|thought|فكرة
+uwaga|f|attention|انتباه
+pomoc|f|help|مساعدة
+władza|f|power, authority|سلطة
+grupa|f|group|مجموعة
+rząd|m|government, row|حكومة
+partia|f|party (political)|حزب
+polityka|f|politics, policy|سياسة
+wynik|m|result|نتيجة
+cel|m|goal, aim|هدف
+temat|m|topic|موضوع
+powód|m|reason|سبب
+informacja|f|information|معلومة
+odpowiedź|f|answer|جواب
+decyzja|f|decision|قرار
+zmiana|f|change|تغيير
+rozmowa|f|conversation|محادثة
+telefon|m|phone|هاتف
+list|m|letter|رسالة
+język|m|language, tongue|لغة، لسان
+nauka|f|science, learning|علم
+nauczyciel|m|teacher|معلم
+uczeń|m|pupil, student|تلميذ
+student|m|student|طالب
+uniwersytet|m|university|جامعة
+lekcja|f|lesson|درس
+zadanie|n|task, exercise|مهمة، تمرين
+egzamin|m|exam|امتحان
+klasa|f|class|صف
+zdanie|n|sentence, opinion|جملة، رأي
+sytuacja|f|situation|وضع
+warunek|m|condition|شرط
+możliwość|f|possibility|إمكانية
+prawda|f|truth|حقيقة
+wiara|f|faith|إيمان
+bóg|m|god|إله
+kościół|m|church|كنيسة
+ciało|n|body|جسم
+noga|f|leg|ساق
+włosy|pl|hair|شعر
+usta|pl|mouth|فم
+nos|m|nose|أنف
+ucho|n|ear|أذن
+zdrowie|n|health|صحة
+choroba|f|illness|مرض
+lekarz|m|doctor|طبيب
+szpital|m|hospital|مستشفى
+lek|m|medicine|دواء
+apteka|f|pharmacy|صيدلية
+ból|m|pain|ألم
+jedzenie|n|food|طعام
+chleb|m|bread|خبز
+mleko|n|milk|حليب
+mięso|n|meat|لحم
+ryba|f|fish|سمكة
+ser|m|cheese|جبن
+jajko|n|egg|بيضة
+owoc|m|fruit|فاكهة
+warzywo|n|vegetable|خضار
+jabłko|n|apple|تفاحة
+ziemniak|m|potato|بطاطس
+zupa|f|soup|حساء
+kawa|f|coffee|قهوة
+herbata|f|tea|شاي
+piwo|n|beer|بيرة
+wino|n|wine|نبيذ
+sok|m|juice|عصير
+cukier|m|sugar|سكر
+sól|f|salt|ملح
+śniadanie|n|breakfast|فطور
+obiad|m|lunch, dinner|غداء
+kolacja|f|supper|عشاء
+restauracja|f|restaurant|مطعم
+sklep|m|shop|متجر
+cena|f|price|سعر
+złoty|m|zloty|زلوتي
+bank|m|bank|بنك
+konto|n|account|حساب
+karta|f|card|بطاقة
+rachunek|m|bill, account|فاتورة
+płaca|f|wage, pay|راتب
+koszt|m|cost|تكلفة
+podatek|m|tax|ضريبة
+rynek|m|market, square|سوق
+gospodarka|f|economy|اقتصاد
+przemysł|m|industry|صناعة
+usługa|f|service|خدمة
+klient|m|customer|زبون
+szef|m|boss|مدير
+biuro|n|office|مكتب
+spotkanie|n|meeting|اجتماع
+umowa|f|contract, agreement|عقد، اتفاق
+projekt|m|project|مشروع
+plan|m|plan|خطة
+program|m|programme|برنامج
+komputer|m|computer|حاسوب
+internet|m|internet|إنترنت
+wiadomość|f|message, news|رسالة، خبر
+gazeta|f|newspaper|صحيفة
+telewizja|f|television|تلفزيون
+film|m|film|فيلم
+muzyka|f|music|موسيقى
+piosenka|f|song|أغنية
+sztuka|f|art, play|فن، مسرحية
+teatr|m|theatre|مسرح
+kino|n|cinema|سينما
+kultura|f|culture|ثقافة
+sport|m|sport|رياضة
+piłka|f|ball|كرة
+mecz|m|match|مباراة
+gra|f|game|لعبة
+zabawa|f|fun, play|لعب، مرح
+wakacje|pl|holidays|عطلة
+urlop|m|leave, vacation|إجازة
+podróż|f|journey|رحلة
+wycieczka|f|trip, excursion|رحلة
+hotel|m|hotel|فندق
+pociąg|m|train|قطار
+dworzec|m|station|محطة
+autobus|m|bus|حافلة
+tramwaj|m|tram|ترام
+przystanek|m|stop (bus, tram)|موقف
+samolot|m|plane|طائرة
+lotnisko|n|airport|مطار
+bilet|m|ticket|تذكرة
+paszport|m|passport|جواز سفر
+granica|f|border|حدود
+mapa|f|map|خريطة
+kierunek|m|direction|اتجاه
+północ|f|north|شمال
+południe|n|south, noon|جنوب، ظهر
+wschód|m|east|شرق
+zachód|m|west|غرب
+morze|n|sea|بحر
+góra|f|mountain|جبل
+rzeka|f|river|نهر
+jezioro|n|lake|بحيرة
+las|m|forest|غابة
+drzewo|n|tree|شجرة
+kwiat|m|flower|زهرة
+pole|n|field|حقل
+wieś|f|village, countryside|قرية، ريف
+niebo|n|sky|سماء
+słońce|n|sun|شمس
+księżyc|m|moon|قمر
+gwiazda|f|star|نجمة
+deszcz|m|rain|مطر
+śnieg|m|snow|ثلج
+wiatr|m|wind|ريح
+pogoda|f|weather|طقس
+powietrze|n|air|هواء
+ogień|m|fire|نار
+światło|n|light|ضوء
+kolor|m|colour|لون
+zima|f|winter|شتاء
+wiosna|f|spring|ربيع
+lato|n|summer|صيف
+jesień|f|autumn|خريف
+pies|m|dog|كلب
+kot|m|cat|قطة
+koń|m|horse|حصان
+ptak|m|bird|طائر
+zwierzę|n|animal|حيوان
+mieszkanie|n|flat, apartment|شقة
+kuchnia|f|kitchen, cuisine|مطبخ
+łazienka|f|bathroom|حمام
+sypialnia|f|bedroom|غرفة نوم
+ściana|f|wall|جدار
+podłoga|f|floor|أرضية
+piętro|n|floor (storey)|طابق
+schody|pl|stairs|درج
+klucz|m|key|مفتاح
+stół|m|table|طاولة
+krzesło|n|chair|كرسي
+łóżko|n|bed|سرير
+szafa|f|wardrobe|خزانة
+lodówka|f|fridge|ثلاجة
+lustro|n|mirror|مرآة
+lampa|f|lamp|مصباح
+ogród|m|garden|حديقة
+ubranie|n|clothes|ملابس
+koszula|f|shirt|قميص
+spodnie|pl|trousers|بنطال
+sukienka|f|dress|فستان
+buty|pl|shoes|أحذية
+kurtka|f|jacket|سترة
+płaszcz|m|coat|معطف
+czapka|f|cap, hat|قبعة
+torba|f|bag|حقيبة
+chłopiec|m|boy|ولد
+dziewczyna|f|girl, girlfriend|فتاة
+dziewczynka|f|little girl|بنت صغيرة
+chłopak|m|boy, boyfriend|شاب
+babcia|f|grandmother|جدة
+dziadek|m|grandfather|جد
+wnuk|m|grandson|حفيد
+rodzice|pl|parents|والدان
+ludzie|pl|people|ناس
+osoba|f|person|شخص
+sąsiad|m|neighbour|جار
+gość|m|guest|ضيف
+pracownik|m|employee|موظف
+kierowca|m|driver|سائق
+policja|f|police|شرطة
+policjant|m|police officer|شرطي
+żołnierz|m|soldier|جندي
+wojsko|n|army|جيش
+pisarz|m|writer|كاتب
+artysta|m|artist|فنان
+aktor|m|actor|ممثل
+inżynier|m|engineer|مهندس
+prawnik|m|lawyer|محامي
+sprzedawca|m|shop assistant, seller|بائع
+kelner|m|waiter|نادل
+kucharz|m|cook|طباخ
+dyrektor|m|director, manager|مدير
+prezydent|m|president|رئيس
+minister|m|minister|وزير
+premier|m|prime minister|رئيس الوزراء
+poseł|m|member of parliament|نائب
+obywatel|m|citizen|مواطن
+naród|m|nation|أمة
+społeczeństwo|n|society|مجتمع
+mieszkaniec|m|resident|ساكن
+Polak|m|Pole (man)|بولندي
+Polska|f|Poland|بولندا
+Europa|f|Europe|أوروبا
+stolica|f|capital city|عاصمة
+wybory|pl|elections|انتخابات
+sąd|m|court|محكمة
+kara|f|punishment, fine|عقوبة
+wolność|f|freedom|حرية
+bezpieczeństwo|n|safety, security|أمن
+niebezpieczeństwo|n|danger|خطر
+miłość|f|love|حب
+przyjaźń|f|friendship|صداقة
+radość|f|joy|فرح
+szczęście|n|happiness, luck|سعادة، حظ
+strach|m|fear|خوف
+smutek|m|sadness|حزن
+złość|f|anger|غضب
+nadzieja|f|hope|أمل
+marzenie|n|dream (wish)|حلم
+sen|m|sleep, dream|نوم، حلم
+pamięć|f|memory|ذاكرة
+uczucie|n|feeling|شعور
+emocja|f|emotion|عاطفة
+charakter|m|character|شخصية
+zachowanie|n|behaviour|سلوك
+zwyczaj|m|custom|عادة
+tradycja|f|tradition|تقليد
+święto|n|holiday, feast|عيد
+Boże Narodzenie|n|Christmas|عيد الميلاد
+Wielkanoc|f|Easter|عيد الفصح
+urodziny|pl|birthday|عيد ميلاد
+ślub|m|wedding|زفاف
+prezent|m|gift|هدية
+impreza|f|party|حفلة
+koncert|m|concert|حفلة موسيقية
+wystawa|f|exhibition|معرض
+muzeum|n|museum|متحف
+zamek|m|castle, lock|قلعة، قفل
+pomnik|m|monument|نصب تذكاري
+budynek|m|building|مبنى
+most|m|bridge|جسر
+park|m|park|حديقة عامة
+plac|m|square|ساحة
+centrum|n|centre|مركز
+dzielnica|f|district|حي
+adres|m|address|عنوان
+poczta|f|post office, mail|بريد
+paczka|f|parcel|طرد
+koperta|f|envelope|ظرف
+znaczek|m|stamp|طابع
+urząd|m|office (public)|دائرة حكومية
+dokument|m|document|وثيقة
+dowód osobisty|m|ID card|بطاقة الهوية
+formularz|m|form|استمارة
+podpis|m|signature|توقيع
+nazwisko|n|surname|اسم العائلة
+imię|n|first name|اسم
+wiek|m|age, century|عمر، قرن
+data|f|date|تاريخ
+termin|m|deadline, appointment|موعد
+kalendarz|m|calendar|تقويم
+poniedziałek|m|Monday|الاثنين
+wtorek|m|Tuesday|الثلاثاء
+środa|f|Wednesday|الأربعاء
+czwartek|m|Thursday|الخميس
+piątek|m|Friday|الجمعة
+sobota|f|Saturday|السبت
+niedziela|f|Sunday|الأحد
+weekend|m|weekend|عطلة نهاية الأسبوع
+styczeń|m|January|يناير
+luty|m|February|فبراير
+marzec|m|March|مارس
+kwiecień|m|April|أبريل
+maj|m|May|مايو
+czerwiec|m|June|يونيو
+lipiec|m|July|يوليو
+sierpień|m|August|أغسطس
+wrzesień|m|September|سبتمبر
+październik|m|October|أكتوبر
+listopad|m|November|نوفمبر
+grudzień|m|December|ديسمبر
+chwila|f|while, moment|لحظة
+początek|m|beginning|بداية
+przyszłość|f|future|مستقبل
+przeszłość|f|past|ماضي
+teraźniejszość|f|present|حاضر
+okres|m|period|فترة
+epoka|f|era|عصر
+liczba|f|number|عدد
+numer|m|number (phone, house)|رقم
+ilość|f|amount|كمية
+procent|m|percent|نسبة مئوية
+połowa|f|half|نصف
+kilogram|m|kilogram|كيلوغرام
+metr|m|metre|متر
+kilometr|m|kilometre|كيلومتر
+litr|m|litre|لتر
+butelka|f|bottle|زجاجة
+szklanka|f|glass (for drinks)|كوب
+kubek|m|mug|كوب
+talerz|m|plate|صحن
+nóż|m|knife|سكين
+widelec|m|fork|شوكة
+łyżka|f|spoon|ملعقة
+garnek|m|pot|قدر
+masło|n|butter|زبدة
+olej|m|oil|زيت
+ryż|m|rice|أرز
+makaron|m|pasta|معكرونة
+mąka|f|flour|طحين
+kurczak|m|chicken|دجاج
+wołowina|f|beef|لحم بقري
+wieprzowina|f|pork|لحم خنزير
+kiełbasa|f|sausage|نقانق
+szynka|f|ham|لحم مقدد
+pomidor|m|tomato|طماطم
+ogórek|m|cucumber|خيار
+cebula|f|onion|بصل
+czosnek|m|garlic|ثوم
+marchew|f|carrot|جزر
+kapusta|f|cabbage|ملفوف
+sałatka|f|salad|سلطة
+gruszka|f|pear|كمثرى
+banan|m|banana|موز
+pomarańcza|f|orange|برتقال
+cytryna|f|lemon|ليمون
+truskawka|f|strawberry|فراولة
+ciasto|n|cake, dough|كعكة، عجين
+ciastko|n|biscuit, cookie|بسكويت
+lody|pl|ice cream|مثلجات
+czekolada|f|chocolate|شوكولاتة
+pierogi|pl|dumplings|فطائر محشوة
+danie|n|dish|طبق
+menu|n|menu|قائمة الطعام
+smak|m|taste|طعم
+zapach|m|smell|رائحة
+dźwięk|m|sound|صوت
+obraz|m|picture, painting|صورة، لوحة
+zdjęcie|n|photo|صورة
+kamera|f|camera|كاميرا
+ekran|m|screen|شاشة
+aplikacja|f|app|تطبيق
+hasło|n|password, slogan|كلمة المرور
+plik|m|file|ملف
+sieć|f|network|شبكة
+urządzenie|n|device|جهاز
+maszyna|f|machine|آلة
+narzędzie|n|tool|أداة
+technologia|f|technology|تكنولوجيا
+energia|f|energy|طاقة
+prąd|m|electricity, current|كهرباء، تيار
+gaz|m|gas|غاز
+paliwo|n|fuel|وقود
+benzyna|f|petrol|بنزين
+środowisko|n|environment|بيئة
+przyroda|f|nature|طبيعة
+natura|f|nature|طبيعة
+klimat|m|climate|مناخ
+temperatura|f|temperature|درجة الحرارة
+stopień|m|degree, step|درجة
+ciepło|n|warmth, heat|دفء
+zimno|n|cold|برد
+kamień|m|stone|حجر
+piasek|m|sand|رمل
+plaża|f|beach|شاطئ
+wyspa|f|island|جزيرة
+brzeg|m|shore, edge|شاطئ، حافة
+fala|f|wave|موجة
+statek|m|ship|سفينة
+łódź|f|boat|قارب
+rower|m|bicycle|دراجة
+motor|m|motorbike|دراجة نارية
+taksówka|f|taxi|سيارة أجرة
+metro|n|underground, metro|مترو
+ruch|m|movement, traffic|حركة
+korek|m|traffic jam, cork|زحمة سير
+wypadek|m|accident|حادث
+skrzyżowanie|n|crossroads|تقاطع
+światła|pl|traffic lights|إشارة المرور
+parking|m|car park|موقف سيارات
+podróżny|m|traveller|مسافر
+turysta|m|tourist|سائح
+walizka|f|suitcase|حقيبة سفر
+plecak|m|backpack|حقيبة ظهر
+rezerwacja|f|booking|حجز
+recepcja|f|reception|استقبال
+kolejka|f|queue|طابور
+wejście|n|entrance|مدخل
+wyjście|n|exit|مخرج
+kasa|f|till, cash desk|صندوق الدفع
+reszta|f|change, the rest|الباقي
+zakupy|pl|shopping|تسوق
+supermarket|m|supermarket|سوبرماركت
+targ|m|market (open-air)|سوق شعبي
+towar|m|goods|بضاعة
+produkt|m|product|منتج
+jakość|f|quality|جودة
+marka|f|brand|علامة تجارية
+reklama|f|advertisement|إعلان
+oferta|f|offer|عرض
+promocja|f|special offer|تخفيض
+zniżka|f|discount|خصم
+rozmiar|m|size|مقاس
+para|f|pair, couple|زوج
+kieszeń|f|pocket|جيب
+portfel|m|wallet|محفظة
+zegarek|m|watch|ساعة يد
+okulary|pl|glasses|نظارة
+parasol|m|umbrella|مظلة
+pierścionek|m|ring|خاتم
+sweter|m|sweater|كنزة
+spódnica|f|skirt|تنورة
+skarpetki|pl|socks|جوارب
+rękawiczki|pl|gloves|قفازات
+szalik|m|scarf|وشاح
+ręcznik|m|towel|منشفة
+mydło|n|soap|صابون
+szczoteczka do zębów|f|toothbrush|فرشاة أسنان
+ząb|m|tooth|سن
+palec|m|finger|إصبع
+ramię|n|arm, shoulder|ذراع، كتف
+plecy|pl|back|ظهر
+brzuch|m|stomach, belly|بطن
+żołądek|m|stomach|معدة
+skóra|f|skin, leather|جلد
+krew|f|blood|دم
+kość|f|bone|عظم
+gardło|n|throat|حلق
+gorączka|f|fever|حمى
+przeziębienie|n|cold (illness)|زكام
+grypa|f|flu|إنفلونزا
+kaszel|m|cough|سعال
+recepta|f|prescription|وصفة طبية
+wizyta|f|visit, appointment|زيارة
+pacjent|m|patient|مريض
+pielęgniarka|f|nurse|ممرضة
+dentysta|m|dentist|طبيب أسنان
+karetka|f|ambulance|سيارة إسعاف
+ubezpieczenie|n|insurance|تأمين
+badanie|n|examination, study|فحص، دراسة
+operacja|f|operation|عملية
+śmierć|f|death|موت
+dusza|f|soul|روح
+duch|m|spirit, ghost|روح، شبح
+umysł|m|mind|عقل
+wiedza|f|knowledge|معرفة
+doświadczenie|n|experience|خبرة
+umiejętność|f|skill|مهارة
+zdolność|f|ability|قدرة
+talent|m|talent|موهبة
+wysiłek|m|effort|جهد
+sukces|m|success|نجاح
+porażka|f|failure|فشل
+błąd|m|mistake|خطأ
+kłopot|m|trouble|مشكلة
+ryzyko|n|risk|مخاطرة
+szansa|f|chance|فرصة
+okazja|f|occasion, opportunity|مناسبة، فرصة
+wybór|m|choice|اختيار
+propozycja|f|proposal|اقتراح
+pomysł|m|idea|فكرة
+opinia|f|opinion|رأي
+argument|m|argument|حجة
+dyskusja|f|discussion|نقاش
+kłótnia|f|quarrel|شجار
+konflikt|m|conflict|صراع
+spór|m|dispute|نزاع
+porozumienie|n|agreement|اتفاق
+zgoda|f|consent, agreement|موافقة
+prośba|f|request|طلب
+zaproszenie|n|invitation|دعوة
+podziękowanie|n|thanks|شكر
+przeprosiny|pl|apology|اعتذار
+życzenia|pl|wishes|تمنيات
+pozdrowienia|pl|greetings|تحيات
+rada|f|advice, council|نصيحة، مجلس
+pozwolenie|n|permission|إذن
+zakaz|m|ban|منع
+obowiązek|m|duty|واجب
+odpowiedzialność|f|responsibility|مسؤولية
+zasada|f|rule, principle|قاعدة، مبدأ
+przepis|m|regulation, recipe|لائحة، وصفة
+instrukcja|f|instructions|تعليمات
+znak|m|sign|علامة
+tablica|f|board, blackboard|لوحة
+ogłoszenie|n|announcement, ad|إعلان
+artykuł|m|article|مقال
+tekst|m|text|نص
+treść|f|content|محتوى
+tytuł|m|title|عنوان
+rozdział|m|chapter|فصل
+zeszyt|m|notebook|دفتر
+kartka|f|sheet of paper, card|ورقة
+papier|m|paper|ورق
+długopis|m|pen|قلم حبر
+ołówek|m|pencil|قلم رصاص
+słownik|m|dictionary|قاموس
+biblioteka|f|library|مكتبة
+gramatyka|f|grammar|قواعد اللغة
+wymowa|f|pronunciation|نطق
+akcent|m|accent, stress|لهجة، نبرة
+litera|f|letter (of the alphabet)|حرف
+ocena|f|mark, grade|درجة، تقييم
+świadectwo|n|certificate|شهادة
+dyplom|m|diploma|دبلوم
+studia|pl|university studies|دراسة جامعية
+przedmiot|m|subject, object|مادة، شيء
+matematyka|f|mathematics|رياضيات
+fizyka|f|physics|فيزياء
+chemia|f|chemistry|كيمياء
+biologia|f|biology|أحياء
+geografia|f|geography|جغرافيا
+przerwa|f|break|استراحة
+kurs|m|course|دورة
+zawód|m|profession|مهنة
+kariera|f|career|مسيرة مهنية
+stanowisko|n|position, post|منصب
+wynagrodzenie|n|salary|أجر
+pensja|f|salary|راتب
+emerytura|f|pension, retirement|تقاعد
+bezrobocie|n|unemployment|بطالة
+CV|n|CV|سيرة ذاتية
+fabryka|f|factory|مصنع
+zakład|m|plant, works|منشأة
+przedsiębiorstwo|n|enterprise|مؤسسة
+handel|m|trade|تجارة
+zysk|m|profit|ربح
+strata|f|loss|خسارة
+dług|m|debt|دين
+kredyt|m|loan, credit|قرض
+inwestycja|f|investment|استثمار
+budżet|m|budget|ميزانية
+waluta|f|currency|عملة
+euro|n|euro|يورو
+moneta|f|coin|عملة معدنية
+banknot|m|banknote|ورقة نقدية
+gotówka|f|cash|نقد
+wartość|f|value|قيمة
+rozwój|m|development|تطور
+wzrost|m|growth, height|نمو، طول
+spadek|m|fall, inheritance|انخفاض، إرث
+poziom|m|level|مستوى
+warunki|pl|conditions|ظروف
+potrzeba|f|need|حاجة
+brak|m|lack|نقص
+siła|f|strength, force|قوة
+moc|f|power|قوة
+walka|f|fight|قتال
+broń|f|weapon|سلاح
+atak|m|attack|هجوم
+obrona|f|defence|دفاع
+zwycięstwo|n|victory|انتصار
+organizacja|f|organisation|منظمة
+instytucja|f|institution|مؤسسة
+urzędnik|m|official, clerk|موظف حكومي
+władze|pl|authorities|السلطات
+kierownik|m|manager|مدير
+zespół|m|team, band|فريق
+członek|m|member|عضو
+przedstawiciel|m|representative|ممثل
+uczestnik|m|participant|مشارك
+widz|m|viewer, spectator|مشاهد
+słuchacz|m|listener|مستمع
+czytelnik|m|reader|قارئ
+autor|m|author|مؤلف
+bohater|m|hero, main character|بطل
+postać|f|figure, character|شخصية
+wydarzenie|n|event|حدث
+zjawisko|n|phenomenon|ظاهرة
+proces|m|process, trial|عملية، محاكمة
+działanie|n|action, operation|عمل، نشاط
+akcja|f|action, campaign|حملة
+krok|m|step|خطوة
+etap|m|stage|مرحلة
+rodzaj|m|kind, type|نوع
+typ|m|type|نوع
+forma|f|form|شكل
+kształt|m|shape|شكل
+wielkość|f|size|حجم
+długość|f|length|طول
+szerokość|f|width|عرض
+waga|f|weight, scales|وزن، ميزان
+odległość|f|distance|مسافة
+przestrzeń|f|space|فضاء، مساحة
+powierzchnia|f|surface, area|سطح، مساحة
+środek|m|middle, means|وسط، وسيلة
+bok|m|side|جانب
+róg|m|corner, horn|زاوية، قرن
+dół|m|bottom, hole|أسفل، حفرة
+punkt|m|point|نقطة
+linia|f|line|خط
+koło|n|wheel, circle|عجلة، دائرة

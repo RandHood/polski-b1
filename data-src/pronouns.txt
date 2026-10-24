@@ -1,0 +1,45 @@
+# Polish pronouns. Format: polish|english|arabic
+ja|I|أنا
+ty|you (singular)|أنت
+on|he|هو
+ona|she|هي
+ono|it|هو (للمحايد)
+my|we|نحن
+wy|you (plural)|أنتم
+oni|they (with men)|هم
+one|they (no men)|هن
+pan|you (formal, to a man)|حضرتك (لرجل)
+pani|you (formal, to a woman)|حضرتك (لامرأة)
+państwo|you (formal, plural)|حضراتكم
+się|oneself (reflexive)|نفسه
+siebie|oneself|نفسه
+mój|my, mine|لي
+twój|your, yours|لك
+jego|his|له
+jej|her, hers|لها
+nasz|our, ours|لنا
+wasz|your (plural)|لكم
+ich|their|لهم
+swój|one's own|خاصته
+ten|this (masculine)|هذا
+ta|this (feminine)|هذه
+to|this, it|هذا
+tamten|that (over there)|ذلك
+taki|such|مثل هذا
+sam|oneself, alone|نفسه
+ktoś|somebody|شخص ما
+coś|something|شيء ما
+nikt|nobody|لا أحد
+nic|nothing|لا شيء
+każdy|every, everyone|كل
+wszyscy|everybody|الجميع
+wszystko|everything|كل شيء
+żaden|none, no|لا أحد، لا
+jakiś|some (kind of)|ما، أحد
+któryś|one of, some|أحدهم
+niektórzy|some (people)|بعض الناس
+inny|other|آخر
+który|which, who (relative)|الذي
+kto|who|من
+co|what|ماذا
+czyj|whose|لمن

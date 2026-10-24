@@ -1,0 +1,3057 @@
+{
+ "schemaVersion": 1,
+ "category": "adverbs",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "adverbs.tak",
+   "rank": 1,
+   "pl": "tak",
+   "pos": "adverb",
+   "translations": {
+    "en": "yes, so",
+    "ar": "نعم، هكذا"
+   }
+  },
+  {
+   "id": "adverbs.nie",
+   "rank": 2,
+   "pl": "nie",
+   "pos": "adverb",
+   "translations": {
+    "en": "no, not",
+    "ar": "لا"
+   }
+  },
+  {
+   "id": "adverbs.juz",
+   "rank": 3,
+   "pl": "już",
+   "pos": "adverb",
+   "translations": {
+    "en": "already",
+    "ar": "بالفعل"
+   }
+  },
+  {
+   "id": "adverbs.jeszcze",
+   "rank": 4,
+   "pl": "jeszcze",
+   "pos": "adverb",
+   "translations": {
+    "en": "still, yet",
+    "ar": "ما زال"
+   }
+  },
+  {
+   "id": "adverbs.bardzo",
+   "rank": 5,
+   "pl": "bardzo",
+   "pos": "adverb",
+   "translations": {
+    "en": "very",
+    "ar": "جدا"
+   }
+  },
+  {
+   "id": "adverbs.teraz",
+   "rank": 6,
+   "pl": "teraz",
+   "pos": "adverb",
+   "translations": {
+    "en": "now",
+    "ar": "الآن"
+   }
+  },
+  {
+   "id": "adverbs.tu",
+   "rank": 7,
+   "pl": "tu",
+   "pos": "adverb",
+   "translations": {
+    "en": "here",
+    "ar": "هنا"
+   }
+  },
+  {
+   "id": "adverbs.tutaj",
+   "rank": 8,
+   "pl": "tutaj",
+   "pos": "adverb",
+   "translations": {
+    "en": "here",
+    "ar": "هنا"
+   }
+  },
+  {
+   "id": "adverbs.tam",
+   "rank": 9,
+   "pl": "tam",
+   "pos": "adverb",
+   "translations": {
+    "en": "there",
+    "ar": "هناك"
+   }
+  },
+  {
+   "id": "adverbs.dzis",
+   "rank": 10,
+   "pl": "dziś",
+   "pos": "adverb",
+   "translations": {
+    "en": "today",
+    "ar": "اليوم"
+   }
+  },
+  {
+   "id": "adverbs.dzisiaj",
+   "rank": 11,
+   "pl": "dzisiaj",
+   "pos": "adverb",
+   "translations": {
+    "en": "today",
+    "ar": "اليوم"
+   }
+  },
+  {
+   "id": "adverbs.jutro",
+   "rank": 12,
+   "pl": "jutro",
+   "pos": "adverb",
+   "translations": {
+    "en": "tomorrow",
+    "ar": "غدا"
+   }
+  },
+  {
+   "id": "adverbs.wczoraj",
+   "rank": 13,
+   "pl": "wczoraj",
+   "pos": "adverb",
+   "translations": {
+    "en": "yesterday",
+    "ar": "أمس"
+   }
+  },
+  {
+   "id": "adverbs.pojutrze",
+   "rank": 14,
+   "pl": "pojutrze",
+   "pos": "adverb",
+   "translations": {
+    "en": "the day after tomorrow",
+    "ar": "بعد غد"
+   }
+  },
+  {
+   "id": "adverbs.przedwczoraj",
+   "rank": 15,
+   "pl": "przedwczoraj",
+   "pos": "adverb",
+   "translations": {
+    "en": "the day before yesterday",
+    "ar": "أول أمس"
+   }
+  },
+  {
+   "id": "adverbs.zawsze",
+   "rank": 16,
+   "pl": "zawsze",
+   "pos": "adverb",
+   "translations": {
+    "en": "always",
+    "ar": "دائما"
+   }
+  },
+  {
+   "id": "adverbs.nigdy",
+   "rank": 17,
+   "pl": "nigdy",
+   "pos": "adverb",
+   "translations": {
+    "en": "never",
+    "ar": "أبدا"
+   }
+  },
+  {
+   "id": "adverbs.czesto",
+   "rank": 18,
+   "pl": "często",
+   "pos": "adverb",
+   "translations": {
+    "en": "often",
+    "ar": "غالبا"
+   }
+  },
+  {
+   "id": "adverbs.rzadko",
+   "rank": 19,
+   "pl": "rzadko",
+   "pos": "adverb",
+   "translations": {
+    "en": "rarely",
+    "ar": "نادرا"
+   }
+  },
+  {
+   "id": "adverbs.czasem",
+   "rank": 20,
+   "pl": "czasem",
+   "pos": "adverb",
+   "translations": {
+    "en": "sometimes",
+    "ar": "أحيانا"
+   }
+  },
+  {
+   "id": "adverbs.czasami",
+   "rank": 21,
+   "pl": "czasami",
+   "pos": "adverb",
+   "translations": {
+    "en": "sometimes",
+    "ar": "أحيانا"
+   }
+  },
+  {
+   "id": "adverbs.zwykle",
+   "rank": 22,
+   "pl": "zwykle",
+   "pos": "adverb",
+   "translations": {
+    "en": "usually",
+    "ar": "عادة"
+   }
+  },
+  {
+   "id": "adverbs.zazwyczaj",
+   "rank": 23,
+   "pl": "zazwyczaj",
+   "pos": "adverb",
+   "translations": {
+    "en": "usually",
+    "ar": "عادة"
+   }
+  },
+  {
+   "id": "adverbs.codziennie",
+   "rank": 24,
+   "pl": "codziennie",
+   "pos": "adverb",
+   "translations": {
+    "en": "every day",
+    "ar": "كل يوم"
+   }
+  },
+  {
+   "id": "adverbs.wtedy",
+   "rank": 25,
+   "pl": "wtedy",
+   "pos": "adverb",
+   "translations": {
+    "en": "then",
+    "ar": "حينئذ"
+   }
+  },
+  {
+   "id": "adverbs.potem",
+   "rank": 26,
+   "pl": "potem",
+   "pos": "adverb",
+   "translations": {
+    "en": "afterwards",
+    "ar": "بعد ذلك"
+   }
+  },
+  {
+   "id": "adverbs.pozniej",
+   "rank": 27,
+   "pl": "później",
+   "pos": "adverb",
+   "translations": {
+    "en": "later",
+    "ar": "لاحقا"
+   }
+  },
+  {
+   "id": "adverbs.wczesniej",
+   "rank": 28,
+   "pl": "wcześniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "earlier",
+    "ar": "في وقت سابق"
+   }
+  },
+  {
+   "id": "adverbs.najpierw",
+   "rank": 29,
+   "pl": "najpierw",
+   "pos": "adverb",
+   "translations": {
+    "en": "first",
+    "ar": "أولا"
+   }
+  },
+  {
+   "id": "adverbs.nastepnie",
+   "rank": 30,
+   "pl": "następnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "next, then",
+    "ar": "ثم"
+   }
+  },
+  {
+   "id": "adverbs.wreszcie",
+   "rank": 31,
+   "pl": "wreszcie",
+   "pos": "adverb",
+   "translations": {
+    "en": "finally",
+    "ar": "أخيرا"
+   }
+  },
+  {
+   "id": "adverbs.w-koncu",
+   "rank": 32,
+   "pl": "w końcu",
+   "pos": "adverb",
+   "translations": {
+    "en": "in the end, finally",
+    "ar": "في النهاية"
+   }
+  },
+  {
+   "id": "adverbs.nareszcie",
+   "rank": 33,
+   "pl": "nareszcie",
+   "pos": "adverb",
+   "translations": {
+    "en": "at last",
+    "ar": "أخيرا"
+   }
+  },
+  {
+   "id": "adverbs.zaraz",
+   "rank": 34,
+   "pl": "zaraz",
+   "pos": "adverb",
+   "translations": {
+    "en": "in a moment",
+    "ar": "حالا"
+   }
+  },
+  {
+   "id": "adverbs.od-razu",
+   "rank": 35,
+   "pl": "od razu",
+   "pos": "adverb",
+   "translations": {
+    "en": "at once",
+    "ar": "فورا"
+   }
+  },
+  {
+   "id": "adverbs.natychmiast",
+   "rank": 36,
+   "pl": "natychmiast",
+   "pos": "adverb",
+   "translations": {
+    "en": "immediately",
+    "ar": "فورا"
+   }
+  },
+  {
+   "id": "adverbs.szybko",
+   "rank": 37,
+   "pl": "szybko",
+   "pos": "adverb",
+   "translations": {
+    "en": "quickly",
+    "ar": "بسرعة"
+   }
+  },
+  {
+   "id": "adverbs.wolno",
+   "rank": 38,
+   "pl": "wolno",
+   "pos": "adverb",
+   "translations": {
+    "en": "slowly",
+    "ar": "ببطء"
+   }
+  },
+  {
+   "id": "adverbs.powoli",
+   "rank": 39,
+   "pl": "powoli",
+   "pos": "adverb",
+   "translations": {
+    "en": "slowly",
+    "ar": "ببطء"
+   }
+  },
+  {
+   "id": "adverbs.dawno",
+   "rank": 40,
+   "pl": "dawno",
+   "pos": "adverb",
+   "translations": {
+    "en": "long ago",
+    "ar": "منذ زمن بعيد"
+   }
+  },
+  {
+   "id": "adverbs.niedawno",
+   "rank": 41,
+   "pl": "niedawno",
+   "pos": "adverb",
+   "translations": {
+    "en": "recently",
+    "ar": "مؤخرا"
+   }
+  },
+  {
+   "id": "adverbs.ostatnio",
+   "rank": 42,
+   "pl": "ostatnio",
+   "pos": "adverb",
+   "translations": {
+    "en": "lately",
+    "ar": "مؤخرا"
+   }
+  },
+  {
+   "id": "adverbs.wlasnie",
+   "rank": 43,
+   "pl": "właśnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "just, exactly",
+    "ar": "للتو، بالضبط"
+   }
+  },
+  {
+   "id": "adverbs.wciaz",
+   "rank": 44,
+   "pl": "wciąż",
+   "pos": "adverb",
+   "translations": {
+    "en": "still, constantly",
+    "ar": "ما زال"
+   }
+  },
+  {
+   "id": "adverbs.ciagle",
+   "rank": 45,
+   "pl": "ciągle",
+   "pos": "adverb",
+   "translations": {
+    "en": "constantly",
+    "ar": "باستمرار"
+   }
+  },
+  {
+   "id": "adverbs.nadal",
+   "rank": 46,
+   "pl": "nadal",
+   "pos": "adverb",
+   "translations": {
+    "en": "still",
+    "ar": "ما زال"
+   }
+  },
+  {
+   "id": "adverbs.dlugo",
+   "rank": 47,
+   "pl": "długo",
+   "pos": "adverb",
+   "translations": {
+    "en": "for a long time",
+    "ar": "طويلا"
+   }
+  },
+  {
+   "id": "adverbs.krotko",
+   "rank": 48,
+   "pl": "krótko",
+   "pos": "adverb",
+   "translations": {
+    "en": "briefly",
+    "ar": "لفترة قصيرة"
+   }
+  },
+  {
+   "id": "adverbs.wczesnie",
+   "rank": 49,
+   "pl": "wcześnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "early",
+    "ar": "مبكرا"
+   }
+  },
+  {
+   "id": "adverbs.pozno",
+   "rank": 50,
+   "pl": "późno",
+   "pos": "adverb",
+   "translations": {
+    "en": "late",
+    "ar": "متأخرا"
+   }
+  },
+  {
+   "id": "adverbs.rano",
+   "rank": 51,
+   "pl": "rano",
+   "pos": "adverb",
+   "translations": {
+    "en": "in the morning",
+    "ar": "صباحا"
+   }
+  },
+  {
+   "id": "adverbs.wieczorem",
+   "rank": 52,
+   "pl": "wieczorem",
+   "pos": "adverb",
+   "translations": {
+    "en": "in the evening",
+    "ar": "مساء"
+   }
+  },
+  {
+   "id": "adverbs.w-nocy",
+   "rank": 53,
+   "pl": "w nocy",
+   "pos": "adverb",
+   "translations": {
+    "en": "at night",
+    "ar": "ليلا"
+   }
+  },
+  {
+   "id": "adverbs.po-poludniu",
+   "rank": 54,
+   "pl": "po południu",
+   "pos": "adverb",
+   "translations": {
+    "en": "in the afternoon",
+    "ar": "بعد الظهر"
+   }
+  },
+  {
+   "id": "adverbs.latem",
+   "rank": 55,
+   "pl": "latem",
+   "pos": "adverb",
+   "translations": {
+    "en": "in summer",
+    "ar": "في الصيف"
+   }
+  },
+  {
+   "id": "adverbs.zima",
+   "rank": 56,
+   "pl": "zimą",
+   "pos": "adverb",
+   "translations": {
+    "en": "in winter",
+    "ar": "في الشتاء"
+   }
+  },
+  {
+   "id": "adverbs.wiosna",
+   "rank": 57,
+   "pl": "wiosną",
+   "pos": "adverb",
+   "translations": {
+    "en": "in spring",
+    "ar": "في الربيع"
+   }
+  },
+  {
+   "id": "adverbs.jesienia",
+   "rank": 58,
+   "pl": "jesienią",
+   "pos": "adverb",
+   "translations": {
+    "en": "in autumn",
+    "ar": "في الخريف"
+   }
+  },
+  {
+   "id": "adverbs.dobrze",
+   "rank": 59,
+   "pl": "dobrze",
+   "pos": "adverb",
+   "translations": {
+    "en": "well",
+    "ar": "جيدا"
+   }
+  },
+  {
+   "id": "adverbs.zle",
+   "rank": 60,
+   "pl": "źle",
+   "pos": "adverb",
+   "translations": {
+    "en": "badly",
+    "ar": "بشكل سيء"
+   }
+  },
+  {
+   "id": "adverbs.lepiej",
+   "rank": 61,
+   "pl": "lepiej",
+   "pos": "adverb",
+   "translations": {
+    "en": "better",
+    "ar": "أفضل"
+   }
+  },
+  {
+   "id": "adverbs.gorzej",
+   "rank": 62,
+   "pl": "gorzej",
+   "pos": "adverb",
+   "translations": {
+    "en": "worse",
+    "ar": "أسوأ"
+   }
+  },
+  {
+   "id": "adverbs.najlepiej",
+   "rank": 63,
+   "pl": "najlepiej",
+   "pos": "adverb",
+   "translations": {
+    "en": "best",
+    "ar": "الأفضل"
+   }
+  },
+  {
+   "id": "adverbs.duzo",
+   "rank": 64,
+   "pl": "dużo",
+   "pos": "adverb",
+   "translations": {
+    "en": "a lot",
+    "ar": "كثيرا"
+   }
+  },
+  {
+   "id": "adverbs.malo",
+   "rank": 65,
+   "pl": "mało",
+   "pos": "adverb",
+   "translations": {
+    "en": "little",
+    "ar": "قليلا"
+   }
+  },
+  {
+   "id": "adverbs.troche",
+   "rank": 66,
+   "pl": "trochę",
+   "pos": "adverb",
+   "translations": {
+    "en": "a little",
+    "ar": "قليلا"
+   }
+  },
+  {
+   "id": "adverbs.wiecej",
+   "rank": 67,
+   "pl": "więcej",
+   "pos": "adverb",
+   "translations": {
+    "en": "more",
+    "ar": "أكثر"
+   }
+  },
+  {
+   "id": "adverbs.mniej",
+   "rank": 68,
+   "pl": "mniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "less",
+    "ar": "أقل"
+   }
+  },
+  {
+   "id": "adverbs.najwiecej",
+   "rank": 69,
+   "pl": "najwięcej",
+   "pos": "adverb",
+   "translations": {
+    "en": "the most",
+    "ar": "الأكثر"
+   }
+  },
+  {
+   "id": "adverbs.najmniej",
+   "rank": 70,
+   "pl": "najmniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "the least",
+    "ar": "الأقل"
+   }
+  },
+  {
+   "id": "adverbs.bardziej",
+   "rank": 71,
+   "pl": "bardziej",
+   "pos": "adverb",
+   "translations": {
+    "en": "more (degree)",
+    "ar": "أكثر"
+   }
+  },
+  {
+   "id": "adverbs.mocno",
+   "rank": 72,
+   "pl": "mocno",
+   "pos": "adverb",
+   "translations": {
+    "en": "strongly, hard",
+    "ar": "بقوة"
+   }
+  },
+  {
+   "id": "adverbs.slabo",
+   "rank": 73,
+   "pl": "słabo",
+   "pos": "adverb",
+   "translations": {
+    "en": "weakly",
+    "ar": "بضعف"
+   }
+  },
+  {
+   "id": "adverbs.zbyt",
+   "rank": 74,
+   "pl": "zbyt",
+   "pos": "adverb",
+   "translations": {
+    "en": "too",
+    "ar": "أكثر من اللازم"
+   }
+  },
+  {
+   "id": "adverbs.za-bardzo",
+   "rank": 75,
+   "pl": "za bardzo",
+   "pos": "adverb",
+   "translations": {
+    "en": "too much",
+    "ar": "أكثر من اللازم"
+   }
+  },
+  {
+   "id": "adverbs.dosyc",
+   "rank": 76,
+   "pl": "dosyć",
+   "pos": "adverb",
+   "translations": {
+    "en": "enough, quite",
+    "ar": "كفاية، إلى حد ما"
+   }
+  },
+  {
+   "id": "adverbs.dosc",
+   "rank": 77,
+   "pl": "dość",
+   "pos": "adverb",
+   "translations": {
+    "en": "enough, quite",
+    "ar": "كفاية، إلى حد ما"
+   }
+  },
+  {
+   "id": "adverbs.calkiem",
+   "rank": 78,
+   "pl": "całkiem",
+   "pos": "adverb",
+   "translations": {
+    "en": "quite",
+    "ar": "تماما، إلى حد ما"
+   }
+  },
+  {
+   "id": "adverbs.zupelnie",
+   "rank": 79,
+   "pl": "zupełnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "completely",
+    "ar": "تماما"
+   }
+  },
+  {
+   "id": "adverbs.calkowicie",
+   "rank": 80,
+   "pl": "całkowicie",
+   "pos": "adverb",
+   "translations": {
+    "en": "completely",
+    "ar": "كليا"
+   }
+  },
+  {
+   "id": "adverbs.prawie",
+   "rank": 81,
+   "pl": "prawie",
+   "pos": "adverb",
+   "translations": {
+    "en": "almost",
+    "ar": "تقريبا"
+   }
+  },
+  {
+   "id": "adverbs.okolo",
+   "rank": 82,
+   "pl": "około",
+   "pos": "adverb",
+   "translations": {
+    "en": "about, approximately",
+    "ar": "حوالي"
+   }
+  },
+  {
+   "id": "adverbs.mniej-wiecej",
+   "rank": 83,
+   "pl": "mniej więcej",
+   "pos": "adverb",
+   "translations": {
+    "en": "more or less",
+    "ar": "تقريبا"
+   }
+  },
+  {
+   "id": "adverbs.tylko",
+   "rank": 84,
+   "pl": "tylko",
+   "pos": "adverb",
+   "translations": {
+    "en": "only",
+    "ar": "فقط"
+   }
+  },
+  {
+   "id": "adverbs.jedynie",
+   "rank": 85,
+   "pl": "jedynie",
+   "pos": "adverb",
+   "translations": {
+    "en": "merely",
+    "ar": "فقط"
+   }
+  },
+  {
+   "id": "adverbs.takze",
+   "rank": 86,
+   "pl": "także",
+   "pos": "adverb",
+   "translations": {
+    "en": "also",
+    "ar": "أيضا"
+   }
+  },
+  {
+   "id": "adverbs.tez",
+   "rank": 87,
+   "pl": "też",
+   "pos": "adverb",
+   "translations": {
+    "en": "too, also",
+    "ar": "أيضا"
+   }
+  },
+  {
+   "id": "adverbs.rowniez",
+   "rank": 88,
+   "pl": "również",
+   "pos": "adverb",
+   "translations": {
+    "en": "also",
+    "ar": "كذلك"
+   }
+  },
+  {
+   "id": "adverbs.nawet",
+   "rank": 89,
+   "pl": "nawet",
+   "pos": "adverb",
+   "translations": {
+    "en": "even",
+    "ar": "حتى"
+   }
+  },
+  {
+   "id": "adverbs.szczegolnie",
+   "rank": 90,
+   "pl": "szczególnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "especially",
+    "ar": "خاصة"
+   }
+  },
+  {
+   "id": "adverbs.zwlaszcza",
+   "rank": 91,
+   "pl": "zwłaszcza",
+   "pos": "adverb",
+   "translations": {
+    "en": "especially",
+    "ar": "خصوصا"
+   }
+  },
+  {
+   "id": "adverbs.glownie",
+   "rank": 92,
+   "pl": "głównie",
+   "pos": "adverb",
+   "translations": {
+    "en": "mainly",
+    "ar": "بشكل رئيسي"
+   }
+  },
+  {
+   "id": "adverbs.przede-wszystkim",
+   "rank": 93,
+   "pl": "przede wszystkim",
+   "pos": "adverb",
+   "translations": {
+    "en": "above all",
+    "ar": "قبل كل شيء"
+   }
+  },
+  {
+   "id": "adverbs.naprawde",
+   "rank": 94,
+   "pl": "naprawdę",
+   "pos": "adverb",
+   "translations": {
+    "en": "really",
+    "ar": "حقا"
+   }
+  },
+  {
+   "id": "adverbs.rzeczywiscie",
+   "rank": 95,
+   "pl": "rzeczywiście",
+   "pos": "adverb",
+   "translations": {
+    "en": "indeed",
+    "ar": "فعلا"
+   }
+  },
+  {
+   "id": "adverbs.na-pewno",
+   "rank": 96,
+   "pl": "na pewno",
+   "pos": "adverb",
+   "translations": {
+    "en": "certainly",
+    "ar": "بالتأكيد"
+   }
+  },
+  {
+   "id": "adverbs.pewnie",
+   "rank": 97,
+   "pl": "pewnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "probably, surely",
+    "ar": "على الأرجح"
+   }
+  },
+  {
+   "id": "adverbs.chyba",
+   "rank": 98,
+   "pl": "chyba",
+   "pos": "adverb",
+   "translations": {
+    "en": "probably, I guess",
+    "ar": "ربما"
+   }
+  },
+  {
+   "id": "adverbs.moze",
+   "rank": 99,
+   "pl": "może",
+   "pos": "adverb",
+   "translations": {
+    "en": "maybe",
+    "ar": "ربما"
+   }
+  },
+  {
+   "id": "adverbs.prawdopodobnie",
+   "rank": 100,
+   "pl": "prawdopodobnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "probably",
+    "ar": "على الأرجح"
+   }
+  },
+  {
+   "id": "adverbs.oczywiscie",
+   "rank": 101,
+   "pl": "oczywiście",
+   "pos": "adverb",
+   "translations": {
+    "en": "of course",
+    "ar": "بالطبع"
+   }
+  },
+  {
+   "id": "adverbs.koniecznie",
+   "rank": 102,
+   "pl": "koniecznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "necessarily",
+    "ar": "بالضرورة"
+   }
+  },
+  {
+   "id": "adverbs.niestety",
+   "rank": 103,
+   "pl": "niestety",
+   "pos": "adverb",
+   "translations": {
+    "en": "unfortunately",
+    "ar": "للأسف"
+   }
+  },
+  {
+   "id": "adverbs.na-szczescie",
+   "rank": 104,
+   "pl": "na szczęście",
+   "pos": "adverb",
+   "translations": {
+    "en": "fortunately",
+    "ar": "لحسن الحظ"
+   }
+  },
+  {
+   "id": "adverbs.wlasciwie",
+   "rank": 105,
+   "pl": "właściwie",
+   "pos": "adverb",
+   "translations": {
+    "en": "actually",
+    "ar": "في الواقع"
+   }
+  },
+  {
+   "id": "adverbs.faktycznie",
+   "rank": 106,
+   "pl": "faktycznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "in fact",
+    "ar": "فعلا"
+   }
+  },
+  {
+   "id": "adverbs.dokladnie",
+   "rank": 107,
+   "pl": "dokładnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "exactly",
+    "ar": "بالضبط"
+   }
+  },
+  {
+   "id": "adverbs.razem",
+   "rank": 108,
+   "pl": "razem",
+   "pos": "adverb",
+   "translations": {
+    "en": "together",
+    "ar": "معا"
+   }
+  },
+  {
+   "id": "adverbs.osobno",
+   "rank": 109,
+   "pl": "osobno",
+   "pos": "adverb",
+   "translations": {
+    "en": "separately",
+    "ar": "بشكل منفصل"
+   }
+  },
+  {
+   "id": "adverbs.sam",
+   "rank": 110,
+   "pl": "sam",
+   "pos": "adverb",
+   "translations": {
+    "en": "alone",
+    "ar": "وحده"
+   }
+  },
+  {
+   "id": "adverbs.wszedzie",
+   "rank": 111,
+   "pl": "wszędzie",
+   "pos": "adverb",
+   "translations": {
+    "en": "everywhere",
+    "ar": "في كل مكان"
+   }
+  },
+  {
+   "id": "adverbs.nigdzie",
+   "rank": 112,
+   "pl": "nigdzie",
+   "pos": "adverb",
+   "translations": {
+    "en": "nowhere",
+    "ar": "لا مكان"
+   }
+  },
+  {
+   "id": "adverbs.gdzies",
+   "rank": 113,
+   "pl": "gdzieś",
+   "pos": "adverb",
+   "translations": {
+    "en": "somewhere",
+    "ar": "في مكان ما"
+   }
+  },
+  {
+   "id": "adverbs.gdziekolwiek",
+   "rank": 114,
+   "pl": "gdziekolwiek",
+   "pos": "adverb",
+   "translations": {
+    "en": "anywhere",
+    "ar": "في أي مكان"
+   }
+  },
+  {
+   "id": "adverbs.kiedys",
+   "rank": 115,
+   "pl": "kiedyś",
+   "pos": "adverb",
+   "translations": {
+    "en": "once, someday",
+    "ar": "يوما ما"
+   }
+  },
+  {
+   "id": "adverbs.kiedykolwiek",
+   "rank": 116,
+   "pl": "kiedykolwiek",
+   "pos": "adverb",
+   "translations": {
+    "en": "ever",
+    "ar": "في أي وقت"
+   }
+  },
+  {
+   "id": "adverbs.jakos",
+   "rank": 117,
+   "pl": "jakoś",
+   "pos": "adverb",
+   "translations": {
+    "en": "somehow",
+    "ar": "بطريقة ما"
+   }
+  },
+  {
+   "id": "adverbs.inaczej",
+   "rank": 118,
+   "pl": "inaczej",
+   "pos": "adverb",
+   "translations": {
+    "en": "differently, otherwise",
+    "ar": "بشكل مختلف، وإلا"
+   }
+  },
+  {
+   "id": "adverbs.podobnie",
+   "rank": 119,
+   "pl": "podobnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "similarly",
+    "ar": "بالمثل"
+   }
+  },
+  {
+   "id": "adverbs.tak-samo",
+   "rank": 120,
+   "pl": "tak samo",
+   "pos": "adverb",
+   "translations": {
+    "en": "the same way",
+    "ar": "بنفس الطريقة"
+   }
+  },
+  {
+   "id": "adverbs.blisko",
+   "rank": 121,
+   "pl": "blisko",
+   "pos": "adverb",
+   "translations": {
+    "en": "near",
+    "ar": "قريبا"
+   }
+  },
+  {
+   "id": "adverbs.daleko",
+   "rank": 122,
+   "pl": "daleko",
+   "pos": "adverb",
+   "translations": {
+    "en": "far",
+    "ar": "بعيدا"
+   }
+  },
+  {
+   "id": "adverbs.obok",
+   "rank": 123,
+   "pl": "obok",
+   "pos": "adverb",
+   "translations": {
+    "en": "next to, nearby",
+    "ar": "بجانب"
+   }
+  },
+  {
+   "id": "adverbs.naprzeciwko",
+   "rank": 124,
+   "pl": "naprzeciwko",
+   "pos": "adverb",
+   "translations": {
+    "en": "opposite",
+    "ar": "مقابل"
+   }
+  },
+  {
+   "id": "adverbs.wysoko",
+   "rank": 125,
+   "pl": "wysoko",
+   "pos": "adverb",
+   "translations": {
+    "en": "high",
+    "ar": "عاليا"
+   }
+  },
+  {
+   "id": "adverbs.nisko",
+   "rank": 126,
+   "pl": "nisko",
+   "pos": "adverb",
+   "translations": {
+    "en": "low",
+    "ar": "منخفضا"
+   }
+  },
+  {
+   "id": "adverbs.gleboko",
+   "rank": 127,
+   "pl": "głęboko",
+   "pos": "adverb",
+   "translations": {
+    "en": "deeply",
+    "ar": "بعمق"
+   }
+  },
+  {
+   "id": "adverbs.na-gorze",
+   "rank": 128,
+   "pl": "na górze",
+   "pos": "adverb",
+   "translations": {
+    "en": "upstairs, at the top",
+    "ar": "في الأعلى"
+   }
+  },
+  {
+   "id": "adverbs.na-dole",
+   "rank": 129,
+   "pl": "na dole",
+   "pos": "adverb",
+   "translations": {
+    "en": "downstairs, at the bottom",
+    "ar": "في الأسفل"
+   }
+  },
+  {
+   "id": "adverbs.w-gore",
+   "rank": 130,
+   "pl": "w górę",
+   "pos": "adverb",
+   "translations": {
+    "en": "up",
+    "ar": "إلى الأعلى"
+   }
+  },
+  {
+   "id": "adverbs.w-dol",
+   "rank": 131,
+   "pl": "w dół",
+   "pos": "adverb",
+   "translations": {
+    "en": "down",
+    "ar": "إلى الأسفل"
+   }
+  },
+  {
+   "id": "adverbs.do-przodu",
+   "rank": 132,
+   "pl": "do przodu",
+   "pos": "adverb",
+   "translations": {
+    "en": "forward",
+    "ar": "إلى الأمام"
+   }
+  },
+  {
+   "id": "adverbs.do-tylu",
+   "rank": 133,
+   "pl": "do tyłu",
+   "pos": "adverb",
+   "translations": {
+    "en": "backwards",
+    "ar": "إلى الخلف"
+   }
+  },
+  {
+   "id": "adverbs.z-przodu",
+   "rank": 134,
+   "pl": "z przodu",
+   "pos": "adverb",
+   "translations": {
+    "en": "at the front",
+    "ar": "في الأمام"
+   }
+  },
+  {
+   "id": "adverbs.z-tylu",
+   "rank": 135,
+   "pl": "z tyłu",
+   "pos": "adverb",
+   "translations": {
+    "en": "at the back",
+    "ar": "في الخلف"
+   }
+  },
+  {
+   "id": "adverbs.w-srodku",
+   "rank": 136,
+   "pl": "w środku",
+   "pos": "adverb",
+   "translations": {
+    "en": "inside, in the middle",
+    "ar": "في الداخل"
+   }
+  },
+  {
+   "id": "adverbs.na-zewnatrz",
+   "rank": 137,
+   "pl": "na zewnątrz",
+   "pos": "adverb",
+   "translations": {
+    "en": "outside",
+    "ar": "في الخارج"
+   }
+  },
+  {
+   "id": "adverbs.wewnatrz",
+   "rank": 138,
+   "pl": "wewnątrz",
+   "pos": "adverb",
+   "translations": {
+    "en": "inside",
+    "ar": "داخل"
+   }
+  },
+  {
+   "id": "adverbs.dookola",
+   "rank": 139,
+   "pl": "dookoła",
+   "pos": "adverb",
+   "translations": {
+    "en": "around",
+    "ar": "حول"
+   }
+  },
+  {
+   "id": "adverbs.prosto",
+   "rank": 140,
+   "pl": "prosto",
+   "pos": "adverb",
+   "translations": {
+    "en": "straight ahead, simply",
+    "ar": "مباشرة، ببساطة"
+   }
+  },
+  {
+   "id": "adverbs.w-prawo",
+   "rank": 141,
+   "pl": "w prawo",
+   "pos": "adverb",
+   "translations": {
+    "en": "to the right",
+    "ar": "إلى اليمين"
+   }
+  },
+  {
+   "id": "adverbs.w-lewo",
+   "rank": 142,
+   "pl": "w lewo",
+   "pos": "adverb",
+   "translations": {
+    "en": "to the left",
+    "ar": "إلى اليسار"
+   }
+  },
+  {
+   "id": "adverbs.na-prawo",
+   "rank": 143,
+   "pl": "na prawo",
+   "pos": "adverb",
+   "translations": {
+    "en": "on the right",
+    "ar": "على اليمين"
+   }
+  },
+  {
+   "id": "adverbs.na-lewo",
+   "rank": 144,
+   "pl": "na lewo",
+   "pos": "adverb",
+   "translations": {
+    "en": "on the left",
+    "ar": "على اليسار"
+   }
+  },
+  {
+   "id": "adverbs.stad",
+   "rank": 145,
+   "pl": "stąd",
+   "pos": "adverb",
+   "translations": {
+    "en": "from here",
+    "ar": "من هنا"
+   }
+  },
+  {
+   "id": "adverbs.stamtad",
+   "rank": 146,
+   "pl": "stamtąd",
+   "pos": "adverb",
+   "translations": {
+    "en": "from there",
+    "ar": "من هناك"
+   }
+  },
+  {
+   "id": "adverbs.tedy",
+   "rank": 147,
+   "pl": "tędy",
+   "pos": "adverb",
+   "translations": {
+    "en": "this way",
+    "ar": "من هذا الطريق"
+   }
+  },
+  {
+   "id": "adverbs.w-domu",
+   "rank": 148,
+   "pl": "w domu",
+   "pos": "adverb",
+   "translations": {
+    "en": "at home",
+    "ar": "في البيت"
+   }
+  },
+  {
+   "id": "adverbs.do-domu",
+   "rank": 149,
+   "pl": "do domu",
+   "pos": "adverb",
+   "translations": {
+    "en": "home (direction)",
+    "ar": "إلى البيت"
+   }
+  },
+  {
+   "id": "adverbs.za-granica",
+   "rank": 150,
+   "pl": "za granicą",
+   "pos": "adverb",
+   "translations": {
+    "en": "abroad",
+    "ar": "في الخارج"
+   }
+  },
+  {
+   "id": "adverbs.za-granice",
+   "rank": 151,
+   "pl": "za granicę",
+   "pos": "adverb",
+   "translations": {
+    "en": "abroad (direction)",
+    "ar": "إلى الخارج"
+   }
+  },
+  {
+   "id": "adverbs.latwo",
+   "rank": 152,
+   "pl": "łatwo",
+   "pos": "adverb",
+   "translations": {
+    "en": "easily",
+    "ar": "بسهولة"
+   }
+  },
+  {
+   "id": "adverbs.trudno",
+   "rank": 153,
+   "pl": "trudno",
+   "pos": "adverb",
+   "translations": {
+    "en": "with difficulty",
+    "ar": "بصعوبة"
+   }
+  },
+  {
+   "id": "adverbs.ciezko",
+   "rank": 154,
+   "pl": "ciężko",
+   "pos": "adverb",
+   "translations": {
+    "en": "hard, heavily",
+    "ar": "بصعوبة"
+   }
+  },
+  {
+   "id": "adverbs.jasno",
+   "rank": 155,
+   "pl": "jasno",
+   "pos": "adverb",
+   "translations": {
+    "en": "clearly, brightly",
+    "ar": "بوضوح"
+   }
+  },
+  {
+   "id": "adverbs.ciemno",
+   "rank": 156,
+   "pl": "ciemno",
+   "pos": "adverb",
+   "translations": {
+    "en": "dark",
+    "ar": "مظلم"
+   }
+  },
+  {
+   "id": "adverbs.wyraznie",
+   "rank": 157,
+   "pl": "wyraźnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "clearly",
+    "ar": "بوضوح"
+   }
+  },
+  {
+   "id": "adverbs.glosno",
+   "rank": 158,
+   "pl": "głośno",
+   "pos": "adverb",
+   "translations": {
+    "en": "loudly",
+    "ar": "بصوت عال"
+   }
+  },
+  {
+   "id": "adverbs.cicho",
+   "rank": 159,
+   "pl": "cicho",
+   "pos": "adverb",
+   "translations": {
+    "en": "quietly",
+    "ar": "بهدوء"
+   }
+  },
+  {
+   "id": "adverbs.spokojnie",
+   "rank": 160,
+   "pl": "spokojnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "calmly",
+    "ar": "بهدوء"
+   }
+  },
+  {
+   "id": "adverbs.ostroznie",
+   "rank": 161,
+   "pl": "ostrożnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "carefully",
+    "ar": "بحذر"
+   }
+  },
+  {
+   "id": "adverbs.uwaznie",
+   "rank": 162,
+   "pl": "uważnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "attentively",
+    "ar": "بانتباه"
+   }
+  },
+  {
+   "id": "adverbs.starannie",
+   "rank": 163,
+   "pl": "starannie",
+   "pos": "adverb",
+   "translations": {
+    "en": "carefully, neatly",
+    "ar": "بعناية"
+   }
+  },
+  {
+   "id": "adverbs.grzecznie",
+   "rank": 164,
+   "pl": "grzecznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "politely",
+    "ar": "بأدب"
+   }
+  },
+  {
+   "id": "adverbs.milo",
+   "rank": 165,
+   "pl": "miło",
+   "pos": "adverb",
+   "translations": {
+    "en": "nicely",
+    "ar": "بلطف"
+   }
+  },
+  {
+   "id": "adverbs.ladnie",
+   "rank": 166,
+   "pl": "ładnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "nicely, prettily",
+    "ar": "بشكل جميل"
+   }
+  },
+  {
+   "id": "adverbs.pieknie",
+   "rank": 167,
+   "pl": "pięknie",
+   "pos": "adverb",
+   "translations": {
+    "en": "beautifully",
+    "ar": "بشكل رائع"
+   }
+  },
+  {
+   "id": "adverbs.brzydko",
+   "rank": 168,
+   "pl": "brzydko",
+   "pos": "adverb",
+   "translations": {
+    "en": "in an ugly way",
+    "ar": "بشكل قبيح"
+   }
+  },
+  {
+   "id": "adverbs.swietnie",
+   "rank": 169,
+   "pl": "świetnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "excellently",
+    "ar": "بشكل ممتاز"
+   }
+  },
+  {
+   "id": "adverbs.wspaniale",
+   "rank": 170,
+   "pl": "wspaniale",
+   "pos": "adverb",
+   "translations": {
+    "en": "wonderfully",
+    "ar": "بشكل رائع"
+   }
+  },
+  {
+   "id": "adverbs.doskonale",
+   "rank": 171,
+   "pl": "doskonale",
+   "pos": "adverb",
+   "translations": {
+    "en": "perfectly",
+    "ar": "بشكل مثالي"
+   }
+  },
+  {
+   "id": "adverbs.okropnie",
+   "rank": 172,
+   "pl": "okropnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "awfully",
+    "ar": "بشكل فظيع"
+   }
+  },
+  {
+   "id": "adverbs.strasznie",
+   "rank": 173,
+   "pl": "strasznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "terribly",
+    "ar": "بشكل رهيب"
+   }
+  },
+  {
+   "id": "adverbs.fatalnie",
+   "rank": 174,
+   "pl": "fatalnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "dreadfully",
+    "ar": "بشكل سيء جدا"
+   }
+  },
+  {
+   "id": "adverbs.ciekawie",
+   "rank": 175,
+   "pl": "ciekawie",
+   "pos": "adverb",
+   "translations": {
+    "en": "interestingly",
+    "ar": "بشكل مثير"
+   }
+  },
+  {
+   "id": "adverbs.nudno",
+   "rank": 176,
+   "pl": "nudno",
+   "pos": "adverb",
+   "translations": {
+    "en": "boringly",
+    "ar": "بشكل ممل"
+   }
+  },
+  {
+   "id": "adverbs.smacznie",
+   "rank": 177,
+   "pl": "smacznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "tastily",
+    "ar": "بشكل لذيذ"
+   }
+  },
+  {
+   "id": "adverbs.wygodnie",
+   "rank": 178,
+   "pl": "wygodnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "comfortably",
+    "ar": "براحة"
+   }
+  },
+  {
+   "id": "adverbs.przyjemnie",
+   "rank": 179,
+   "pl": "przyjemnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "pleasantly",
+    "ar": "بشكل ممتع"
+   }
+  },
+  {
+   "id": "adverbs.goraco",
+   "rank": 180,
+   "pl": "gorąco",
+   "pos": "adverb",
+   "translations": {
+    "en": "hot, warmly",
+    "ar": "حار، بحرارة"
+   }
+  },
+  {
+   "id": "adverbs.cieplo",
+   "rank": 181,
+   "pl": "ciepło",
+   "pos": "adverb",
+   "translations": {
+    "en": "warm, warmly",
+    "ar": "دافئ"
+   }
+  },
+  {
+   "id": "adverbs.zimno",
+   "rank": 182,
+   "pl": "zimno",
+   "pos": "adverb",
+   "translations": {
+    "en": "cold",
+    "ar": "بارد"
+   }
+  },
+  {
+   "id": "adverbs.chlodno",
+   "rank": 183,
+   "pl": "chłodno",
+   "pos": "adverb",
+   "translations": {
+    "en": "cool, coolly",
+    "ar": "بارد قليلا"
+   }
+  },
+  {
+   "id": "adverbs.sucho",
+   "rank": 184,
+   "pl": "sucho",
+   "pos": "adverb",
+   "translations": {
+    "en": "dry",
+    "ar": "جاف"
+   }
+  },
+  {
+   "id": "adverbs.mokro",
+   "rank": 185,
+   "pl": "mokro",
+   "pos": "adverb",
+   "translations": {
+    "en": "wet",
+    "ar": "رطب"
+   }
+  },
+  {
+   "id": "adverbs.drogo",
+   "rank": 186,
+   "pl": "drogo",
+   "pos": "adverb",
+   "translations": {
+    "en": "expensively",
+    "ar": "بسعر غال"
+   }
+  },
+  {
+   "id": "adverbs.tanio",
+   "rank": 187,
+   "pl": "tanio",
+   "pos": "adverb",
+   "translations": {
+    "en": "cheaply",
+    "ar": "برخص"
+   }
+  },
+  {
+   "id": "adverbs.darmo",
+   "rank": 188,
+   "pl": "darmo",
+   "pos": "adverb",
+   "translations": {
+    "en": "for free",
+    "ar": "مجانا"
+   }
+  },
+  {
+   "id": "adverbs.za-darmo",
+   "rank": 189,
+   "pl": "za darmo",
+   "pos": "adverb",
+   "translations": {
+    "en": "for free",
+    "ar": "مجانا"
+   }
+  },
+  {
+   "id": "adverbs.powaznie",
+   "rank": 190,
+   "pl": "poważnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "seriously",
+    "ar": "بجدية"
+   }
+  },
+  {
+   "id": "adverbs.smiesznie",
+   "rank": 191,
+   "pl": "śmiesznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "funnily",
+    "ar": "بشكل مضحك"
+   }
+  },
+  {
+   "id": "adverbs.wesolo",
+   "rank": 192,
+   "pl": "wesoło",
+   "pos": "adverb",
+   "translations": {
+    "en": "cheerfully",
+    "ar": "بمرح"
+   }
+  },
+  {
+   "id": "adverbs.smutno",
+   "rank": 193,
+   "pl": "smutno",
+   "pos": "adverb",
+   "translations": {
+    "en": "sadly",
+    "ar": "بحزن"
+   }
+  },
+  {
+   "id": "adverbs.szczesliwie",
+   "rank": 194,
+   "pl": "szczęśliwie",
+   "pos": "adverb",
+   "translations": {
+    "en": "happily",
+    "ar": "بسعادة"
+   }
+  },
+  {
+   "id": "adverbs.bezpiecznie",
+   "rank": 195,
+   "pl": "bezpiecznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "safely",
+    "ar": "بأمان"
+   }
+  },
+  {
+   "id": "adverbs.niebezpiecznie",
+   "rank": 196,
+   "pl": "niebezpiecznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "dangerously",
+    "ar": "بشكل خطير"
+   }
+  },
+  {
+   "id": "adverbs.zdrowo",
+   "rank": 197,
+   "pl": "zdrowo",
+   "pos": "adverb",
+   "translations": {
+    "en": "healthily",
+    "ar": "بشكل صحي"
+   }
+  },
+  {
+   "id": "adverbs.dobrowolnie",
+   "rank": 198,
+   "pl": "dobrowolnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "voluntarily",
+    "ar": "طوعا"
+   }
+  },
+  {
+   "id": "adverbs.chetnie",
+   "rank": 199,
+   "pl": "chętnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "willingly, gladly",
+    "ar": "بكل سرور"
+   }
+  },
+  {
+   "id": "adverbs.niechetnie",
+   "rank": 200,
+   "pl": "niechętnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "reluctantly",
+    "ar": "على مضض"
+   }
+  },
+  {
+   "id": "adverbs.specjalnie",
+   "rank": 201,
+   "pl": "specjalnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "specially, on purpose",
+    "ar": "خصيصا، عمدا"
+   }
+  },
+  {
+   "id": "adverbs.przypadkiem",
+   "rank": 202,
+   "pl": "przypadkiem",
+   "pos": "adverb",
+   "translations": {
+    "en": "by chance",
+    "ar": "بالصدفة"
+   }
+  },
+  {
+   "id": "adverbs.nagle",
+   "rank": 203,
+   "pl": "nagle",
+   "pos": "adverb",
+   "translations": {
+    "en": "suddenly",
+    "ar": "فجأة"
+   }
+  },
+  {
+   "id": "adverbs.regularnie",
+   "rank": 204,
+   "pl": "regularnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "regularly",
+    "ar": "بانتظام"
+   }
+  },
+  {
+   "id": "adverbs.stale",
+   "rank": 205,
+   "pl": "stale",
+   "pos": "adverb",
+   "translations": {
+    "en": "constantly",
+    "ar": "باستمرار"
+   }
+  },
+  {
+   "id": "adverbs.punktualnie",
+   "rank": 206,
+   "pl": "punktualnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "on time",
+    "ar": "في الوقت المحدد"
+   }
+  },
+  {
+   "id": "adverbs.na-czas",
+   "rank": 207,
+   "pl": "na czas",
+   "pos": "adverb",
+   "translations": {
+    "en": "on time",
+    "ar": "في الوقت"
+   }
+  },
+  {
+   "id": "adverbs.w-czas",
+   "rank": 208,
+   "pl": "w czas",
+   "pos": "adverb",
+   "translations": {
+    "en": "in time",
+    "ar": "في الوقت المناسب"
+   }
+  },
+  {
+   "id": "adverbs.wkrotce",
+   "rank": 209,
+   "pl": "wkrótce",
+   "pos": "adverb",
+   "translations": {
+    "en": "soon",
+    "ar": "قريبا"
+   }
+  },
+  {
+   "id": "adverbs.niedlugo",
+   "rank": 210,
+   "pl": "niedługo",
+   "pos": "adverb",
+   "translations": {
+    "en": "soon",
+    "ar": "قريبا"
+   }
+  },
+  {
+   "id": "adverbs.tymczasem",
+   "rank": 211,
+   "pl": "tymczasem",
+   "pos": "adverb",
+   "translations": {
+    "en": "meanwhile",
+    "ar": "في هذه الأثناء"
+   }
+  },
+  {
+   "id": "adverbs.jednoczesnie",
+   "rank": 212,
+   "pl": "jednocześnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "at the same time",
+    "ar": "في نفس الوقت"
+   }
+  },
+  {
+   "id": "adverbs.naraz",
+   "rank": 213,
+   "pl": "naraz",
+   "pos": "adverb",
+   "translations": {
+    "en": "at once, all at once",
+    "ar": "دفعة واحدة"
+   }
+  },
+  {
+   "id": "adverbs.znowu",
+   "rank": 214,
+   "pl": "znowu",
+   "pos": "adverb",
+   "translations": {
+    "en": "again",
+    "ar": "مرة أخرى"
+   }
+  },
+  {
+   "id": "adverbs.znow",
+   "rank": 215,
+   "pl": "znów",
+   "pos": "adverb",
+   "translations": {
+    "en": "again",
+    "ar": "مرة أخرى"
+   }
+  },
+  {
+   "id": "adverbs.ponownie",
+   "rank": 216,
+   "pl": "ponownie",
+   "pos": "adverb",
+   "translations": {
+    "en": "again",
+    "ar": "من جديد"
+   }
+  },
+  {
+   "id": "adverbs.jeszcze-raz",
+   "rank": 217,
+   "pl": "jeszcze raz",
+   "pos": "adverb",
+   "translations": {
+    "en": "once more",
+    "ar": "مرة أخرى"
+   }
+  },
+  {
+   "id": "adverbs.raz",
+   "rank": 218,
+   "pl": "raz",
+   "pos": "adverb",
+   "translations": {
+    "en": "once",
+    "ar": "مرة"
+   }
+  },
+  {
+   "id": "adverbs.dwa-razy",
+   "rank": 219,
+   "pl": "dwa razy",
+   "pos": "adverb",
+   "translations": {
+    "en": "twice",
+    "ar": "مرتين"
+   }
+  },
+  {
+   "id": "adverbs.po-raz-pierwszy",
+   "rank": 220,
+   "pl": "po raz pierwszy",
+   "pos": "adverb",
+   "translations": {
+    "en": "for the first time",
+    "ar": "لأول مرة"
+   }
+  },
+  {
+   "id": "adverbs.pierwszy-raz",
+   "rank": 221,
+   "pl": "pierwszy raz",
+   "pos": "adverb",
+   "translations": {
+    "en": "the first time",
+    "ar": "المرة الأولى"
+   }
+  },
+  {
+   "id": "adverbs.ostatni-raz",
+   "rank": 222,
+   "pl": "ostatni raz",
+   "pos": "adverb",
+   "translations": {
+    "en": "the last time",
+    "ar": "آخر مرة"
+   }
+  },
+  {
+   "id": "adverbs.po-polsku",
+   "rank": 223,
+   "pl": "po polsku",
+   "pos": "adverb",
+   "translations": {
+    "en": "in Polish",
+    "ar": "بالبولندية"
+   }
+  },
+  {
+   "id": "adverbs.po-angielsku",
+   "rank": 224,
+   "pl": "po angielsku",
+   "pos": "adverb",
+   "translations": {
+    "en": "in English",
+    "ar": "بالإنجليزية"
+   }
+  },
+  {
+   "id": "adverbs.po-arabsku",
+   "rank": 225,
+   "pl": "po arabsku",
+   "pos": "adverb",
+   "translations": {
+    "en": "in Arabic",
+    "ar": "بالعربية"
+   }
+  },
+  {
+   "id": "adverbs.po-niemiecku",
+   "rank": 226,
+   "pl": "po niemiecku",
+   "pos": "adverb",
+   "translations": {
+    "en": "in German",
+    "ar": "بالألمانية"
+   }
+  },
+  {
+   "id": "adverbs.pieszo",
+   "rank": 227,
+   "pl": "pieszo",
+   "pos": "adverb",
+   "translations": {
+    "en": "on foot",
+    "ar": "سيرا على الأقدام"
+   }
+  },
+  {
+   "id": "adverbs.piechota",
+   "rank": 228,
+   "pl": "piechotą",
+   "pos": "adverb",
+   "translations": {
+    "en": "on foot",
+    "ar": "مشيا"
+   }
+  },
+  {
+   "id": "adverbs.samochodem",
+   "rank": 229,
+   "pl": "samochodem",
+   "pos": "adverb",
+   "translations": {
+    "en": "by car",
+    "ar": "بالسيارة"
+   }
+  },
+  {
+   "id": "adverbs.autobusem",
+   "rank": 230,
+   "pl": "autobusem",
+   "pos": "adverb",
+   "translations": {
+    "en": "by bus",
+    "ar": "بالحافلة"
+   }
+  },
+  {
+   "id": "adverbs.pociagiem",
+   "rank": 231,
+   "pl": "pociągiem",
+   "pos": "adverb",
+   "translations": {
+    "en": "by train",
+    "ar": "بالقطار"
+   }
+  },
+  {
+   "id": "adverbs.osobiscie",
+   "rank": 232,
+   "pl": "osobiście",
+   "pos": "adverb",
+   "translations": {
+    "en": "personally",
+    "ar": "شخصيا"
+   }
+  },
+  {
+   "id": "adverbs.publicznie",
+   "rank": 233,
+   "pl": "publicznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "publicly",
+    "ar": "علنا"
+   }
+  },
+  {
+   "id": "adverbs.prywatnie",
+   "rank": 234,
+   "pl": "prywatnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "privately",
+    "ar": "بشكل خاص"
+   }
+  },
+  {
+   "id": "adverbs.oficjalnie",
+   "rank": 235,
+   "pl": "oficjalnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "officially",
+    "ar": "رسميا"
+   }
+  },
+  {
+   "id": "adverbs.nieoficjalnie",
+   "rank": 236,
+   "pl": "nieoficjalnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "unofficially",
+    "ar": "بشكل غير رسمي"
+   }
+  },
+  {
+   "id": "adverbs.ogolnie",
+   "rank": 237,
+   "pl": "ogólnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "generally",
+    "ar": "عموما"
+   }
+  },
+  {
+   "id": "adverbs.zasadniczo",
+   "rank": 238,
+   "pl": "zasadniczo",
+   "pos": "adverb",
+   "translations": {
+    "en": "basically",
+    "ar": "بشكل أساسي"
+   }
+  },
+  {
+   "id": "adverbs.praktycznie",
+   "rank": 239,
+   "pl": "praktycznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "practically",
+    "ar": "عمليا"
+   }
+  },
+  {
+   "id": "adverbs.teoretycznie",
+   "rank": 240,
+   "pl": "teoretycznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "theoretically",
+    "ar": "نظريا"
+   }
+  },
+  {
+   "id": "adverbs.bezposrednio",
+   "rank": 241,
+   "pl": "bezpośrednio",
+   "pos": "adverb",
+   "translations": {
+    "en": "directly",
+    "ar": "مباشرة"
+   }
+  },
+  {
+   "id": "adverbs.posrednio",
+   "rank": 242,
+   "pl": "pośrednio",
+   "pos": "adverb",
+   "translations": {
+    "en": "indirectly",
+    "ar": "بشكل غير مباشر"
+   }
+  },
+  {
+   "id": "adverbs.szeroko",
+   "rank": 243,
+   "pl": "szeroko",
+   "pos": "adverb",
+   "translations": {
+    "en": "widely",
+    "ar": "على نطاق واسع"
+   }
+  },
+  {
+   "id": "adverbs.wasko",
+   "rank": 244,
+   "pl": "wąsko",
+   "pos": "adverb",
+   "translations": {
+    "en": "narrowly",
+    "ar": "بشكل ضيق"
+   }
+  },
+  {
+   "id": "adverbs.krotko-mowiac",
+   "rank": 245,
+   "pl": "krótko mówiąc",
+   "pos": "adverb",
+   "translations": {
+    "en": "in short",
+    "ar": "باختصار"
+   }
+  },
+  {
+   "id": "adverbs.inaczej-mowiac",
+   "rank": 246,
+   "pl": "inaczej mówiąc",
+   "pos": "adverb",
+   "translations": {
+    "en": "in other words",
+    "ar": "بعبارة أخرى"
+   }
+  },
+  {
+   "id": "adverbs.na-przyklad",
+   "rank": 247,
+   "pl": "na przykład",
+   "pos": "adverb",
+   "translations": {
+    "en": "for example",
+    "ar": "على سبيل المثال"
+   }
+  },
+  {
+   "id": "adverbs.miedzy-innymi",
+   "rank": 248,
+   "pl": "między innymi",
+   "pos": "adverb",
+   "translations": {
+    "en": "among others",
+    "ar": "من بين أمور أخرى"
+   }
+  },
+  {
+   "id": "adverbs.w-ogole",
+   "rank": 249,
+   "pl": "w ogóle",
+   "pos": "adverb",
+   "translations": {
+    "en": "at all, in general",
+    "ar": "على الإطلاق، عموما"
+   }
+  },
+  {
+   "id": "adverbs.wcale",
+   "rank": 250,
+   "pl": "wcale",
+   "pos": "adverb",
+   "translations": {
+    "en": "at all (with negation)",
+    "ar": "إطلاقا"
+   }
+  },
+  {
+   "id": "adverbs.ani-troche",
+   "rank": 251,
+   "pl": "ani trochę",
+   "pos": "adverb",
+   "translations": {
+    "en": "not a bit",
+    "ar": "ولا قليلا"
+   }
+  },
+  {
+   "id": "adverbs.bynajmniej",
+   "rank": 252,
+   "pl": "bynajmniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "not at all",
+    "ar": "على الإطلاق"
+   }
+  },
+  {
+   "id": "adverbs.znacznie",
+   "rank": 253,
+   "pl": "znacznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "considerably",
+    "ar": "بشكل كبير"
+   }
+  },
+  {
+   "id": "adverbs.wyjatkowo",
+   "rank": 254,
+   "pl": "wyjątkowo",
+   "pos": "adverb",
+   "translations": {
+    "en": "exceptionally",
+    "ar": "بشكل استثنائي"
+   }
+  },
+  {
+   "id": "adverbs.niezwykle",
+   "rank": 255,
+   "pl": "niezwykle",
+   "pos": "adverb",
+   "translations": {
+    "en": "extremely, unusually",
+    "ar": "للغاية"
+   }
+  },
+  {
+   "id": "adverbs.niesamowicie",
+   "rank": 256,
+   "pl": "niesamowicie",
+   "pos": "adverb",
+   "translations": {
+    "en": "incredibly",
+    "ar": "بشكل لا يصدق"
+   }
+  },
+  {
+   "id": "adverbs.absolutnie",
+   "rank": 257,
+   "pl": "absolutnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "absolutely",
+    "ar": "بالتأكيد"
+   }
+  },
+  {
+   "id": "adverbs.zdecydowanie",
+   "rank": 258,
+   "pl": "zdecydowanie",
+   "pos": "adverb",
+   "translations": {
+    "en": "definitely",
+    "ar": "بالتأكيد"
+   }
+  },
+  {
+   "id": "adverbs.raczej",
+   "rank": 259,
+   "pl": "raczej",
+   "pos": "adverb",
+   "translations": {
+    "en": "rather",
+    "ar": "بالأحرى"
+   }
+  },
+  {
+   "id": "adverbs.przynajmniej",
+   "rank": 260,
+   "pl": "przynajmniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "at least",
+    "ar": "على الأقل"
+   }
+  },
+  {
+   "id": "adverbs.co-najmniej",
+   "rank": 261,
+   "pl": "co najmniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "at least",
+    "ar": "على الأقل"
+   }
+  },
+  {
+   "id": "adverbs.co-najwyzej",
+   "rank": 262,
+   "pl": "co najwyżej",
+   "pos": "adverb",
+   "translations": {
+    "en": "at most",
+    "ar": "على الأكثر"
+   }
+  },
+  {
+   "id": "adverbs.mimo-to",
+   "rank": 263,
+   "pl": "mimo to",
+   "pos": "adverb",
+   "translations": {
+    "en": "nevertheless",
+    "ar": "ومع ذلك"
+   }
+  },
+  {
+   "id": "adverbs.jednak",
+   "rank": 264,
+   "pl": "jednak",
+   "pos": "adverb",
+   "translations": {
+    "en": "however",
+    "ar": "لكن"
+   }
+  },
+  {
+   "id": "adverbs.dlatego",
+   "rank": 265,
+   "pl": "dlatego",
+   "pos": "adverb",
+   "translations": {
+    "en": "therefore",
+    "ar": "لذلك"
+   }
+  },
+  {
+   "id": "adverbs.poza-tym",
+   "rank": 266,
+   "pl": "poza tym",
+   "pos": "adverb",
+   "translations": {
+    "en": "besides",
+    "ar": "بالإضافة إلى ذلك"
+   }
+  },
+  {
+   "id": "adverbs.w-dodatku",
+   "rank": 267,
+   "pl": "w dodatku",
+   "pos": "adverb",
+   "translations": {
+    "en": "moreover",
+    "ar": "علاوة على ذلك"
+   }
+  },
+  {
+   "id": "adverbs.zamiast-tego",
+   "rank": 268,
+   "pl": "zamiast tego",
+   "pos": "adverb",
+   "translations": {
+    "en": "instead",
+    "ar": "بدلا من ذلك"
+   }
+  },
+  {
+   "id": "adverbs.nawzajem",
+   "rank": 269,
+   "pl": "nawzajem",
+   "pos": "adverb",
+   "translations": {
+    "en": "likewise, mutually",
+    "ar": "وأنت كذلك"
+   }
+  },
+  {
+   "id": "adverbs.wprost",
+   "rank": 270,
+   "pl": "wprost",
+   "pos": "adverb",
+   "translations": {
+    "en": "directly, outright",
+    "ar": "مباشرة"
+   }
+  },
+  {
+   "id": "adverbs.naturalnie",
+   "rank": 271,
+   "pl": "naturalnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "naturally",
+    "ar": "طبيعيا، بالطبع"
+   }
+  },
+  {
+   "id": "adverbs.sprawnie",
+   "rank": 272,
+   "pl": "sprawnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "efficiently",
+    "ar": "بكفاءة"
+   }
+  },
+  {
+   "id": "adverbs.skutecznie",
+   "rank": 273,
+   "pl": "skutecznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "effectively",
+    "ar": "بفعالية"
+   }
+  },
+  {
+   "id": "adverbs.aktywnie",
+   "rank": 274,
+   "pl": "aktywnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "actively",
+    "ar": "بنشاط"
+   }
+  },
+  {
+   "id": "adverbs.biegle",
+   "rank": 275,
+   "pl": "biegle",
+   "pos": "adverb",
+   "translations": {
+    "en": "fluently",
+    "ar": "بطلاقة"
+   }
+  },
+  {
+   "id": "adverbs.plynnie",
+   "rank": 276,
+   "pl": "płynnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "fluently, smoothly",
+    "ar": "بطلاقة، بسلاسة"
+   }
+  },
+  {
+   "id": "adverbs.poprawnie",
+   "rank": 277,
+   "pl": "poprawnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "correctly",
+    "ar": "بشكل صحيح"
+   }
+  },
+  {
+   "id": "adverbs.blednie",
+   "rank": 278,
+   "pl": "błędnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "wrongly",
+    "ar": "بشكل خاطئ"
+   }
+  },
+  {
+   "id": "adverbs.wysoce",
+   "rank": 279,
+   "pl": "wysoce",
+   "pos": "adverb",
+   "translations": {
+    "en": "highly",
+    "ar": "بدرجة عالية"
+   }
+  },
+  {
+   "id": "adverbs.czesciowo",
+   "rank": 280,
+   "pl": "częściowo",
+   "pos": "adverb",
+   "translations": {
+    "en": "partly",
+    "ar": "جزئيا"
+   }
+  },
+  {
+   "id": "adverbs.madrze",
+   "rank": 281,
+   "pl": "mądrze",
+   "pos": "adverb",
+   "translations": {
+    "en": "wisely",
+    "ar": "بحكمة"
+   }
+  },
+  {
+   "id": "adverbs.glupio",
+   "rank": 282,
+   "pl": "głupio",
+   "pos": "adverb",
+   "translations": {
+    "en": "foolishly",
+    "ar": "بغباء"
+   }
+  },
+  {
+   "id": "adverbs.uczciwie",
+   "rank": 283,
+   "pl": "uczciwie",
+   "pos": "adverb",
+   "translations": {
+    "en": "honestly",
+    "ar": "بصدق"
+   }
+  },
+  {
+   "id": "adverbs.szczerze",
+   "rank": 284,
+   "pl": "szczerze",
+   "pos": "adverb",
+   "translations": {
+    "en": "sincerely, frankly",
+    "ar": "بصراحة"
+   }
+  },
+  {
+   "id": "adverbs.otwarcie",
+   "rank": 285,
+   "pl": "otwarcie",
+   "pos": "adverb",
+   "translations": {
+    "en": "openly",
+    "ar": "بصراحة"
+   }
+  },
+  {
+   "id": "adverbs.cierpliwie",
+   "rank": 286,
+   "pl": "cierpliwie",
+   "pos": "adverb",
+   "translations": {
+    "en": "patiently",
+    "ar": "بصبر"
+   }
+  },
+  {
+   "id": "adverbs.nerwowo",
+   "rank": 287,
+   "pl": "nerwowo",
+   "pos": "adverb",
+   "translations": {
+    "en": "nervously",
+    "ar": "بعصبية"
+   }
+  },
+  {
+   "id": "adverbs.odwaznie",
+   "rank": 288,
+   "pl": "odważnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "bravely",
+    "ar": "بشجاعة"
+   }
+  },
+  {
+   "id": "adverbs.samodzielnie",
+   "rank": 289,
+   "pl": "samodzielnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "independently",
+    "ar": "باستقلالية"
+   }
+  },
+  {
+   "id": "adverbs.wspolnie",
+   "rank": 290,
+   "pl": "wspólnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "jointly",
+    "ar": "معا"
+   }
+  },
+  {
+   "id": "adverbs.indywidualnie",
+   "rank": 291,
+   "pl": "indywidualnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "individually",
+    "ar": "بشكل فردي"
+   }
+  },
+  {
+   "id": "adverbs.masowo",
+   "rank": 292,
+   "pl": "masowo",
+   "pos": "adverb",
+   "translations": {
+    "en": "en masse",
+    "ar": "بشكل جماعي"
+   }
+  },
+  {
+   "id": "adverbs.tygodniowo",
+   "rank": 293,
+   "pl": "tygodniowo",
+   "pos": "adverb",
+   "translations": {
+    "en": "weekly",
+    "ar": "أسبوعيا"
+   }
+  },
+  {
+   "id": "adverbs.miesiecznie",
+   "rank": 294,
+   "pl": "miesięcznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "monthly",
+    "ar": "شهريا"
+   }
+  },
+  {
+   "id": "adverbs.rocznie",
+   "rank": 295,
+   "pl": "rocznie",
+   "pos": "adverb",
+   "translations": {
+    "en": "annually",
+    "ar": "سنويا"
+   }
+  },
+  {
+   "id": "adverbs.dziennie",
+   "rank": 296,
+   "pl": "dziennie",
+   "pos": "adverb",
+   "translations": {
+    "en": "daily, per day",
+    "ar": "يوميا"
+   }
+  },
+  {
+   "id": "adverbs.obecnie",
+   "rank": 297,
+   "pl": "obecnie",
+   "pos": "adverb",
+   "translations": {
+    "en": "currently",
+    "ar": "حاليا"
+   }
+  },
+  {
+   "id": "adverbs.dawniej",
+   "rank": 298,
+   "pl": "dawniej",
+   "pos": "adverb",
+   "translations": {
+    "en": "formerly",
+    "ar": "في الماضي"
+   }
+  },
+  {
+   "id": "adverbs.dotychczas",
+   "rank": 299,
+   "pl": "dotychczas",
+   "pos": "adverb",
+   "translations": {
+    "en": "so far",
+    "ar": "حتى الآن"
+   }
+  },
+  {
+   "id": "adverbs.dotad",
+   "rank": 300,
+   "pl": "dotąd",
+   "pos": "adverb",
+   "translations": {
+    "en": "so far, up to here",
+    "ar": "حتى الآن"
+   }
+  },
+  {
+   "id": "adverbs.odtad",
+   "rank": 301,
+   "pl": "odtąd",
+   "pos": "adverb",
+   "translations": {
+    "en": "from now on",
+    "ar": "من الآن فصاعدا"
+   }
+  },
+  {
+   "id": "adverbs.zawczasu",
+   "rank": 302,
+   "pl": "zawczasu",
+   "pos": "adverb",
+   "translations": {
+    "en": "in advance",
+    "ar": "مسبقا"
+   }
+  },
+  {
+   "id": "adverbs.z-gory",
+   "rank": 303,
+   "pl": "z góry",
+   "pos": "adverb",
+   "translations": {
+    "en": "in advance",
+    "ar": "مقدما"
+   }
+  },
+  {
+   "id": "adverbs.coraz",
+   "rank": 304,
+   "pl": "coraz",
+   "pos": "adverb",
+   "translations": {
+    "en": "increasingly",
+    "ar": "أكثر فأكثر"
+   }
+  },
+  {
+   "id": "adverbs.ledwo",
+   "rank": 305,
+   "pl": "ledwo",
+   "pos": "adverb",
+   "translations": {
+    "en": "barely",
+    "ar": "بالكاد"
+   }
+  }
+ ]
+}

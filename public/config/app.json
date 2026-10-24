@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "appName": "Polski B1",
+  "navigation": [
+    { "id": "study", "label": "Study", "icon": "book", "status": "active",
+      "pages": [{ "id": "flash-cards", "label": "Flash Cards", "description": "Polish words with their meaning on the back", "status": "active" }] },
+    { "id": "practice", "label": "Practice", "icon": "pencil", "status": "construction" },
+    { "id": "exercises", "label": "Exercises", "icon": "list", "status": "construction" },
+    { "id": "test", "label": "Test", "icon": "check", "status": "construction" },
+    { "id": "statistics", "label": "Statistics", "icon": "chart", "status": "active" },
+    { "id": "settings", "label": "Settings", "icon": "gear", "status": "active" }
+  ],
+  "translationLanguages": [
+    { "code": "en", "label": "English", "nativeLabel": "English", "dir": "ltr" },
+    { "code": "ar", "label": "Arabic", "nativeLabel": "العربية", "dir": "rtl" }
+  ],
+  "defaults": {
+    "translationLanguage": "en",
+    "direction": "pl-to-translation",
+    "wordCategory": "nouns-adjectives"
+  },
+  "speech": { "lang": "pl-PL", "rate": 0.9, "slowRate": 0.6 },
+  "wordCategories": [
+    { "id": "nouns-adjectives", "label": "Nouns & Adjectives", "file": "data/words/nouns-adjectives.json",
+      "selection": { "mode": "top", "count": 1000 } },
+    { "id": "adverbs", "label": "Adverbs", "file": "data/words/adverbs.json",
+      "selection": { "mode": "top", "count": 300 } },
+    { "id": "verbs", "label": "Verbs", "file": "data/words/verbs.json",
+      "selection": { "mode": "top", "count": 300 } },
+    { "id": "pronouns", "label": "Pronouns", "file": "data/words/pronouns.json",
+      "selection": { "mode": "allIfUnder", "threshold": 50, "otherwiseTop": 100 } },
+    { "id": "conjunctions", "label": "Conjunctions", "file": "data/words/conjunctions.json",
+      "selection": { "mode": "allIfUnder", "threshold": 50, "otherwiseTop": 100 } },
+    { "id": "prepositions", "label": "Prepositions", "file": "data/words/prepositions.json",
+      "selection": { "mode": "allIfUnder", "threshold": 50, "otherwiseTop": 100 } },
+    { "id": "interrogatives", "label": "Interrogative", "file": "data/words/interrogatives.json",
+      "selection": { "mode": "allIfUnder", "threshold": 50, "otherwiseTop": 100 } }
+  ],
+  "tests": {
+    "passThresholdPercent": 50,
+    "passRule": "everySection",
+    "sections": [
+      { "id": "reading", "label": "Reading", "autoScored": true },
+      { "id": "listening", "label": "Listening", "autoScored": true },
+      { "id": "grammar", "label": "Grammar", "autoScored": true },
+      { "id": "writing", "label": "Writing", "autoScored": false }
+    ]
+  },
+  "statistics": {
+    "ranges": [
+      { "id": "7d", "label": "1 week", "days": 7 },
+      { "id": "30d", "label": "30 days", "days": 30 }
+    ],
+    "defaultRange": "30d",
+    "recentAttempts": 10
+  }
+}

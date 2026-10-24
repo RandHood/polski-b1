@@ -1,0 +1,306 @@
+# Polish adverbs, most frequent first. Format: polish|english|arabic
+tak|yes, so|نعم، هكذا
+nie|no, not|لا
+już|already|بالفعل
+jeszcze|still, yet|ما زال
+bardzo|very|جدا
+teraz|now|الآن
+tu|here|هنا
+tutaj|here|هنا
+tam|there|هناك
+dziś|today|اليوم
+dzisiaj|today|اليوم
+jutro|tomorrow|غدا
+wczoraj|yesterday|أمس
+pojutrze|the day after tomorrow|بعد غد
+przedwczoraj|the day before yesterday|أول أمس
+zawsze|always|دائما
+nigdy|never|أبدا
+często|often|غالبا
+rzadko|rarely|نادرا
+czasem|sometimes|أحيانا
+czasami|sometimes|أحيانا
+zwykle|usually|عادة
+zazwyczaj|usually|عادة
+codziennie|every day|كل يوم
+wtedy|then|حينئذ
+potem|afterwards|بعد ذلك
+później|later|لاحقا
+wcześniej|earlier|في وقت سابق
+najpierw|first|أولا
+następnie|next, then|ثم
+wreszcie|finally|أخيرا
+w końcu|in the end, finally|في النهاية
+nareszcie|at last|أخيرا
+zaraz|in a moment|حالا
+od razu|at once|فورا
+natychmiast|immediately|فورا
+szybko|quickly|بسرعة
+wolno|slowly|ببطء
+powoli|slowly|ببطء
+dawno|long ago|منذ زمن بعيد
+niedawno|recently|مؤخرا
+ostatnio|lately|مؤخرا
+właśnie|just, exactly|للتو، بالضبط
+wciąż|still, constantly|ما زال
+ciągle|constantly|باستمرار
+nadal|still|ما زال
+długo|for a long time|طويلا
+krótko|briefly|لفترة قصيرة
+wcześnie|early|مبكرا
+późno|late|متأخرا
+rano|in the morning|صباحا
+wieczorem|in the evening|مساء
+w nocy|at night|ليلا
+po południu|in the afternoon|بعد الظهر
+latem|in summer|في الصيف
+zimą|in winter|في الشتاء
+wiosną|in spring|في الربيع
+jesienią|in autumn|في الخريف
+dobrze|well|جيدا
+źle|badly|بشكل سيء
+lepiej|better|أفضل
+gorzej|worse|أسوأ
+najlepiej|best|الأفضل
+dużo|a lot|كثيرا
+mało|little|قليلا
+trochę|a little|قليلا
+więcej|more|أكثر
+mniej|less|أقل
+najwięcej|the most|الأكثر
+najmniej|the least|الأقل
+bardziej|more (degree)|أكثر
+mocno|strongly, hard|بقوة
+słabo|weakly|بضعف
+zbyt|too|أكثر من اللازم
+za bardzo|too much|أكثر من اللازم
+dosyć|enough, quite|كفاية، إلى حد ما
+dość|enough, quite|كفاية، إلى حد ما
+całkiem|quite|تماما، إلى حد ما
+zupełnie|completely|تماما
+całkowicie|completely|كليا
+prawie|almost|تقريبا
+około|about, approximately|حوالي
+mniej więcej|more or less|تقريبا
+tylko|only|فقط
+jedynie|merely|فقط
+także|also|أيضا
+też|too, also|أيضا
+również|also|كذلك
+nawet|even|حتى
+szczególnie|especially|خاصة
+zwłaszcza|especially|خصوصا
+głównie|mainly|بشكل رئيسي
+przede wszystkim|above all|قبل كل شيء
+naprawdę|really|حقا
+rzeczywiście|indeed|فعلا
+na pewno|certainly|بالتأكيد
+pewnie|probably, surely|على الأرجح
+chyba|probably, I guess|ربما
+może|maybe|ربما
+prawdopodobnie|probably|على الأرجح
+oczywiście|of course|بالطبع
+koniecznie|necessarily|بالضرورة
+niestety|unfortunately|للأسف
+na szczęście|fortunately|لحسن الحظ
+właściwie|actually|في الواقع
+faktycznie|in fact|فعلا
+dokładnie|exactly|بالضبط
+razem|together|معا
+osobno|separately|بشكل منفصل
+sam|alone|وحده
+wszędzie|everywhere|في كل مكان
+nigdzie|nowhere|لا مكان
+gdzieś|somewhere|في مكان ما
+gdziekolwiek|anywhere|في أي مكان
+kiedyś|once, someday|يوما ما
+kiedykolwiek|ever|في أي وقت
+jakoś|somehow|بطريقة ما
+inaczej|differently, otherwise|بشكل مختلف، وإلا
+podobnie|similarly|بالمثل
+tak samo|the same way|بنفس الطريقة
+blisko|near|قريبا
+daleko|far|بعيدا
+obok|next to, nearby|بجانب
+naprzeciwko|opposite|مقابل
+wysoko|high|عاليا
+nisko|low|منخفضا
+głęboko|deeply|بعمق
+na górze|upstairs, at the top|في الأعلى
+na dole|downstairs, at the bottom|في الأسفل
+w górę|up|إلى الأعلى
+w dół|down|إلى الأسفل
+do przodu|forward|إلى الأمام
+do tyłu|backwards|إلى الخلف
+z przodu|at the front|في الأمام
+z tyłu|at the back|في الخلف
+w środku|inside, in the middle|في الداخل
+na zewnątrz|outside|في الخارج
+wewnątrz|inside|داخل
+dookoła|around|حول
+prosto|straight ahead, simply|مباشرة، ببساطة
+w prawo|to the right|إلى اليمين
+w lewo|to the left|إلى اليسار
+na prawo|on the right|على اليمين
+na lewo|on the left|على اليسار
+stąd|from here|من هنا
+stamtąd|from there|من هناك
+tędy|this way|من هذا الطريق
+w domu|at home|في البيت
+do domu|home (direction)|إلى البيت
+za granicą|abroad|في الخارج
+za granicę|abroad (direction)|إلى الخارج
+łatwo|easily|بسهولة
+trudno|with difficulty|بصعوبة
+ciężko|hard, heavily|بصعوبة
+jasno|clearly, brightly|بوضوح
+ciemno|dark|مظلم
+wyraźnie|clearly|بوضوح
+głośno|loudly|بصوت عال
+cicho|quietly|بهدوء
+spokojnie|calmly|بهدوء
+ostrożnie|carefully|بحذر
+uważnie|attentively|بانتباه
+starannie|carefully, neatly|بعناية
+grzecznie|politely|بأدب
+miło|nicely|بلطف
+ładnie|nicely, prettily|بشكل جميل
+pięknie|beautifully|بشكل رائع
+brzydko|in an ugly way|بشكل قبيح
+świetnie|excellently|بشكل ممتاز
+wspaniale|wonderfully|بشكل رائع
+doskonale|perfectly|بشكل مثالي
+okropnie|awfully|بشكل فظيع
+strasznie|terribly|بشكل رهيب
+fatalnie|dreadfully|بشكل سيء جدا
+ciekawie|interestingly|بشكل مثير
+nudno|boringly|بشكل ممل
+smacznie|tastily|بشكل لذيذ
+wygodnie|comfortably|براحة
+przyjemnie|pleasantly|بشكل ممتع
+gorąco|hot, warmly|حار، بحرارة
+ciepło|warm, warmly|دافئ
+zimno|cold|بارد
+chłodno|cool, coolly|بارد قليلا
+sucho|dry|جاف
+mokro|wet|رطب
+drogo|expensively|بسعر غال
+tanio|cheaply|برخص
+darmo|for free|مجانا
+za darmo|for free|مجانا
+poważnie|seriously|بجدية
+śmiesznie|funnily|بشكل مضحك
+wesoło|cheerfully|بمرح
+smutno|sadly|بحزن
+szczęśliwie|happily|بسعادة
+bezpiecznie|safely|بأمان
+niebezpiecznie|dangerously|بشكل خطير
+zdrowo|healthily|بشكل صحي
+dobrowolnie|voluntarily|طوعا
+chętnie|willingly, gladly|بكل سرور
+niechętnie|reluctantly|على مضض
+specjalnie|specially, on purpose|خصيصا، عمدا
+przypadkiem|by chance|بالصدفة
+nagle|suddenly|فجأة
+regularnie|regularly|بانتظام
+stale|constantly|باستمرار
+punktualnie|on time|في الوقت المحدد
+na czas|on time|في الوقت
+w czas|in time|في الوقت المناسب
+wkrótce|soon|قريبا
+niedługo|soon|قريبا
+tymczasem|meanwhile|في هذه الأثناء
+jednocześnie|at the same time|في نفس الوقت
+naraz|at once, all at once|دفعة واحدة
+znowu|again|مرة أخرى
+znów|again|مرة أخرى
+ponownie|again|من جديد
+jeszcze raz|once more|مرة أخرى
+raz|once|مرة
+dwa razy|twice|مرتين
+po raz pierwszy|for the first time|لأول مرة
+pierwszy raz|the first time|المرة الأولى
+ostatni raz|the last time|آخر مرة
+po polsku|in Polish|بالبولندية
+po angielsku|in English|بالإنجليزية
+po arabsku|in Arabic|بالعربية
+po niemiecku|in German|بالألمانية
+pieszo|on foot|سيرا على الأقدام
+piechotą|on foot|مشيا
+samochodem|by car|بالسيارة
+autobusem|by bus|بالحافلة
+pociągiem|by train|بالقطار
+osobiście|personally|شخصيا
+publicznie|publicly|علنا
+prywatnie|privately|بشكل خاص
+oficjalnie|officially|رسميا
+nieoficjalnie|unofficially|بشكل غير رسمي
+ogólnie|generally|عموما
+zasadniczo|basically|بشكل أساسي
+praktycznie|practically|عمليا
+teoretycznie|theoretically|نظريا
+bezpośrednio|directly|مباشرة
+pośrednio|indirectly|بشكل غير مباشر
+szeroko|widely|على نطاق واسع
+wąsko|narrowly|بشكل ضيق
+krótko mówiąc|in short|باختصار
+inaczej mówiąc|in other words|بعبارة أخرى
+na przykład|for example|على سبيل المثال
+między innymi|among others|من بين أمور أخرى
+w ogóle|at all, in general|على الإطلاق، عموما
+wcale|at all (with negation)|إطلاقا
+ani trochę|not a bit|ولا قليلا
+bynajmniej|not at all|على الإطلاق
+znacznie|considerably|بشكل كبير
+wyjątkowo|exceptionally|بشكل استثنائي
+niezwykle|extremely, unusually|للغاية
+niesamowicie|incredibly|بشكل لا يصدق
+absolutnie|absolutely|بالتأكيد
+zdecydowanie|definitely|بالتأكيد
+raczej|rather|بالأحرى
+przynajmniej|at least|على الأقل
+co najmniej|at least|على الأقل
+co najwyżej|at most|على الأكثر
+mimo to|nevertheless|ومع ذلك
+jednak|however|لكن
+dlatego|therefore|لذلك
+poza tym|besides|بالإضافة إلى ذلك
+w dodatku|moreover|علاوة على ذلك
+zamiast tego|instead|بدلا من ذلك
+nawzajem|likewise, mutually|وأنت كذلك
+wprost|directly, outright|مباشرة
+naturalnie|naturally|طبيعيا، بالطبع
+sprawnie|efficiently|بكفاءة
+skutecznie|effectively|بفعالية
+aktywnie|actively|بنشاط
+biegle|fluently|بطلاقة
+płynnie|fluently, smoothly|بطلاقة، بسلاسة
+poprawnie|correctly|بشكل صحيح
+błędnie|wrongly|بشكل خاطئ
+wysoce|highly|بدرجة عالية
+częściowo|partly|جزئيا
+mądrze|wisely|بحكمة
+głupio|foolishly|بغباء
+uczciwie|honestly|بصدق
+szczerze|sincerely, frankly|بصراحة
+otwarcie|openly|بصراحة
+cierpliwie|patiently|بصبر
+nerwowo|nervously|بعصبية
+odważnie|bravely|بشجاعة
+samodzielnie|independently|باستقلالية
+wspólnie|jointly|معا
+indywidualnie|individually|بشكل فردي
+masowo|en masse|بشكل جماعي
+tygodniowo|weekly|أسبوعيا
+miesięcznie|monthly|شهريا
+rocznie|annually|سنويا
+dziennie|daily, per day|يوميا
+obecnie|currently|حاليا
+dawniej|formerly|في الماضي
+dotychczas|so far|حتى الآن
+dotąd|so far, up to here|حتى الآن
+odtąd|from now on|من الآن فصاعدا
+zawczasu|in advance|مسبقا
+z góry|in advance|مقدما
+coraz|increasingly|أكثر فأكثر
+ledwo|barely|بالكاد

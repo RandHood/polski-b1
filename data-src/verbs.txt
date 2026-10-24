@@ -1,0 +1,313 @@
+# Polish verbs, most frequent first. Format: polish|aspect|aspect partner|english|arabic
+# aspect: i (imperfective), p (perfective), b (both). Partner left empty when there is none.
+być|i||to be|يكون
+mieć|i||to have|يملك
+móc|i||can, to be able|يستطيع
+chcieć|i||to want|يريد
+musieć|i||must, to have to|يجب
+wiedzieć|i||to know (a fact)|يعرف
+mówić|i|powiedzieć|to speak, to say|يتكلم، يقول
+powiedzieć|p|mówić|to say, to tell|يقول
+robić|i|zrobić|to do, to make|يفعل
+zrobić|p|robić|to do, to make|يفعل
+iść|i|pójść|to go (on foot)|يذهب
+pójść|p|iść|to go (on foot)|يذهب
+chodzić|i||to walk, to go (regularly)|يمشي
+jechać|i|pojechać|to go (by vehicle)|يسافر
+pojechać|p|jechać|to go (by vehicle)|يسافر
+jeździć|i||to ride, to travel (regularly)|يركب، يسافر
+widzieć|i|zobaczyć|to see|يرى
+zobaczyć|p|widzieć|to see|يرى
+patrzeć|i|popatrzeć|to look|ينظر
+dać|p|dawać|to give|يعطي
+dawać|i|dać|to give|يعطي
+brać|i|wziąć|to take|يأخذ
+wziąć|p|brać|to take|يأخذ
+znać|i||to know (someone, something)|يعرف
+myśleć|i|pomyśleć|to think|يفكر
+zostać|p|zostawać|to stay, to become|يبقى، يصبح
+stać|i||to stand|يقف
+stać się|p|stawać się|to become, to happen|يصبح
+siedzieć|i||to sit|يجلس
+leżeć|i||to lie|يستلقي
+żyć|i||to live, to be alive|يعيش
+mieszkać|i||to live (reside)|يسكن
+pracować|i||to work|يعمل
+uczyć się|i|nauczyć się|to learn, to study|يتعلم
+uczyć|i|nauczyć|to teach|يعلم
+studiować|i||to study (at university)|يدرس
+czytać|i|przeczytać|to read|يقرأ
+przeczytać|p|czytać|to read|يقرأ
+pisać|i|napisać|to write|يكتب
+napisać|p|pisać|to write|يكتب
+słuchać|i|posłuchać|to listen|يستمع
+słyszeć|i|usłyszeć|to hear|يسمع
+usłyszeć|p|słyszeć|to hear|يسمع
+rozumieć|i|zrozumieć|to understand|يفهم
+zrozumieć|p|rozumieć|to understand|يفهم
+pytać|i|zapytać|to ask|يسأل
+zapytać|p|pytać|to ask|يسأل
+odpowiadać|i|odpowiedzieć|to answer|يجيب
+odpowiedzieć|p|odpowiadać|to answer|يجيب
+prosić|i|poprosić|to ask for, to request|يطلب
+dziękować|i|podziękować|to thank|يشكر
+kochać|i||to love|يحب
+lubić|i|polubić|to like|يحب
+woleć|i||to prefer|يفضل
+podobać się|i|spodobać się|to be liked, to appeal|يعجب
+czuć|i|poczuć|to feel|يشعر
+czuć się|i|poczuć się|to feel (well, ill)|يشعر
+bać się|i||to be afraid|يخاف
+cieszyć się|i|ucieszyć się|to be glad|يفرح
+martwić się|i||to worry|يقلق
+denerwować się|i|zdenerwować się|to be nervous, to get upset|يتوتر
+śmiać się|i|zaśmiać się|to laugh|يضحك
+płakać|i|zapłakać|to cry|يبكي
+uśmiechać się|i|uśmiechnąć się|to smile|يبتسم
+jeść|i|zjeść|to eat|يأكل
+zjeść|p|jeść|to eat|يأكل
+pić|i|wypić|to drink|يشرب
+wypić|p|pić|to drink|يشرب
+gotować|i|ugotować|to cook|يطبخ
+spać|i||to sleep|ينام
+zasypiać|i|zasnąć|to fall asleep|يغفو
+budzić się|i|obudzić się|to wake up|يستيقظ
+wstawać|i|wstać|to get up|ينهض
+wstać|p|wstawać|to get up|ينهض
+myć|i|umyć|to wash|يغسل
+ubierać się|i|ubrać się|to get dressed|يرتدي ملابسه
+kupować|i|kupić|to buy|يشتري
+kupić|p|kupować|to buy|يشتري
+sprzedawać|i|sprzedać|to sell|يبيع
+płacić|i|zapłacić|to pay|يدفع
+zapłacić|p|płacić|to pay|يدفع
+kosztować|i||to cost|يكلف
+wydawać|i|wydać|to spend, to publish|ينفق، ينشر
+oszczędzać|i|oszczędzić|to save (money)|يدخر
+zarabiać|i|zarobić|to earn|يكسب
+szukać|i|poszukać|to look for|يبحث
+znaleźć|p|znajdować|to find|يجد
+znajdować|i|znaleźć|to find|يجد
+tracić|i|stracić|to lose|يفقد
+zgubić|p|gubić|to lose (an item)|يضيع
+otwierać|i|otworzyć|to open|يفتح
+otworzyć|p|otwierać|to open|يفتح
+zamykać|i|zamknąć|to close|يغلق
+zamknąć|p|zamykać|to close|يغلق
+zaczynać|i|zacząć|to begin|يبدأ
+zacząć|p|zaczynać|to begin|يبدأ
+kończyć|i|skończyć|to finish|ينهي
+skończyć|p|kończyć|to finish|ينهي
+przychodzić|i|przyjść|to come (on foot)|يأتي
+przyjść|p|przychodzić|to come (on foot)|يأتي
+przyjeżdżać|i|przyjechać|to arrive (by vehicle)|يصل
+przyjechać|p|przyjeżdżać|to arrive (by vehicle)|يصل
+wychodzić|i|wyjść|to go out, to leave|يخرج
+wyjść|p|wychodzić|to go out, to leave|يخرج
+wyjeżdżać|i|wyjechać|to leave (by vehicle)|يغادر
+wchodzić|i|wejść|to enter|يدخل
+wejść|p|wchodzić|to enter|يدخل
+wracać|i|wrócić|to return|يعود
+wrócić|p|wracać|to return|يعود
+lecieć|i|polecieć|to fly|يطير
+latać|i||to fly (regularly)|يطير
+biegać|i||to run (regularly)|يركض
+biec|i|pobiec|to run|يركض
+pływać|i||to swim|يسبح
+tańczyć|i|zatańczyć|to dance|يرقص
+śpiewać|i|zaśpiewać|to sing|يغني
+grać|i|zagrać|to play|يلعب
+bawić się|i|pobawić się|to play, to have fun|يلعب، يستمتع
+odpoczywać|i|odpocząć|to rest|يرتاح
+podróżować|i||to travel|يسافر
+zwiedzać|i|zwiedzić|to sightsee, to visit|يزور
+odwiedzać|i|odwiedzić|to visit (someone)|يزور
+spotykać|i|spotkać|to meet|يقابل
+spotkać się|p|spotykać się|to meet up|يلتقي
+poznać|p|poznawać|to get to know, to meet|يتعرف على
+czekać|i|poczekać|to wait|ينتظر
+dzwonić|i|zadzwonić|to call, to ring|يتصل
+zadzwonić|p|dzwonić|to call, to ring|يتصل
+wysyłać|i|wysłać|to send|يرسل
+wysłać|p|wysyłać|to send|يرسل
+dostawać|i|dostać|to receive, to get|يحصل على
+dostać|p|dostawać|to receive, to get|يحصل على
+otrzymać|p|otrzymywać|to receive|يتلقى
+przynosić|i|przynieść|to bring|يحضر
+przynieść|p|przynosić|to bring|يحضر
+nosić|i||to carry, to wear|يحمل، يرتدي
+nieść|i|zanieść|to carry|يحمل
+kłaść|i|położyć|to put (lay down)|يضع
+położyć|p|kłaść|to put (lay down)|يضع
+stawiać|i|postawić|to put (upright)|يضع
+wkładać|i|włożyć|to put in, to put on|يدخل، يلبس
+trzymać|i||to hold|يمسك
+rzucać|i|rzucić|to throw, to quit|يرمي، يترك
+łapać|i|złapać|to catch|يمسك
+pomagać|i|pomóc|to help|يساعد
+pomóc|p|pomagać|to help|يساعد
+potrzebować|i||to need|يحتاج
+używać|i|użyć|to use|يستخدم
+korzystać|i|skorzystać|to use, to benefit|يستفيد
+próbować|i|spróbować|to try|يحاول
+starać się|i|postarać się|to try hard|يسعى
+udawać się|i|udać się|to succeed, to go|ينجح
+zdawać|i|zdać|to take (an exam); to pass|يتقدم لامتحان؛ ينجح
+zdać|p|zdawać|to pass (an exam)|ينجح
+oblać|p|oblewać|to fail (an exam)|يرسب
+powtarzać|i|powtórzyć|to repeat, to revise|يكرر، يراجع
+ćwiczyć|i|poćwiczyć|to practise, to exercise|يتمرن
+tłumaczyć|i|przetłumaczyć|to translate, to explain|يترجم، يشرح
+wyjaśniać|i|wyjaśnić|to explain|يوضح
+opowiadać|i|opowiedzieć|to tell (a story)|يروي
+rozmawiać|i|porozmawiać|to talk|يتحدث
+dyskutować|i|przedyskutować|to discuss|يناقش
+kłócić się|i|pokłócić się|to quarrel|يتشاجر
+zgadzać się|i|zgodzić się|to agree|يوافق
+zgodzić się|p|zgadzać się|to agree|يوافق
+decydować|i|zdecydować|to decide|يقرر
+zdecydować się|p|decydować się|to make up one's mind|يقرر
+wybierać|i|wybrać|to choose|يختار
+wybrać|p|wybierać|to choose|يختار
+planować|i|zaplanować|to plan|يخطط
+przygotowywać|i|przygotować|to prepare|يحضر
+przygotować|p|przygotowywać|to prepare|يحضر
+organizować|i|zorganizować|to organise|ينظم
+zapraszać|i|zaprosić|to invite|يدعو
+zaprosić|p|zapraszać|to invite|يدعو
+obiecywać|i|obiecać|to promise|يعد
+pamiętać|i|zapamiętać|to remember|يتذكر
+zapominać|i|zapomnieć|to forget|ينسى
+zapomnieć|p|zapominać|to forget|ينسى
+przypominać|i|przypomnieć|to remind|يذكر
+wierzyć|i|uwierzyć|to believe|يؤمن، يصدق
+mieć nadzieję|i||to hope|يأمل
+marzyć|i||to dream (wish)|يحلم
+śnić|i||to dream (asleep)|يحلم
+uważać|i||to consider, to be careful|يعتبر، ينتبه
+sądzić|i||to think, to judge|يظن
+wydawać się|i||to seem|يبدو
+wyglądać|i||to look (appear)|يبدو
+zmieniać|i|zmienić|to change|يغير
+zmienić|p|zmieniać|to change|يغير
+rosnąć|i|urosnąć|to grow|ينمو
+rozwijać się|i|rozwinąć się|to develop|يتطور
+budować|i|zbudować|to build|يبني
+tworzyć|i|stworzyć|to create|ينشئ
+niszczyć|i|zniszczyć|to destroy|يدمر
+psuć się|i|zepsuć się|to break down|يتعطل
+naprawiać|i|naprawić|to repair|يصلح
+sprzątać|i|posprzątać|to clean up|ينظف
+prać|i|wyprać|to do the laundry|يغسل الملابس
+prasować|i|wyprasować|to iron|يكوي
+gotować się|i|ugotować się|to boil, to cook|يغلي
+piec|i|upiec|to bake|يخبز
+kroić|i|pokroić|to cut, to slice|يقطع
+ciąć|i|przeciąć|to cut|يقص
+rysować|i|narysować|to draw|يرسم
+malować|i|namalować|to paint|يلون، يرسم
+fotografować|i|sfotografować|to photograph|يصور
+oglądać|i|obejrzeć|to watch|يشاهد
+obejrzeć|p|oglądać|to watch|يشاهد
+pokazywać|i|pokazać|to show|يري
+pokazać|p|pokazywać|to show|يري
+liczyć|i|policzyć|to count|يعد
+mierzyć|i|zmierzyć|to measure|يقيس
+ważyć|i|zważyć|to weigh|يزن
+sprawdzać|i|sprawdzić|to check|يتحقق
+sprawdzić|p|sprawdzać|to check|يتحقق
+porównywać|i|porównać|to compare|يقارن
+badać|i|zbadać|to examine, to research|يفحص
+leczyć|i|wyleczyć|to treat, to cure|يعالج
+chorować|i|zachorować|to be ill|يمرض
+boleć|i|zaboleć|to hurt|يؤلم
+umierać|i|umrzeć|to die|يموت
+umrzeć|p|umierać|to die|يموت
+rodzić się|i|urodzić się|to be born|يولد
+urodzić się|p|rodzić się|to be born|يولد
+żenić się|i|ożenić się|to marry (of a man)|يتزوج
+wychodzić za mąż|i|wyjść za mąż|to marry (of a woman)|تتزوج
+rozwodzić się|i|rozwieść się|to divorce|يطلق
+wychowywać|i|wychować|to bring up|يربي
+opiekować się|i|zaopiekować się|to look after|يعتني
+dbać|i|zadbać|to take care of|يهتم
+chronić|i|ochronić|to protect|يحمي
+bronić|i|obronić|to defend|يدافع
+walczyć|i||to fight|يقاتل
+wygrywać|i|wygrać|to win|يفوز
+wygrać|p|wygrywać|to win|يفوز
+przegrywać|i|przegrać|to lose (a game)|يخسر
+przegrać|p|przegrywać|to lose (a game)|يخسر
+rządzić|i||to govern, to rule|يحكم
+głosować|i|zagłosować|to vote|يصوت
+wybierać się|i|wybrać się|to set off, to plan to go|ينوي الذهاب
+spieszyć się|i|pośpieszyć się|to hurry|يستعجل
+spóźniać się|i|spóźnić się|to be late|يتأخر
+zdążyć|p|zdążać|to make it in time|يلحق
+przeszkadzać|i|przeszkodzić|to disturb|يزعج
+pozwalać|i|pozwolić|to allow|يسمح
+pozwolić|p|pozwalać|to allow|يسمح
+zabraniać|i|zabronić|to forbid|يمنع
+kazać|b||to order, to tell (someone to)|يأمر
+radzić|i|poradzić|to advise|ينصح
+proponować|i|zaproponować|to suggest|يقترح
+polecać|i|polecić|to recommend|يوصي
+przepraszać|i|przeprosić|to apologise|يعتذر
+witać|i|przywitać|to greet|يرحب
+żegnać się|i|pożegnać się|to say goodbye|يودع
+całować|i|pocałować|to kiss|يقبل
+przytulać|i|przytulić|to hug|يعانق
+dotykać|i|dotknąć|to touch|يلمس
+ciągnąć|i|pociągnąć|to pull|يسحب
+pchać|i|pchnąć|to push|يدفع
+podnosić|i|podnieść|to lift, to raise|يرفع
+spadać|i|spaść|to fall|يسقط
+upadać|i|upaść|to fall over|يقع
+siadać|i|usiąść|to sit down|يجلس
+usiąść|p|siadać|to sit down|يجلس
+kłaść się|i|położyć się|to lie down|يستلقي
+skręcać|i|skręcić|to turn|ينعطف
+przechodzić|i|przejść|to cross, to go through|يعبر
+mijać|i|minąć|to pass|يمر
+zatrzymywać się|i|zatrzymać się|to stop|يتوقف
+parkować|i|zaparkować|to park|يركن
+prowadzić|i|poprowadzić|to lead, to drive|يقود
+kierować|i|pokierować|to manage, to steer|يدير
+zarządzać|i||to manage|يدير
+rozpoczynać|i|rozpocząć|to start|يبدأ
+kontynuować|i||to continue|يواصل
+przestawać|i|przestać|to stop (doing)|يتوقف عن
+przestać|p|przestawać|to stop (doing)|يتوقف عن
+trwać|i||to last|يستمر
+dziać się|i|stać się|to happen|يحدث
+zdarzać się|i|zdarzyć się|to happen, to occur|يحدث
+istnieć|i||to exist|يوجد
+brakować|i|zabraknąć|to be missing, to lack|ينقص
+należeć|i||to belong|ينتمي
+zależeć|i||to depend|يعتمد
+dotyczyć|i||to concern|يتعلق
+oznaczać|i||to mean|يعني
+znaczyć|i||to mean|يعني
+nazywać się|i||to be called|يسمى
+przedstawiać|i|przedstawić|to introduce, to present|يقدم
+reprezentować|i||to represent|يمثل
+uczestniczyć|i||to take part|يشارك
+brać udział|i|wziąć udział|to take part|يشارك
+wspierać|i|wesprzeć|to support|يدعم
+dzielić|i|podzielić|to divide, to share|يقسم
+łączyć|i|połączyć|to connect|يربط
+dodawać|i|dodać|to add|يضيف
+odejmować|i|odjąć|to subtract|يطرح
+włączać|i|włączyć|to switch on|يشغل
+wyłączać|i|wyłączyć|to switch off|يطفئ
+ładować|i|naładować|to charge, to load|يشحن
+drukować|i|wydrukować|to print|يطبع
+klikać|i|kliknąć|to click|ينقر
+pobierać|i|pobrać|to download|يحمل
+logować się|i|zalogować się|to log in|يسجل الدخول
+rezerwować|i|zarezerwować|to book|يحجز
+wynajmować|i|wynająć|to rent|يستأجر
+przeprowadzać się|i|przeprowadzić się|to move house|ينتقل
+meldować się|i|zameldować się|to register, to check in|يسجل
+wypełniać|i|wypełnić|to fill in|يملأ
+podpisywać|i|podpisać|to sign|يوقع

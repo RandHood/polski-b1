@@ -1,0 +1,10813 @@
+{
+ "schemaVersion": 1,
+ "category": "nouns-adjectives",
+ "source": "Curated by hand for B1 learners, ordered by approximate frequency in everyday Polish. To be refined against the National Corpus of Polish (NKJP) frequency list.",
+ "words": [
+  {
+   "id": "nouns-adjectives.rok",
+   "rank": 1,
+   "pl": "rok",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "year",
+    "ar": "سنة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nowy",
+   "rank": 2,
+   "pl": "nowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "new",
+    "ar": "جديد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czas",
+   "rank": 3,
+   "pl": "czas",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "time",
+    "ar": "وقت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czlowiek",
+   "rank": 4,
+   "pl": "człowiek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "person, human",
+    "ar": "إنسان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.duzy",
+   "rank": 5,
+   "pl": "duży",
+   "pos": "adjective",
+   "translations": {
+    "en": "big",
+    "ar": "كبير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sprawa",
+   "rank": 6,
+   "pl": "sprawa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "matter, case",
+    "ar": "مسألة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dzien",
+   "rank": 7,
+   "pl": "dzień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "day",
+    "ar": "يوم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dobry",
+   "rank": 8,
+   "pl": "dobry",
+   "pos": "adjective",
+   "translations": {
+    "en": "good",
+    "ar": "جيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.reka",
+   "rank": 9,
+   "pl": "ręka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "hand",
+    "ar": "يد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.raz",
+   "rank": 10,
+   "pl": "raz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "time (occasion)",
+    "ar": "مرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wielki",
+   "rank": 11,
+   "pl": "wielki",
+   "pos": "adjective",
+   "translations": {
+    "en": "great, huge",
+    "ar": "عظيم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.praca",
+   "rank": 12,
+   "pl": "praca",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "work, job",
+    "ar": "عمل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zycie",
+   "rank": 13,
+   "pl": "życie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "life",
+    "ar": "حياة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.maly",
+   "rank": 14,
+   "pl": "mały",
+   "pos": "adjective",
+   "translations": {
+    "en": "small",
+    "ar": "صغير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.oko",
+   "rank": 15,
+   "pl": "oko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "eye",
+    "ar": "عين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miejsce",
+   "rank": 16,
+   "pl": "miejsce",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "place",
+    "ar": "مكان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.stary",
+   "rank": 17,
+   "pl": "stary",
+   "pos": "adjective",
+   "translations": {
+    "en": "old",
+    "ar": "قديم، عجوز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dom",
+   "rank": 18,
+   "pl": "dom",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "house, home",
+    "ar": "بيت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swiat",
+   "rank": 19,
+   "pl": "świat",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "world",
+    "ar": "عالم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mlody",
+   "rank": 20,
+   "pl": "młody",
+   "pos": "adjective",
+   "translations": {
+    "en": "young",
+    "ar": "شاب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pan",
+   "rank": 21,
+   "pl": "pan",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sir, Mr",
+    "ar": "سيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pani",
+   "rank": 22,
+   "pl": "pani",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "madam, Mrs",
+    "ar": "سيدة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polski",
+   "rank": 23,
+   "pl": "polski",
+   "pos": "adjective",
+   "translations": {
+    "en": "Polish",
+    "ar": "بولندي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kobieta",
+   "rank": 24,
+   "pl": "kobieta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "woman",
+    "ar": "امرأة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dziecko",
+   "rank": 25,
+   "pl": "dziecko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "child",
+    "ar": "طفل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wazny",
+   "rank": 26,
+   "pl": "ważny",
+   "pos": "adjective",
+   "translations": {
+    "en": "important",
+    "ar": "مهم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.glowa",
+   "rank": 27,
+   "pl": "głowa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "head",
+    "ar": "رأس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.strona",
+   "rank": 28,
+   "pl": "strona",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "side, page",
+    "ar": "جانب، صفحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.caly",
+   "rank": 29,
+   "pl": "cały",
+   "pos": "adjective",
+   "translations": {
+    "en": "whole",
+    "ar": "كامل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slowo",
+   "rank": 30,
+   "pl": "słowo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "word",
+    "ar": "كلمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kraj",
+   "rank": 31,
+   "pl": "kraj",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "country",
+    "ar": "بلد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.moment",
+   "rank": 32,
+   "pl": "moment",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "moment",
+    "ar": "لحظة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pierwszy",
+   "rank": 33,
+   "pl": "pierwszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "first",
+    "ar": "أول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miasto",
+   "rank": 34,
+   "pl": "miasto",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "city, town",
+    "ar": "مدينة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.koniec",
+   "rank": 35,
+   "pl": "koniec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "end",
+    "ar": "نهاية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ostatni",
+   "rank": 36,
+   "pl": "ostatni",
+   "pos": "adjective",
+   "translations": {
+    "en": "last",
+    "ar": "أخير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mezczyzna",
+   "rank": 37,
+   "pl": "mężczyzna",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "man",
+    "ar": "رجل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.noc",
+   "rank": 38,
+   "pl": "noc",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "night",
+    "ar": "ليل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.inny",
+   "rank": 39,
+   "pl": "inny",
+   "pos": "adjective",
+   "translations": {
+    "en": "other, different",
+    "ar": "آخر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.woda",
+   "rank": 40,
+   "pl": "woda",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "water",
+    "ar": "ماء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.droga",
+   "rank": 41,
+   "pl": "droga",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "road, way",
+    "ar": "طريق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wlasny",
+   "rank": 42,
+   "pl": "własny",
+   "pos": "adjective",
+   "translations": {
+    "en": "own",
+    "ar": "خاص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pieniadze",
+   "rank": 43,
+   "pl": "pieniądze",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "money",
+    "ar": "مال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rzecz",
+   "rank": 44,
+   "pl": "rzecz",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "thing",
+    "ar": "شيء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pelny",
+   "rank": 45,
+   "pl": "pełny",
+   "pos": "adjective",
+   "translations": {
+    "en": "full",
+    "ar": "ممتلئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.matka",
+   "rank": 46,
+   "pl": "matka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "mother",
+    "ar": "أم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ojciec",
+   "rank": 47,
+   "pl": "ojciec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "father",
+    "ar": "أب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wysoki",
+   "rank": 48,
+   "pl": "wysoki",
+   "pos": "adjective",
+   "translations": {
+    "en": "tall, high",
+    "ar": "طويل، عال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyklad",
+   "rank": 49,
+   "pl": "przykład",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "example",
+    "ar": "مثال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.twarz",
+   "rank": 50,
+   "pl": "twarz",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "face",
+    "ar": "وجه"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niski",
+   "rank": 51,
+   "pl": "niski",
+   "pos": "adjective",
+   "translations": {
+    "en": "short, low",
+    "ar": "قصير، منخفض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.problem",
+   "rank": 52,
+   "pl": "problem",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "problem",
+    "ar": "مشكلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pytanie",
+   "rank": 53,
+   "pl": "pytanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "question",
+    "ar": "سؤال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dlugi",
+   "rank": 54,
+   "pl": "długi",
+   "pos": "adjective",
+   "translations": {
+    "en": "long",
+    "ar": "طويل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.firma",
+   "rank": 55,
+   "pl": "firma",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "company",
+    "ar": "شركة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szkola",
+   "rank": 56,
+   "pl": "szkoła",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "school",
+    "ar": "مدرسة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.krotki",
+   "rank": 57,
+   "pl": "krótki",
+   "pos": "adjective",
+   "translations": {
+    "en": "short",
+    "ar": "قصير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rodzina",
+   "rank": 58,
+   "pl": "rodzina",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "family",
+    "ar": "عائلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prawo",
+   "rank": 59,
+   "pl": "prawo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "law, right",
+    "ar": "قانون، حق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szeroki",
+   "rank": 60,
+   "pl": "szeroki",
+   "pos": "adjective",
+   "translations": {
+    "en": "wide",
+    "ar": "واسع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sposob",
+   "rank": 61,
+   "pl": "sposób",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "way, method",
+    "ar": "طريقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czesc",
+   "rank": 62,
+   "pl": "część",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "part",
+    "ar": "جزء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.system",
+   "rank": 63,
+   "pl": "system",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "system",
+    "ar": "نظام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.waski",
+   "rank": 64,
+   "pl": "wąski",
+   "pos": "adjective",
+   "translations": {
+    "en": "narrow",
+    "ar": "ضيق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.historia",
+   "rank": 65,
+   "pl": "historia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "history, story",
+    "ar": "تاريخ، قصة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ksiazka",
+   "rank": 66,
+   "pl": "książka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "book",
+    "ar": "كتاب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gruby",
+   "rank": 67,
+   "pl": "gruby",
+   "pos": "adjective",
+   "translations": {
+    "en": "thick, fat",
+    "ar": "سميك، سمين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.panstwo",
+   "rank": 68,
+   "pl": "państwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "state",
+    "ar": "دولة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wojna",
+   "rank": 69,
+   "pl": "wojna",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "war",
+    "ar": "حرب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chudy",
+   "rank": 70,
+   "pl": "chudy",
+   "pos": "adjective",
+   "translations": {
+    "en": "thin, skinny",
+    "ar": "نحيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.glos",
+   "rank": 71,
+   "pl": "głos",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "voice",
+    "ar": "صوت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.drzwi",
+   "rank": 72,
+   "pl": "drzwi",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "door",
+    "ar": "باب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ciezki",
+   "rank": 73,
+   "pl": "ciężki",
+   "pos": "adjective",
+   "translations": {
+    "en": "heavy, difficult",
+    "ar": "ثقيل، صعب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ziemia",
+   "rank": 74,
+   "pl": "ziemia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "earth, land",
+    "ar": "أرض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pokoj",
+   "rank": 75,
+   "pl": "pokój",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "room, peace",
+    "ar": "غرفة، سلام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lekki",
+   "rank": 76,
+   "pl": "lekki",
+   "pos": "adjective",
+   "translations": {
+    "en": "light",
+    "ar": "خفيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.samochod",
+   "rank": 77,
+   "pl": "samochód",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "car",
+    "ar": "سيارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.okno",
+   "rank": 78,
+   "pl": "okno",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "window",
+    "ar": "نافذة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.trudny",
+   "rank": 79,
+   "pl": "trudny",
+   "pos": "adjective",
+   "translations": {
+    "en": "difficult",
+    "ar": "صعب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.syn",
+   "rank": 80,
+   "pl": "syn",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "son",
+    "ar": "ابن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.corka",
+   "rank": 81,
+   "pl": "córka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "daughter",
+    "ar": "ابنة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.latwy",
+   "rank": 82,
+   "pl": "łatwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "easy",
+    "ar": "سهل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brat",
+   "rank": 83,
+   "pl": "brat",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "brother",
+    "ar": "أخ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.siostra",
+   "rank": 84,
+   "pl": "siostra",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "sister",
+    "ar": "أخت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prosty",
+   "rank": 85,
+   "pl": "prosty",
+   "pos": "adjective",
+   "translations": {
+    "en": "simple, straight",
+    "ar": "بسيط، مستقيم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.maz",
+   "rank": 86,
+   "pl": "mąż",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "husband",
+    "ar": "زوج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zona",
+   "rank": 87,
+   "pl": "żona",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "wife",
+    "ar": "زوجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skomplikowany",
+   "rank": 88,
+   "pl": "skomplikowany",
+   "pos": "adjective",
+   "translations": {
+    "en": "complicated",
+    "ar": "معقد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyjaciel",
+   "rank": 89,
+   "pl": "przyjaciel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "friend",
+    "ar": "صديق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolezanka",
+   "rank": 90,
+   "pl": "koleżanka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "friend (female), colleague",
+    "ar": "زميلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolega",
+   "rank": 91,
+   "pl": "kolega",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "friend, colleague",
+    "ar": "زميل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mozliwy",
+   "rank": 92,
+   "pl": "możliwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "possible",
+    "ar": "ممكن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ulica",
+   "rank": 93,
+   "pl": "ulica",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "street",
+    "ar": "شارع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.godzina",
+   "rank": 94,
+   "pl": "godzina",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "hour",
+    "ar": "ساعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niemozliwy",
+   "rank": 95,
+   "pl": "niemożliwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "impossible",
+    "ar": "مستحيل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.minuta",
+   "rank": 96,
+   "pl": "minuta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "minute",
+    "ar": "دقيقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tydzien",
+   "rank": 97,
+   "pl": "tydzień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "week",
+    "ar": "أسبوع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.konieczny",
+   "rank": 98,
+   "pl": "konieczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "necessary",
+    "ar": "ضروري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miesiac",
+   "rank": 99,
+   "pl": "miesiąc",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "month",
+    "ar": "شهر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wieczor",
+   "rank": 100,
+   "pl": "wieczór",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "evening",
+    "ar": "مساء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.potrzebny",
+   "rank": 101,
+   "pl": "potrzebny",
+   "pos": "adjective",
+   "translations": {
+    "en": "needed",
+    "ar": "لازم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rano",
+   "rank": 102,
+   "pl": "rano",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "morning",
+    "ar": "صباح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.serce",
+   "rank": 103,
+   "pl": "serce",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "heart",
+    "ar": "قلب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gotowy",
+   "rank": 104,
+   "pl": "gotowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "ready",
+    "ar": "جاهز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mysl",
+   "rank": 105,
+   "pl": "myśl",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "thought",
+    "ar": "فكرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uwaga",
+   "rank": 106,
+   "pl": "uwaga",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "attention",
+    "ar": "انتباه"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wolny",
+   "rank": 107,
+   "pl": "wolny",
+   "pos": "adjective",
+   "translations": {
+    "en": "free, slow",
+    "ar": "حر، بطيء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pomoc",
+   "rank": 108,
+   "pl": "pomoc",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "help",
+    "ar": "مساعدة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wladza",
+   "rank": 109,
+   "pl": "władza",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "power, authority",
+    "ar": "سلطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zajety",
+   "rank": 110,
+   "pl": "zajęty",
+   "pos": "adjective",
+   "translations": {
+    "en": "busy, occupied",
+    "ar": "مشغول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.grupa",
+   "rank": 111,
+   "pl": "grupa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "group",
+    "ar": "مجموعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rzad",
+   "rank": 112,
+   "pl": "rząd",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "government, row",
+    "ar": "حكومة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szybki",
+   "rank": 113,
+   "pl": "szybki",
+   "pos": "adjective",
+   "translations": {
+    "en": "fast",
+    "ar": "سريع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.partia",
+   "rank": 114,
+   "pl": "partia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "party (political)",
+    "ar": "حزب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polityka",
+   "rank": 115,
+   "pl": "polityka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "politics, policy",
+    "ar": "سياسة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wczesny",
+   "rank": 116,
+   "pl": "wczesny",
+   "pos": "adjective",
+   "translations": {
+    "en": "early",
+    "ar": "مبكر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wynik",
+   "rank": 117,
+   "pl": "wynik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "result",
+    "ar": "نتيجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cel",
+   "rank": 118,
+   "pl": "cel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "goal, aim",
+    "ar": "هدف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pozny",
+   "rank": 119,
+   "pl": "późny",
+   "pos": "adjective",
+   "translations": {
+    "en": "late",
+    "ar": "متأخر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.temat",
+   "rank": 120,
+   "pl": "temat",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "topic",
+    "ar": "موضوع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.powod",
+   "rank": 121,
+   "pl": "powód",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "reason",
+    "ar": "سبب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.informacja",
+   "rank": 122,
+   "pl": "informacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "information",
+    "ar": "معلومة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bliski",
+   "rank": 123,
+   "pl": "bliski",
+   "pos": "adjective",
+   "translations": {
+    "en": "close, near",
+    "ar": "قريب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.odpowiedz",
+   "rank": 124,
+   "pl": "odpowiedź",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "answer",
+    "ar": "جواب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.decyzja",
+   "rank": 125,
+   "pl": "decyzja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "decision",
+    "ar": "قرار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.daleki",
+   "rank": 126,
+   "pl": "daleki",
+   "pos": "adjective",
+   "translations": {
+    "en": "far",
+    "ar": "بعيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zmiana",
+   "rank": 127,
+   "pl": "zmiana",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "change",
+    "ar": "تغيير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozmowa",
+   "rank": 128,
+   "pl": "rozmowa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "conversation",
+    "ar": "محادثة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pewny",
+   "rank": 129,
+   "pl": "pewny",
+   "pos": "adjective",
+   "translations": {
+    "en": "sure, certain",
+    "ar": "متأكد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.telefon",
+   "rank": 130,
+   "pl": "telefon",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "phone",
+    "ar": "هاتف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.list",
+   "rank": 131,
+   "pl": "list",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "letter",
+    "ar": "رسالة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prawdziwy",
+   "rank": 132,
+   "pl": "prawdziwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "true, real",
+    "ar": "حقيقي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jezyk",
+   "rank": 133,
+   "pl": "język",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "language, tongue",
+    "ar": "لغة، لسان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nauka",
+   "rank": 134,
+   "pl": "nauka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "science, learning",
+    "ar": "علم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.falszywy",
+   "rank": 135,
+   "pl": "fałszywy",
+   "pos": "adjective",
+   "translations": {
+    "en": "false, fake",
+    "ar": "مزيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nauczyciel",
+   "rank": 136,
+   "pl": "nauczyciel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "teacher",
+    "ar": "معلم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uczen",
+   "rank": 137,
+   "pl": "uczeń",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "pupil, student",
+    "ar": "تلميذ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wlasciwy",
+   "rank": 138,
+   "pl": "właściwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "proper, right",
+    "ar": "مناسب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.student",
+   "rank": 139,
+   "pl": "student",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "student",
+    "ar": "طالب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uniwersytet",
+   "rank": 140,
+   "pl": "uniwersytet",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "university",
+    "ar": "جامعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poprawny",
+   "rank": 141,
+   "pl": "poprawny",
+   "pos": "adjective",
+   "translations": {
+    "en": "correct",
+    "ar": "صحيح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lekcja",
+   "rank": 142,
+   "pl": "lekcja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "lesson",
+    "ar": "درس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zadanie",
+   "rank": 143,
+   "pl": "zadanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "task, exercise",
+    "ar": "مهمة، تمرين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zly",
+   "rank": 144,
+   "pl": "zły",
+   "pos": "adjective",
+   "translations": {
+    "en": "bad, angry",
+    "ar": "سيء، غاضب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.egzamin",
+   "rank": 145,
+   "pl": "egzamin",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "exam",
+    "ar": "امتحان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.klasa",
+   "rank": 146,
+   "pl": "klasa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "class",
+    "ar": "صف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.piekny",
+   "rank": 147,
+   "pl": "piękny",
+   "pos": "adjective",
+   "translations": {
+    "en": "beautiful",
+    "ar": "جميل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdanie",
+   "rank": 148,
+   "pl": "zdanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "sentence, opinion",
+    "ar": "جملة، رأي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sytuacja",
+   "rank": 149,
+   "pl": "sytuacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "situation",
+    "ar": "وضع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.warunek",
+   "rank": 150,
+   "pl": "warunek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "condition",
+    "ar": "شرط"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ladny",
+   "rank": 151,
+   "pl": "ładny",
+   "pos": "adjective",
+   "translations": {
+    "en": "pretty, nice",
+    "ar": "جميل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mozliwosc",
+   "rank": 152,
+   "pl": "możliwość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "possibility",
+    "ar": "إمكانية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prawda",
+   "rank": 153,
+   "pl": "prawda",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "truth",
+    "ar": "حقيقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brzydki",
+   "rank": 154,
+   "pl": "brzydki",
+   "pos": "adjective",
+   "translations": {
+    "en": "ugly",
+    "ar": "قبيح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiara",
+   "rank": 155,
+   "pl": "wiara",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "faith",
+    "ar": "إيمان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bog",
+   "rank": 156,
+   "pl": "bóg",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "god",
+    "ar": "إله"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mily",
+   "rank": 157,
+   "pl": "miły",
+   "pos": "adjective",
+   "translations": {
+    "en": "nice, kind",
+    "ar": "لطيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kosciol",
+   "rank": 158,
+   "pl": "kościół",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "church",
+    "ar": "كنيسة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cialo",
+   "rank": 159,
+   "pl": "ciało",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "body",
+    "ar": "جسم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sympatyczny",
+   "rank": 160,
+   "pl": "sympatyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "likeable",
+    "ar": "ودود"
+   }
+  },
+  {
+   "id": "nouns-adjectives.noga",
+   "rank": 161,
+   "pl": "noga",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "leg",
+    "ar": "ساق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wlosy",
+   "rank": 162,
+   "pl": "włosy",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "hair",
+    "ar": "شعر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uprzejmy",
+   "rank": 163,
+   "pl": "uprzejmy",
+   "pos": "adjective",
+   "translations": {
+    "en": "polite",
+    "ar": "مهذب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.usta",
+   "rank": 164,
+   "pl": "usta",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "mouth",
+    "ar": "فم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nos",
+   "rank": 165,
+   "pl": "nos",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "nose",
+    "ar": "أنف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.grzeczny",
+   "rank": 166,
+   "pl": "grzeczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "polite, well-behaved",
+    "ar": "مؤدب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ucho",
+   "rank": 167,
+   "pl": "ucho",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "ear",
+    "ar": "أذن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdrowie",
+   "rank": 168,
+   "pl": "zdrowie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "health",
+    "ar": "صحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niegrzeczny",
+   "rank": 169,
+   "pl": "niegrzeczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "rude, naughty",
+    "ar": "وقح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.choroba",
+   "rank": 170,
+   "pl": "choroba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "illness",
+    "ar": "مرض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lekarz",
+   "rank": 171,
+   "pl": "lekarz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "doctor",
+    "ar": "طبيب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.madry",
+   "rank": 172,
+   "pl": "mądry",
+   "pos": "adjective",
+   "translations": {
+    "en": "wise, clever",
+    "ar": "حكيم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szpital",
+   "rank": 173,
+   "pl": "szpital",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "hospital",
+    "ar": "مستشفى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lek",
+   "rank": 174,
+   "pl": "lek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "medicine",
+    "ar": "دواء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.inteligentny",
+   "rank": 175,
+   "pl": "inteligentny",
+   "pos": "adjective",
+   "translations": {
+    "en": "intelligent",
+    "ar": "ذكي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.apteka",
+   "rank": 176,
+   "pl": "apteka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pharmacy",
+    "ar": "صيدلية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bol",
+   "rank": 177,
+   "pl": "ból",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "pain",
+    "ar": "ألم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.glupi",
+   "rank": 178,
+   "pl": "głupi",
+   "pos": "adjective",
+   "translations": {
+    "en": "stupid",
+    "ar": "غبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jedzenie",
+   "rank": 179,
+   "pl": "jedzenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "food",
+    "ar": "طعام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chleb",
+   "rank": 180,
+   "pl": "chleb",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bread",
+    "ar": "خبز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mleko",
+   "rank": 181,
+   "pl": "mleko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "milk",
+    "ar": "حليب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdolny",
+   "rank": 182,
+   "pl": "zdolny",
+   "pos": "adjective",
+   "translations": {
+    "en": "talented, able",
+    "ar": "موهوب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mieso",
+   "rank": 183,
+   "pl": "mięso",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "meat",
+    "ar": "لحم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ryba",
+   "rank": 184,
+   "pl": "ryba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "fish",
+    "ar": "سمكة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.leniwy",
+   "rank": 185,
+   "pl": "leniwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "lazy",
+    "ar": "كسول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ser",
+   "rank": 186,
+   "pl": "ser",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "cheese",
+    "ar": "جبن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jajko",
+   "rank": 187,
+   "pl": "jajko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "egg",
+    "ar": "بيضة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pracowity",
+   "rank": 188,
+   "pl": "pracowity",
+   "pos": "adjective",
+   "translations": {
+    "en": "hard-working",
+    "ar": "مجتهد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.owoc",
+   "rank": 189,
+   "pl": "owoc",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "fruit",
+    "ar": "فاكهة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.warzywo",
+   "rank": 190,
+   "pl": "warzywo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "vegetable",
+    "ar": "خضار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spokojny",
+   "rank": 191,
+   "pl": "spokojny",
+   "pos": "adjective",
+   "translations": {
+    "en": "calm, quiet",
+    "ar": "هادئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jablko",
+   "rank": 192,
+   "pl": "jabłko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "apple",
+    "ar": "تفاحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ziemniak",
+   "rank": 193,
+   "pl": "ziemniak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "potato",
+    "ar": "بطاطس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nerwowy",
+   "rank": 194,
+   "pl": "nerwowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "nervous",
+    "ar": "عصبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zupa",
+   "rank": 195,
+   "pl": "zupa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "soup",
+    "ar": "حساء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kawa",
+   "rank": 196,
+   "pl": "kawa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "coffee",
+    "ar": "قهوة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cichy",
+   "rank": 197,
+   "pl": "cichy",
+   "pos": "adjective",
+   "translations": {
+    "en": "quiet",
+    "ar": "هادئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.herbata",
+   "rank": 198,
+   "pl": "herbata",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "tea",
+    "ar": "شاي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.piwo",
+   "rank": 199,
+   "pl": "piwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "beer",
+    "ar": "بيرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.glosny",
+   "rank": 200,
+   "pl": "głośny",
+   "pos": "adjective",
+   "translations": {
+    "en": "loud",
+    "ar": "صاخب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wino",
+   "rank": 201,
+   "pl": "wino",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "wine",
+    "ar": "نبيذ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sok",
+   "rank": 202,
+   "pl": "sok",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "juice",
+    "ar": "عصير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wesoly",
+   "rank": 203,
+   "pl": "wesoły",
+   "pos": "adjective",
+   "translations": {
+    "en": "cheerful",
+    "ar": "مرح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cukier",
+   "rank": 204,
+   "pl": "cukier",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sugar",
+    "ar": "سكر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sol",
+   "rank": 205,
+   "pl": "sól",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "salt",
+    "ar": "ملح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.smutny",
+   "rank": 206,
+   "pl": "smutny",
+   "pos": "adjective",
+   "translations": {
+    "en": "sad",
+    "ar": "حزين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sniadanie",
+   "rank": 207,
+   "pl": "śniadanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "breakfast",
+    "ar": "فطور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obiad",
+   "rank": 208,
+   "pl": "obiad",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "lunch, dinner",
+    "ar": "غداء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szczesliwy",
+   "rank": 209,
+   "pl": "szczęśliwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "happy",
+    "ar": "سعيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolacja",
+   "rank": 210,
+   "pl": "kolacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "supper",
+    "ar": "عشاء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.restauracja",
+   "rank": 211,
+   "pl": "restauracja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "restaurant",
+    "ar": "مطعم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sklep",
+   "rank": 212,
+   "pl": "sklep",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "shop",
+    "ar": "متجر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zadowolony",
+   "rank": 213,
+   "pl": "zadowolony",
+   "pos": "adjective",
+   "translations": {
+    "en": "satisfied, pleased",
+    "ar": "راض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cena",
+   "rank": 214,
+   "pl": "cena",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "price",
+    "ar": "سعر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zloty",
+   "rank": 215,
+   "pl": "złoty",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "zloty",
+    "ar": "زلوتي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zmeczony",
+   "rank": 216,
+   "pl": "zmęczony",
+   "pos": "adjective",
+   "translations": {
+    "en": "tired",
+    "ar": "متعب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bank",
+   "rank": 217,
+   "pl": "bank",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bank",
+    "ar": "بنك"
+   }
+  },
+  {
+   "id": "nouns-adjectives.konto",
+   "rank": 218,
+   "pl": "konto",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "account",
+    "ar": "حساب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chory",
+   "rank": 219,
+   "pl": "chory",
+   "pos": "adjective",
+   "translations": {
+    "en": "ill, sick",
+    "ar": "مريض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.karta",
+   "rank": 220,
+   "pl": "karta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "card",
+    "ar": "بطاقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rachunek",
+   "rank": 221,
+   "pl": "rachunek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bill, account",
+    "ar": "فاتورة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdrowy",
+   "rank": 222,
+   "pl": "zdrowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "healthy",
+    "ar": "صحي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.placa",
+   "rank": 223,
+   "pl": "płaca",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "wage, pay",
+    "ar": "راتب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.koszt",
+   "rank": 224,
+   "pl": "koszt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "cost",
+    "ar": "تكلفة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.glodny",
+   "rank": 225,
+   "pl": "głodny",
+   "pos": "adjective",
+   "translations": {
+    "en": "hungry",
+    "ar": "جائع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podatek",
+   "rank": 226,
+   "pl": "podatek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "tax",
+    "ar": "ضريبة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rynek",
+   "rank": 227,
+   "pl": "rynek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "market, square",
+    "ar": "سوق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spragniony",
+   "rank": 228,
+   "pl": "spragniony",
+   "pos": "adjective",
+   "translations": {
+    "en": "thirsty",
+    "ar": "عطشان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gospodarka",
+   "rank": 229,
+   "pl": "gospodarka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "economy",
+    "ar": "اقتصاد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przemysl",
+   "rank": 230,
+   "pl": "przemysł",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "industry",
+    "ar": "صناعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.silny",
+   "rank": 231,
+   "pl": "silny",
+   "pos": "adjective",
+   "translations": {
+    "en": "strong",
+    "ar": "قوي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.usluga",
+   "rank": 232,
+   "pl": "usługa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "service",
+    "ar": "خدمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.klient",
+   "rank": 233,
+   "pl": "klient",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "customer",
+    "ar": "زبون"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slaby",
+   "rank": 234,
+   "pl": "słaby",
+   "pos": "adjective",
+   "translations": {
+    "en": "weak",
+    "ar": "ضعيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szef",
+   "rank": 235,
+   "pl": "szef",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "boss",
+    "ar": "مدير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.biuro",
+   "rank": 236,
+   "pl": "biuro",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "office",
+    "ar": "مكتب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bogaty",
+   "rank": 237,
+   "pl": "bogaty",
+   "pos": "adjective",
+   "translations": {
+    "en": "rich",
+    "ar": "غني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spotkanie",
+   "rank": 238,
+   "pl": "spotkanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "meeting",
+    "ar": "اجتماع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.umowa",
+   "rank": 239,
+   "pl": "umowa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "contract, agreement",
+    "ar": "عقد، اتفاق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.projekt",
+   "rank": 240,
+   "pl": "projekt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "project",
+    "ar": "مشروع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.biedny",
+   "rank": 241,
+   "pl": "biedny",
+   "pos": "adjective",
+   "translations": {
+    "en": "poor",
+    "ar": "فقير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plan",
+   "rank": 242,
+   "pl": "plan",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "plan",
+    "ar": "خطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.program",
+   "rank": 243,
+   "pl": "program",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "programme",
+    "ar": "برنامج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.drogi",
+   "rank": 244,
+   "pl": "drogi",
+   "pos": "adjective",
+   "translations": {
+    "en": "expensive, dear",
+    "ar": "غال، عزيز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.komputer",
+   "rank": 245,
+   "pl": "komputer",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "computer",
+    "ar": "حاسوب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.internet",
+   "rank": 246,
+   "pl": "internet",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "internet",
+    "ar": "إنترنت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tani",
+   "rank": 247,
+   "pl": "tani",
+   "pos": "adjective",
+   "translations": {
+    "en": "cheap",
+    "ar": "رخيص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiadomosc",
+   "rank": 248,
+   "pl": "wiadomość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "message, news",
+    "ar": "رسالة، خبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gazeta",
+   "rank": 249,
+   "pl": "gazeta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "newspaper",
+    "ar": "صحيفة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czysty",
+   "rank": 250,
+   "pl": "czysty",
+   "pos": "adjective",
+   "translations": {
+    "en": "clean",
+    "ar": "نظيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.telewizja",
+   "rank": 251,
+   "pl": "telewizja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "television",
+    "ar": "تلفزيون"
+   }
+  },
+  {
+   "id": "nouns-adjectives.film",
+   "rank": 252,
+   "pl": "film",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "film",
+    "ar": "فيلم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brudny",
+   "rank": 253,
+   "pl": "brudny",
+   "pos": "adjective",
+   "translations": {
+    "en": "dirty",
+    "ar": "متسخ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.muzyka",
+   "rank": 254,
+   "pl": "muzyka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "music",
+    "ar": "موسيقى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.piosenka",
+   "rank": 255,
+   "pl": "piosenka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "song",
+    "ar": "أغنية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cieply",
+   "rank": 256,
+   "pl": "ciepły",
+   "pos": "adjective",
+   "translations": {
+    "en": "warm",
+    "ar": "دافئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sztuka",
+   "rank": 257,
+   "pl": "sztuka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "art, play",
+    "ar": "فن، مسرحية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.teatr",
+   "rank": 258,
+   "pl": "teatr",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "theatre",
+    "ar": "مسرح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zimny",
+   "rank": 259,
+   "pl": "zimny",
+   "pos": "adjective",
+   "translations": {
+    "en": "cold",
+    "ar": "بارد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kino",
+   "rank": 260,
+   "pl": "kino",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "cinema",
+    "ar": "سينما"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kultura",
+   "rank": 261,
+   "pl": "kultura",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "culture",
+    "ar": "ثقافة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.goracy",
+   "rank": 262,
+   "pl": "gorący",
+   "pos": "adjective",
+   "translations": {
+    "en": "hot",
+    "ar": "حار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sport",
+   "rank": 263,
+   "pl": "sport",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sport",
+    "ar": "رياضة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pilka",
+   "rank": 264,
+   "pl": "piłka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "ball",
+    "ar": "كرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chlodny",
+   "rank": 265,
+   "pl": "chłodny",
+   "pos": "adjective",
+   "translations": {
+    "en": "cool",
+    "ar": "بارد قليلا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mecz",
+   "rank": 266,
+   "pl": "mecz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "match",
+    "ar": "مباراة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gra",
+   "rank": 267,
+   "pl": "gra",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "game",
+    "ar": "لعبة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.suchy",
+   "rank": 268,
+   "pl": "suchy",
+   "pos": "adjective",
+   "translations": {
+    "en": "dry",
+    "ar": "جاف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zabawa",
+   "rank": 269,
+   "pl": "zabawa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "fun, play",
+    "ar": "لعب، مرح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wakacje",
+   "rank": 270,
+   "pl": "wakacje",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "holidays",
+    "ar": "عطلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.urlop",
+   "rank": 271,
+   "pl": "urlop",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "leave, vacation",
+    "ar": "إجازة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mokry",
+   "rank": 272,
+   "pl": "mokry",
+   "pos": "adjective",
+   "translations": {
+    "en": "wet",
+    "ar": "مبلل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podroz",
+   "rank": 273,
+   "pl": "podróż",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "journey",
+    "ar": "رحلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wycieczka",
+   "rank": 274,
+   "pl": "wycieczka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "trip, excursion",
+    "ar": "رحلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jasny",
+   "rank": 275,
+   "pl": "jasny",
+   "pos": "adjective",
+   "translations": {
+    "en": "bright, light",
+    "ar": "فاتح، مضيء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.hotel",
+   "rank": 276,
+   "pl": "hotel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "hotel",
+    "ar": "فندق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pociag",
+   "rank": 277,
+   "pl": "pociąg",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "train",
+    "ar": "قطار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ciemny",
+   "rank": 278,
+   "pl": "ciemny",
+   "pos": "adjective",
+   "translations": {
+    "en": "dark",
+    "ar": "داكن، مظلم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dworzec",
+   "rank": 279,
+   "pl": "dworzec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "station",
+    "ar": "محطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.autobus",
+   "rank": 280,
+   "pl": "autobus",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bus",
+    "ar": "حافلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bialy",
+   "rank": 281,
+   "pl": "biały",
+   "pos": "adjective",
+   "translations": {
+    "en": "white",
+    "ar": "أبيض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tramwaj",
+   "rank": 282,
+   "pl": "tramwaj",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "tram",
+    "ar": "ترام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przystanek",
+   "rank": 283,
+   "pl": "przystanek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "stop (bus, tram)",
+    "ar": "موقف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czarny",
+   "rank": 284,
+   "pl": "czarny",
+   "pos": "adjective",
+   "translations": {
+    "en": "black",
+    "ar": "أسود"
+   }
+  },
+  {
+   "id": "nouns-adjectives.samolot",
+   "rank": 285,
+   "pl": "samolot",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "plane",
+    "ar": "طائرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lotnisko",
+   "rank": 286,
+   "pl": "lotnisko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "airport",
+    "ar": "مطار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czerwony",
+   "rank": 287,
+   "pl": "czerwony",
+   "pos": "adjective",
+   "translations": {
+    "en": "red",
+    "ar": "أحمر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bilet",
+   "rank": 288,
+   "pl": "bilet",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "ticket",
+    "ar": "تذكرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.paszport",
+   "rank": 289,
+   "pl": "paszport",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "passport",
+    "ar": "جواز سفر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zielony",
+   "rank": 290,
+   "pl": "zielony",
+   "pos": "adjective",
+   "translations": {
+    "en": "green",
+    "ar": "أخضر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.granica",
+   "rank": 291,
+   "pl": "granica",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "border",
+    "ar": "حدود"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mapa",
+   "rank": 292,
+   "pl": "mapa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "map",
+    "ar": "خريطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niebieski",
+   "rank": 293,
+   "pl": "niebieski",
+   "pos": "adjective",
+   "translations": {
+    "en": "blue",
+    "ar": "أزرق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kierunek",
+   "rank": 294,
+   "pl": "kierunek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "direction",
+    "ar": "اتجاه"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polnoc",
+   "rank": 295,
+   "pl": "północ",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "north",
+    "ar": "شمال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zolty",
+   "rank": 296,
+   "pl": "żółty",
+   "pos": "adjective",
+   "translations": {
+    "en": "yellow",
+    "ar": "أصفر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poludnie",
+   "rank": 297,
+   "pl": "południe",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "south, noon",
+    "ar": "جنوب، ظهر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wschod",
+   "rank": 298,
+   "pl": "wschód",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "east",
+    "ar": "شرق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zachod",
+   "rank": 299,
+   "pl": "zachód",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "west",
+    "ar": "غرب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szary",
+   "rank": 300,
+   "pl": "szary",
+   "pos": "adjective",
+   "translations": {
+    "en": "grey",
+    "ar": "رمادي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.morze",
+   "rank": 301,
+   "pl": "morze",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "sea",
+    "ar": "بحر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gora",
+   "rank": 302,
+   "pl": "góra",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "mountain",
+    "ar": "جبل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brazowy",
+   "rank": 303,
+   "pl": "brązowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "brown",
+    "ar": "بني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rzeka",
+   "rank": 304,
+   "pl": "rzeka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "river",
+    "ar": "نهر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jezioro",
+   "rank": 305,
+   "pl": "jezioro",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "lake",
+    "ar": "بحيرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozowy",
+   "rank": 306,
+   "pl": "różowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "pink",
+    "ar": "وردي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.las",
+   "rank": 307,
+   "pl": "las",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "forest",
+    "ar": "غابة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.drzewo",
+   "rank": 308,
+   "pl": "drzewo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "tree",
+    "ar": "شجرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pomaranczowy",
+   "rank": 309,
+   "pl": "pomarańczowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "orange",
+    "ar": "برتقالي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kwiat",
+   "rank": 310,
+   "pl": "kwiat",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "flower",
+    "ar": "زهرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pole",
+   "rank": 311,
+   "pl": "pole",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "field",
+    "ar": "حقل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.fioletowy",
+   "rank": 312,
+   "pl": "fioletowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "purple",
+    "ar": "بنفسجي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wies",
+   "rank": 313,
+   "pl": "wieś",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "village, countryside",
+    "ar": "قرية، ريف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niebo",
+   "rank": 314,
+   "pl": "niebo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "sky",
+    "ar": "سماء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolorowy",
+   "rank": 315,
+   "pl": "kolorowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "colourful",
+    "ar": "ملون"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slonce",
+   "rank": 316,
+   "pl": "słońce",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "sun",
+    "ar": "شمس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ksiezyc",
+   "rank": 317,
+   "pl": "księżyc",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "moon",
+    "ar": "قمر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slodki",
+   "rank": 318,
+   "pl": "słodki",
+   "pos": "adjective",
+   "translations": {
+    "en": "sweet",
+    "ar": "حلو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gwiazda",
+   "rank": 319,
+   "pl": "gwiazda",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "star",
+    "ar": "نجمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.deszcz",
+   "rank": 320,
+   "pl": "deszcz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "rain",
+    "ar": "مطر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gorzki",
+   "rank": 321,
+   "pl": "gorzki",
+   "pos": "adjective",
+   "translations": {
+    "en": "bitter",
+    "ar": "مر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.snieg",
+   "rank": 322,
+   "pl": "śnieg",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "snow",
+    "ar": "ثلج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiatr",
+   "rank": 323,
+   "pl": "wiatr",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "wind",
+    "ar": "ريح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kwasny",
+   "rank": 324,
+   "pl": "kwaśny",
+   "pos": "adjective",
+   "translations": {
+    "en": "sour",
+    "ar": "حامض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pogoda",
+   "rank": 325,
+   "pl": "pogoda",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "weather",
+    "ar": "طقس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.powietrze",
+   "rank": 326,
+   "pl": "powietrze",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "air",
+    "ar": "هواء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slony",
+   "rank": 327,
+   "pl": "słony",
+   "pos": "adjective",
+   "translations": {
+    "en": "salty",
+    "ar": "مالح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ogien",
+   "rank": 328,
+   "pl": "ogień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "fire",
+    "ar": "نار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swiatlo",
+   "rank": 329,
+   "pl": "światło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "light",
+    "ar": "ضوء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolor",
+   "rank": 330,
+   "pl": "kolor",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "colour",
+    "ar": "لون"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ostry",
+   "rank": 331,
+   "pl": "ostry",
+   "pos": "adjective",
+   "translations": {
+    "en": "sharp, spicy",
+    "ar": "حاد، حار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zima",
+   "rank": 332,
+   "pl": "zima",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "winter",
+    "ar": "شتاء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiosna",
+   "rank": 333,
+   "pl": "wiosna",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "spring",
+    "ar": "ربيع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.smaczny",
+   "rank": 334,
+   "pl": "smaczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "tasty",
+    "ar": "لذيذ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lato",
+   "rank": 335,
+   "pl": "lato",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "summer",
+    "ar": "صيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jesien",
+   "rank": 336,
+   "pl": "jesień",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "autumn",
+    "ar": "خريف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swiezy",
+   "rank": 337,
+   "pl": "świeży",
+   "pos": "adjective",
+   "translations": {
+    "en": "fresh",
+    "ar": "طازج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pies",
+   "rank": 338,
+   "pl": "pies",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "dog",
+    "ar": "كلب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kot",
+   "rank": 339,
+   "pl": "kot",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "cat",
+    "ar": "قطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gotowany",
+   "rank": 340,
+   "pl": "gotowany",
+   "pos": "adjective",
+   "translations": {
+    "en": "boiled",
+    "ar": "مسلوق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kon",
+   "rank": 341,
+   "pl": "koń",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "horse",
+    "ar": "حصان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ptak",
+   "rank": 342,
+   "pl": "ptak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bird",
+    "ar": "طائر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.surowy",
+   "rank": 343,
+   "pl": "surowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "raw, strict",
+    "ar": "نيء، صارم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zwierze",
+   "rank": 344,
+   "pl": "zwierzę",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "animal",
+    "ar": "حيوان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mieszkanie",
+   "rank": 345,
+   "pl": "mieszkanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "flat, apartment",
+    "ar": "شقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.twardy",
+   "rank": 346,
+   "pl": "twardy",
+   "pos": "adjective",
+   "translations": {
+    "en": "hard",
+    "ar": "صلب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kuchnia",
+   "rank": 347,
+   "pl": "kuchnia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "kitchen, cuisine",
+    "ar": "مطبخ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lazienka",
+   "rank": 348,
+   "pl": "łazienka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "bathroom",
+    "ar": "حمام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miekki",
+   "rank": 349,
+   "pl": "miękki",
+   "pos": "adjective",
+   "translations": {
+    "en": "soft",
+    "ar": "ناعم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sypialnia",
+   "rank": 350,
+   "pl": "sypialnia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "bedroom",
+    "ar": "غرفة نوم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sciana",
+   "rank": 351,
+   "pl": "ściana",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "wall",
+    "ar": "جدار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gladki",
+   "rank": 352,
+   "pl": "gładki",
+   "pos": "adjective",
+   "translations": {
+    "en": "smooth",
+    "ar": "أملس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podloga",
+   "rank": 353,
+   "pl": "podłoga",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "floor",
+    "ar": "أرضية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pietro",
+   "rank": 354,
+   "pl": "piętro",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "floor (storey)",
+    "ar": "طابق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.okragly",
+   "rank": 355,
+   "pl": "okrągły",
+   "pos": "adjective",
+   "translations": {
+    "en": "round",
+    "ar": "دائري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.schody",
+   "rank": 356,
+   "pl": "schody",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "stairs",
+    "ar": "درج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.klucz",
+   "rank": 357,
+   "pl": "klucz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "key",
+    "ar": "مفتاح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plaski",
+   "rank": 358,
+   "pl": "płaski",
+   "pos": "adjective",
+   "translations": {
+    "en": "flat",
+    "ar": "مسطح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.stol",
+   "rank": 359,
+   "pl": "stół",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "table",
+    "ar": "طاولة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.krzeslo",
+   "rank": 360,
+   "pl": "krzesło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "chair",
+    "ar": "كرسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lozko",
+   "rank": 361,
+   "pl": "łóżko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "bed",
+    "ar": "سرير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gleboki",
+   "rank": 362,
+   "pl": "głęboki",
+   "pos": "adjective",
+   "translations": {
+    "en": "deep",
+    "ar": "عميق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szafa",
+   "rank": 363,
+   "pl": "szafa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "wardrobe",
+    "ar": "خزانة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lodowka",
+   "rank": 364,
+   "pl": "lodówka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "fridge",
+    "ar": "ثلاجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pusty",
+   "rank": 365,
+   "pl": "pusty",
+   "pos": "adjective",
+   "translations": {
+    "en": "empty",
+    "ar": "فارغ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lustro",
+   "rank": 366,
+   "pl": "lustro",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "mirror",
+    "ar": "مرآة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lampa",
+   "rank": 367,
+   "pl": "lampa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "lamp",
+    "ar": "مصباح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.otwarty",
+   "rank": 368,
+   "pl": "otwarty",
+   "pos": "adjective",
+   "translations": {
+    "en": "open",
+    "ar": "مفتوح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ogrod",
+   "rank": 369,
+   "pl": "ogród",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "garden",
+    "ar": "حديقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ubranie",
+   "rank": 370,
+   "pl": "ubranie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "clothes",
+    "ar": "ملابس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zamkniety",
+   "rank": 371,
+   "pl": "zamknięty",
+   "pos": "adjective",
+   "translations": {
+    "en": "closed",
+    "ar": "مغلق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.koszula",
+   "rank": 372,
+   "pl": "koszula",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "shirt",
+    "ar": "قميص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spodnie",
+   "rank": 373,
+   "pl": "spodnie",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "trousers",
+    "ar": "بنطال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.publiczny",
+   "rank": 374,
+   "pl": "publiczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "public",
+    "ar": "عام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sukienka",
+   "rank": 375,
+   "pl": "sukienka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "dress",
+    "ar": "فستان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.buty",
+   "rank": 376,
+   "pl": "buty",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "shoes",
+    "ar": "أحذية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prywatny",
+   "rank": 377,
+   "pl": "prywatny",
+   "pos": "adjective",
+   "translations": {
+    "en": "private",
+    "ar": "خاص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kurtka",
+   "rank": 378,
+   "pl": "kurtka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "jacket",
+    "ar": "سترة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plaszcz",
+   "rank": 379,
+   "pl": "płaszcz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "coat",
+    "ar": "معطف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.panstwowy",
+   "rank": 380,
+   "pl": "państwowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "state, national",
+    "ar": "حكومي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czapka",
+   "rank": 381,
+   "pl": "czapka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "cap, hat",
+    "ar": "قبعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.torba",
+   "rank": 382,
+   "pl": "torba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "bag",
+    "ar": "حقيبة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spoleczny",
+   "rank": 383,
+   "pl": "społeczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "social",
+    "ar": "اجتماعي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chlopiec",
+   "rank": 384,
+   "pl": "chłopiec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "boy",
+    "ar": "ولد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dziewczyna",
+   "rank": 385,
+   "pl": "dziewczyna",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "girl, girlfriend",
+    "ar": "فتاة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polityczny",
+   "rank": 386,
+   "pl": "polityczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "political",
+    "ar": "سياسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dziewczynka",
+   "rank": 387,
+   "pl": "dziewczynka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "little girl",
+    "ar": "بنت صغيرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chlopak",
+   "rank": 388,
+   "pl": "chłopak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "boy, boyfriend",
+    "ar": "شاب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.babcia",
+   "rank": 389,
+   "pl": "babcia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "grandmother",
+    "ar": "جدة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ekonomiczny",
+   "rank": 390,
+   "pl": "ekonomiczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "economic",
+    "ar": "اقتصادي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dziadek",
+   "rank": 391,
+   "pl": "dziadek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "grandfather",
+    "ar": "جد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wnuk",
+   "rank": 392,
+   "pl": "wnuk",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "grandson",
+    "ar": "حفيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gospodarczy",
+   "rank": 393,
+   "pl": "gospodarczy",
+   "pos": "adjective",
+   "translations": {
+    "en": "economic",
+    "ar": "اقتصادي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rodzice",
+   "rank": 394,
+   "pl": "rodzice",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "parents",
+    "ar": "والدان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ludzie",
+   "rank": 395,
+   "pl": "ludzie",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "people",
+    "ar": "ناس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.narodowy",
+   "rank": 396,
+   "pl": "narodowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "national",
+    "ar": "وطني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.osoba",
+   "rank": 397,
+   "pl": "osoba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "person",
+    "ar": "شخص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sasiad",
+   "rank": 398,
+   "pl": "sąsiad",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "neighbour",
+    "ar": "جار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miedzynarodowy",
+   "rank": 399,
+   "pl": "międzynarodowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "international",
+    "ar": "دولي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gosc",
+   "rank": 400,
+   "pl": "gość",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "guest",
+    "ar": "ضيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pracownik",
+   "rank": 401,
+   "pl": "pracownik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "employee",
+    "ar": "موظف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.europejski",
+   "rank": 402,
+   "pl": "europejski",
+   "pos": "adjective",
+   "translations": {
+    "en": "European",
+    "ar": "أوروبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kierowca",
+   "rank": 403,
+   "pl": "kierowca",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "driver",
+    "ar": "سائق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.policja",
+   "rank": 404,
+   "pl": "policja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "police",
+    "ar": "شرطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zagraniczny",
+   "rank": 405,
+   "pl": "zagraniczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "foreign",
+    "ar": "أجنبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.policjant",
+   "rank": 406,
+   "pl": "policjant",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "police officer",
+    "ar": "شرطي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zolnierz",
+   "rank": 407,
+   "pl": "żołnierz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "soldier",
+    "ar": "جندي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obcy",
+   "rank": 408,
+   "pl": "obcy",
+   "pos": "adjective",
+   "translations": {
+    "en": "foreign, strange",
+    "ar": "غريب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wojsko",
+   "rank": 409,
+   "pl": "wojsko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "army",
+    "ar": "جيش"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pisarz",
+   "rank": 410,
+   "pl": "pisarz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "writer",
+    "ar": "كاتب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lokalny",
+   "rank": 411,
+   "pl": "lokalny",
+   "pos": "adjective",
+   "translations": {
+    "en": "local",
+    "ar": "محلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.artysta",
+   "rank": 412,
+   "pl": "artysta",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "artist",
+    "ar": "فنان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.aktor",
+   "rank": 413,
+   "pl": "aktor",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "actor",
+    "ar": "ممثل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miejski",
+   "rank": 414,
+   "pl": "miejski",
+   "pos": "adjective",
+   "translations": {
+    "en": "urban, city",
+    "ar": "حضري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.inzynier",
+   "rank": 415,
+   "pl": "inżynier",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "engineer",
+    "ar": "مهندس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prawnik",
+   "rank": 416,
+   "pl": "prawnik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "lawyer",
+    "ar": "محامي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiejski",
+   "rank": 417,
+   "pl": "wiejski",
+   "pos": "adjective",
+   "translations": {
+    "en": "rural",
+    "ar": "ريفي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sprzedawca",
+   "rank": 418,
+   "pl": "sprzedawca",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "shop assistant, seller",
+    "ar": "بائع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kelner",
+   "rank": 419,
+   "pl": "kelner",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "waiter",
+    "ar": "نادل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kucharz",
+   "rank": 420,
+   "pl": "kucharz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "cook",
+    "ar": "طباخ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rodzinny",
+   "rank": 421,
+   "pl": "rodzinny",
+   "pos": "adjective",
+   "translations": {
+    "en": "family",
+    "ar": "عائلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dyrektor",
+   "rank": 422,
+   "pl": "dyrektor",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "director, manager",
+    "ar": "مدير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prezydent",
+   "rank": 423,
+   "pl": "prezydent",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "president",
+    "ar": "رئيس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.domowy",
+   "rank": 424,
+   "pl": "domowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "home, homemade",
+    "ar": "منزلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.minister",
+   "rank": 425,
+   "pl": "minister",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "minister",
+    "ar": "وزير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.premier",
+   "rank": 426,
+   "pl": "premier",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "prime minister",
+    "ar": "رئيس الوزراء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szkolny",
+   "rank": 427,
+   "pl": "szkolny",
+   "pos": "adjective",
+   "translations": {
+    "en": "school",
+    "ar": "مدرسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.posel",
+   "rank": 428,
+   "pl": "poseł",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "member of parliament",
+    "ar": "نائب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obywatel",
+   "rank": 429,
+   "pl": "obywatel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "citizen",
+    "ar": "مواطن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zawodowy",
+   "rank": 430,
+   "pl": "zawodowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "professional",
+    "ar": "مهني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.narod",
+   "rank": 431,
+   "pl": "naród",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "nation",
+    "ar": "أمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spoleczenstwo",
+   "rank": 432,
+   "pl": "społeczeństwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "society",
+    "ar": "مجتمع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.naukowy",
+   "rank": 433,
+   "pl": "naukowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "scientific",
+    "ar": "علمي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mieszkaniec",
+   "rank": 434,
+   "pl": "mieszkaniec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "resident",
+    "ar": "ساكن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polak",
+   "rank": 435,
+   "pl": "Polak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "Pole (man)",
+    "ar": "بولندي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kulturalny",
+   "rank": 436,
+   "pl": "kulturalny",
+   "pos": "adjective",
+   "translations": {
+    "en": "cultural, cultured",
+    "ar": "ثقافي، مثقف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polska",
+   "rank": 437,
+   "pl": "Polska",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "Poland",
+    "ar": "بولندا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.europa",
+   "rank": 438,
+   "pl": "Europa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "Europe",
+    "ar": "أوروبا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.historyczny",
+   "rank": 439,
+   "pl": "historyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "historical",
+    "ar": "تاريخي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.stolica",
+   "rank": 440,
+   "pl": "stolica",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "capital city",
+    "ar": "عاصمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wybory",
+   "rank": 441,
+   "pl": "wybory",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "elections",
+    "ar": "انتخابات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nowoczesny",
+   "rank": 442,
+   "pl": "nowoczesny",
+   "pos": "adjective",
+   "translations": {
+    "en": "modern",
+    "ar": "حديث"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sad",
+   "rank": 443,
+   "pl": "sąd",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "court",
+    "ar": "محكمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kara",
+   "rank": 444,
+   "pl": "kara",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "punishment, fine",
+    "ar": "عقوبة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wspolczesny",
+   "rank": 445,
+   "pl": "współczesny",
+   "pos": "adjective",
+   "translations": {
+    "en": "contemporary",
+    "ar": "معاصر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wolnosc",
+   "rank": 446,
+   "pl": "wolność",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "freedom",
+    "ar": "حرية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bezpieczenstwo",
+   "rank": 447,
+   "pl": "bezpieczeństwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "safety, security",
+    "ar": "أمن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niebezpieczenstwo",
+   "rank": 448,
+   "pl": "niebezpieczeństwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "danger",
+    "ar": "خطر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tradycyjny",
+   "rank": 449,
+   "pl": "tradycyjny",
+   "pos": "adjective",
+   "translations": {
+    "en": "traditional",
+    "ar": "تقليدي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.milosc",
+   "rank": 450,
+   "pl": "miłość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "love",
+    "ar": "حب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyjazn",
+   "rank": 451,
+   "pl": "przyjaźń",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "friendship",
+    "ar": "صداقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dawny",
+   "rank": 452,
+   "pl": "dawny",
+   "pos": "adjective",
+   "translations": {
+    "en": "former, old",
+    "ar": "سابق، قديم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.radosc",
+   "rank": 453,
+   "pl": "radość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "joy",
+    "ar": "فرح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szczescie",
+   "rank": 454,
+   "pl": "szczęście",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "happiness, luck",
+    "ar": "سعادة، حظ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obecny",
+   "rank": 455,
+   "pl": "obecny",
+   "pos": "adjective",
+   "translations": {
+    "en": "current, present",
+    "ar": "حالي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.strach",
+   "rank": 456,
+   "pl": "strach",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "fear",
+    "ar": "خوف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.smutek",
+   "rank": 457,
+   "pl": "smutek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sadness",
+    "ar": "حزن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyszly",
+   "rank": 458,
+   "pl": "przyszły",
+   "pos": "adjective",
+   "translations": {
+    "en": "future, next",
+    "ar": "مستقبلي، قادم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zlosc",
+   "rank": 459,
+   "pl": "złość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "anger",
+    "ar": "غضب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nadzieja",
+   "rank": 460,
+   "pl": "nadzieja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "hope",
+    "ar": "أمل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nastepny",
+   "rank": 461,
+   "pl": "następny",
+   "pos": "adjective",
+   "translations": {
+    "en": "next",
+    "ar": "التالي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.marzenie",
+   "rank": 462,
+   "pl": "marzenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "dream (wish)",
+    "ar": "حلم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sen",
+   "rank": 463,
+   "pl": "sen",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sleep, dream",
+    "ar": "نوم، حلم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poprzedni",
+   "rank": 464,
+   "pl": "poprzedni",
+   "pos": "adjective",
+   "translations": {
+    "en": "previous",
+    "ar": "السابق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pamiec",
+   "rank": 465,
+   "pl": "pamięć",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "memory",
+    "ar": "ذاكرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uczucie",
+   "rank": 466,
+   "pl": "uczucie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "feeling",
+    "ar": "شعور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolejny",
+   "rank": 467,
+   "pl": "kolejny",
+   "pos": "adjective",
+   "translations": {
+    "en": "next, another",
+    "ar": "التالي، آخر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.emocja",
+   "rank": 468,
+   "pl": "emocja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "emotion",
+    "ar": "عاطفة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.charakter",
+   "rank": 469,
+   "pl": "charakter",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "character",
+    "ar": "شخصية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ostateczny",
+   "rank": 470,
+   "pl": "ostateczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "final",
+    "ar": "نهائي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zachowanie",
+   "rank": 471,
+   "pl": "zachowanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "behaviour",
+    "ar": "سلوك"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zwyczaj",
+   "rank": 472,
+   "pl": "zwyczaj",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "custom",
+    "ar": "عادة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.glowny",
+   "rank": 473,
+   "pl": "główny",
+   "pos": "adjective",
+   "translations": {
+    "en": "main",
+    "ar": "رئيسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tradycja",
+   "rank": 474,
+   "pl": "tradycja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "tradition",
+    "ar": "تقليد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swieto",
+   "rank": 475,
+   "pl": "święto",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "holiday, feast",
+    "ar": "عيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podstawowy",
+   "rank": 476,
+   "pl": "podstawowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "basic",
+    "ar": "أساسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.boze-narodzenie",
+   "rank": 477,
+   "pl": "Boże Narodzenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "Christmas",
+    "ar": "عيد الميلاد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wielkanoc",
+   "rank": 478,
+   "pl": "Wielkanoc",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "Easter",
+    "ar": "عيد الفصح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.urodziny",
+   "rank": 479,
+   "pl": "urodziny",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "birthday",
+    "ar": "عيد ميلاد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ogolny",
+   "rank": 480,
+   "pl": "ogólny",
+   "pos": "adjective",
+   "translations": {
+    "en": "general",
+    "ar": "عام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slub",
+   "rank": 481,
+   "pl": "ślub",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "wedding",
+    "ar": "زفاف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prezent",
+   "rank": 482,
+   "pl": "prezent",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "gift",
+    "ar": "هدية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szczegolny",
+   "rank": 483,
+   "pl": "szczególny",
+   "pos": "adjective",
+   "translations": {
+    "en": "particular, special",
+    "ar": "خاص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.impreza",
+   "rank": 484,
+   "pl": "impreza",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "party",
+    "ar": "حفلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.koncert",
+   "rank": 485,
+   "pl": "koncert",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "concert",
+    "ar": "حفلة موسيقية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.specjalny",
+   "rank": 486,
+   "pl": "specjalny",
+   "pos": "adjective",
+   "translations": {
+    "en": "special",
+    "ar": "خاص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wystawa",
+   "rank": 487,
+   "pl": "wystawa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "exhibition",
+    "ar": "معرض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.muzeum",
+   "rank": 488,
+   "pl": "muzeum",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "museum",
+    "ar": "متحف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wyjatkowy",
+   "rank": 489,
+   "pl": "wyjątkowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "exceptional",
+    "ar": "استثنائي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zamek",
+   "rank": 490,
+   "pl": "zamek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "castle, lock",
+    "ar": "قلعة، قفل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pomnik",
+   "rank": 491,
+   "pl": "pomnik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "monument",
+    "ar": "نصب تذكاري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.typowy",
+   "rank": 492,
+   "pl": "typowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "typical",
+    "ar": "نموذجي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.budynek",
+   "rank": 493,
+   "pl": "budynek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "building",
+    "ar": "مبنى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.most",
+   "rank": 494,
+   "pl": "most",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bridge",
+    "ar": "جسر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.normalny",
+   "rank": 495,
+   "pl": "normalny",
+   "pos": "adjective",
+   "translations": {
+    "en": "normal",
+    "ar": "عادي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.park",
+   "rank": 496,
+   "pl": "park",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "park",
+    "ar": "حديقة عامة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plac",
+   "rank": 497,
+   "pl": "plac",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "square",
+    "ar": "ساحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zwykly",
+   "rank": 498,
+   "pl": "zwykły",
+   "pos": "adjective",
+   "translations": {
+    "en": "ordinary, usual",
+    "ar": "عادي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.centrum",
+   "rank": 499,
+   "pl": "centrum",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "centre",
+    "ar": "مركز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dzielnica",
+   "rank": 500,
+   "pl": "dzielnica",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "district",
+    "ar": "حي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dziwny",
+   "rank": 501,
+   "pl": "dziwny",
+   "pos": "adjective",
+   "translations": {
+    "en": "strange",
+    "ar": "غريب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.adres",
+   "rank": 502,
+   "pl": "adres",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "address",
+    "ar": "عنوان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poczta",
+   "rank": 503,
+   "pl": "poczta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "post office, mail",
+    "ar": "بريد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ciekawy",
+   "rank": 504,
+   "pl": "ciekawy",
+   "pos": "adjective",
+   "translations": {
+    "en": "interesting, curious",
+    "ar": "مثير للاهتمام، فضولي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.paczka",
+   "rank": 505,
+   "pl": "paczka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "parcel",
+    "ar": "طرد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.koperta",
+   "rank": 506,
+   "pl": "koperta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "envelope",
+    "ar": "ظرف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.znaczek",
+   "rank": 507,
+   "pl": "znaczek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "stamp",
+    "ar": "طابع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.interesujacy",
+   "rank": 508,
+   "pl": "interesujący",
+   "pos": "adjective",
+   "translations": {
+    "en": "interesting",
+    "ar": "مثير للاهتمام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.urzad",
+   "rank": 509,
+   "pl": "urząd",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "office (public)",
+    "ar": "دائرة حكومية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dokument",
+   "rank": 510,
+   "pl": "dokument",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "document",
+    "ar": "وثيقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nudny",
+   "rank": 511,
+   "pl": "nudny",
+   "pos": "adjective",
+   "translations": {
+    "en": "boring",
+    "ar": "ممل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dowod-osobisty",
+   "rank": 512,
+   "pl": "dowód osobisty",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "ID card",
+    "ar": "بطاقة الهوية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.formularz",
+   "rank": 513,
+   "pl": "formularz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "form",
+    "ar": "استمارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.smieszny",
+   "rank": 514,
+   "pl": "śmieszny",
+   "pos": "adjective",
+   "translations": {
+    "en": "funny",
+    "ar": "مضحك"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podpis",
+   "rank": 515,
+   "pl": "podpis",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "signature",
+    "ar": "توقيع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nazwisko",
+   "rank": 516,
+   "pl": "nazwisko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "surname",
+    "ar": "اسم العائلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zabawny",
+   "rank": 517,
+   "pl": "zabawny",
+   "pos": "adjective",
+   "translations": {
+    "en": "amusing",
+    "ar": "مسل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.imie",
+   "rank": 518,
+   "pl": "imię",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "first name",
+    "ar": "اسم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiek",
+   "rank": 519,
+   "pl": "wiek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "age, century",
+    "ar": "عمر، قرن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.powazny",
+   "rank": 520,
+   "pl": "poważny",
+   "pos": "adjective",
+   "translations": {
+    "en": "serious",
+    "ar": "جدي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.data",
+   "rank": 521,
+   "pl": "data",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "date",
+    "ar": "تاريخ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.termin",
+   "rank": 522,
+   "pl": "termin",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "deadline, appointment",
+    "ar": "موعد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niebezpieczny",
+   "rank": 523,
+   "pl": "niebezpieczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "dangerous",
+    "ar": "خطير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kalendarz",
+   "rank": 524,
+   "pl": "kalendarz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "calendar",
+    "ar": "تقويم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poniedzialek",
+   "rank": 525,
+   "pl": "poniedziałek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "Monday",
+    "ar": "الاثنين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bezpieczny",
+   "rank": 526,
+   "pl": "bezpieczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "safe",
+    "ar": "آمن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wtorek",
+   "rank": 527,
+   "pl": "wtorek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "Tuesday",
+    "ar": "الثلاثاء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sroda",
+   "rank": 528,
+   "pl": "środa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "Wednesday",
+    "ar": "الأربعاء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.straszny",
+   "rank": 529,
+   "pl": "straszny",
+   "pos": "adjective",
+   "translations": {
+    "en": "terrible, scary",
+    "ar": "فظيع، مخيف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czwartek",
+   "rank": 530,
+   "pl": "czwartek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "Thursday",
+    "ar": "الخميس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.piatek",
+   "rank": 531,
+   "pl": "piątek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "Friday",
+    "ar": "الجمعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.okropny",
+   "rank": 532,
+   "pl": "okropny",
+   "pos": "adjective",
+   "translations": {
+    "en": "awful",
+    "ar": "فظيع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sobota",
+   "rank": 533,
+   "pl": "sobota",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "Saturday",
+    "ar": "السبت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niedziela",
+   "rank": 534,
+   "pl": "niedziela",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "Sunday",
+    "ar": "الأحد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wspanialy",
+   "rank": 535,
+   "pl": "wspaniały",
+   "pos": "adjective",
+   "translations": {
+    "en": "wonderful",
+    "ar": "رائع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.weekend",
+   "rank": 536,
+   "pl": "weekend",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "weekend",
+    "ar": "عطلة نهاية الأسبوع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.styczen",
+   "rank": 537,
+   "pl": "styczeń",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "January",
+    "ar": "يناير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.luty",
+   "rank": 538,
+   "pl": "luty",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "February",
+    "ar": "فبراير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swietny",
+   "rank": 539,
+   "pl": "świetny",
+   "pos": "adjective",
+   "translations": {
+    "en": "great, excellent",
+    "ar": "ممتاز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.marzec",
+   "rank": 540,
+   "pl": "marzec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "March",
+    "ar": "مارس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kwiecien",
+   "rank": 541,
+   "pl": "kwiecień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "April",
+    "ar": "أبريل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.doskonaly",
+   "rank": 542,
+   "pl": "doskonały",
+   "pos": "adjective",
+   "translations": {
+    "en": "perfect, excellent",
+    "ar": "ممتاز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.maj",
+   "rank": 543,
+   "pl": "maj",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "May",
+    "ar": "مايو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czerwiec",
+   "rank": 544,
+   "pl": "czerwiec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "June",
+    "ar": "يونيو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.idealny",
+   "rank": 545,
+   "pl": "idealny",
+   "pos": "adjective",
+   "translations": {
+    "en": "ideal, perfect",
+    "ar": "مثالي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lipiec",
+   "rank": 546,
+   "pl": "lipiec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "July",
+    "ar": "يوليو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sierpien",
+   "rank": 547,
+   "pl": "sierpień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "August",
+    "ar": "أغسطس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.fantastyczny",
+   "rank": 548,
+   "pl": "fantastyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "fantastic",
+    "ar": "رائع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wrzesien",
+   "rank": 549,
+   "pl": "wrzesień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "September",
+    "ar": "سبتمبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pazdziernik",
+   "rank": 550,
+   "pl": "październik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "October",
+    "ar": "أكتوبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cudowny",
+   "rank": 551,
+   "pl": "cudowny",
+   "pos": "adjective",
+   "translations": {
+    "en": "marvellous",
+    "ar": "رائع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.listopad",
+   "rank": 552,
+   "pl": "listopad",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "November",
+    "ar": "نوفمبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.grudzien",
+   "rank": 553,
+   "pl": "grudzień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "December",
+    "ar": "ديسمبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niezly",
+   "rank": 554,
+   "pl": "niezły",
+   "pos": "adjective",
+   "translations": {
+    "en": "not bad",
+    "ar": "لا بأس به"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chwila",
+   "rank": 555,
+   "pl": "chwila",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "while, moment",
+    "ar": "لحظة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poczatek",
+   "rank": 556,
+   "pl": "początek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "beginning",
+    "ar": "بداية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyjemny",
+   "rank": 557,
+   "pl": "przyjemny",
+   "pos": "adjective",
+   "translations": {
+    "en": "pleasant",
+    "ar": "ممتع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyszlosc",
+   "rank": 558,
+   "pl": "przyszłość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "future",
+    "ar": "مستقبل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przeszlosc",
+   "rank": 559,
+   "pl": "przeszłość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "past",
+    "ar": "ماضي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nieprzyjemny",
+   "rank": 560,
+   "pl": "nieprzyjemny",
+   "pos": "adjective",
+   "translations": {
+    "en": "unpleasant",
+    "ar": "مزعج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.terazniejszosc",
+   "rank": 561,
+   "pl": "teraźniejszość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "present",
+    "ar": "حاضر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.okres",
+   "rank": 562,
+   "pl": "okres",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "period",
+    "ar": "فترة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wygodny",
+   "rank": 563,
+   "pl": "wygodny",
+   "pos": "adjective",
+   "translations": {
+    "en": "comfortable",
+    "ar": "مريح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.epoka",
+   "rank": 564,
+   "pl": "epoka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "era",
+    "ar": "عصر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.liczba",
+   "rank": 565,
+   "pl": "liczba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "number",
+    "ar": "عدد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niewygodny",
+   "rank": 566,
+   "pl": "niewygodny",
+   "pos": "adjective",
+   "translations": {
+    "en": "uncomfortable",
+    "ar": "غير مريح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.numer",
+   "rank": 567,
+   "pl": "numer",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "number (phone, house)",
+    "ar": "رقم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ilosc",
+   "rank": 568,
+   "pl": "ilość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "amount",
+    "ar": "كمية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.procent",
+   "rank": 569,
+   "pl": "procent",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "percent",
+    "ar": "نسبة مئوية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.praktyczny",
+   "rank": 570,
+   "pl": "praktyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "practical",
+    "ar": "عملي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polowa",
+   "rank": 571,
+   "pl": "połowa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "half",
+    "ar": "نصف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kilogram",
+   "rank": 572,
+   "pl": "kilogram",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "kilogram",
+    "ar": "كيلوغرام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przydatny",
+   "rank": 573,
+   "pl": "przydatny",
+   "pos": "adjective",
+   "translations": {
+    "en": "useful",
+    "ar": "مفيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.metr",
+   "rank": 574,
+   "pl": "metr",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "metre",
+    "ar": "متر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kilometr",
+   "rank": 575,
+   "pl": "kilometr",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "kilometre",
+    "ar": "كيلومتر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pozyteczny",
+   "rank": 576,
+   "pl": "pożyteczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "useful",
+    "ar": "نافع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.litr",
+   "rank": 577,
+   "pl": "litr",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "litre",
+    "ar": "لتر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.butelka",
+   "rank": 578,
+   "pl": "butelka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "bottle",
+    "ar": "زجاجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skuteczny",
+   "rank": 579,
+   "pl": "skuteczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "effective",
+    "ar": "فعال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szklanka",
+   "rank": 580,
+   "pl": "szklanka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "glass (for drinks)",
+    "ar": "كوب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kubek",
+   "rank": 581,
+   "pl": "kubek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "mug",
+    "ar": "كوب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.aktywny",
+   "rank": 582,
+   "pl": "aktywny",
+   "pos": "adjective",
+   "translations": {
+    "en": "active",
+    "ar": "نشيط"
+   }
+  },
+  {
+   "id": "nouns-adjectives.talerz",
+   "rank": 583,
+   "pl": "talerz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "plate",
+    "ar": "صحن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.noz",
+   "rank": 584,
+   "pl": "nóż",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "knife",
+    "ar": "سكين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.popularny",
+   "rank": 585,
+   "pl": "popularny",
+   "pos": "adjective",
+   "translations": {
+    "en": "popular",
+    "ar": "شائع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.widelec",
+   "rank": 586,
+   "pl": "widelec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "fork",
+    "ar": "شوكة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lyzka",
+   "rank": 587,
+   "pl": "łyżka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "spoon",
+    "ar": "ملعقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.znany",
+   "rank": 588,
+   "pl": "znany",
+   "pos": "adjective",
+   "translations": {
+    "en": "well-known",
+    "ar": "معروف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.garnek",
+   "rank": 589,
+   "pl": "garnek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "pot",
+    "ar": "قدر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.maslo",
+   "rank": 590,
+   "pl": "masło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "butter",
+    "ar": "زبدة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slawny",
+   "rank": 591,
+   "pl": "sławny",
+   "pos": "adjective",
+   "translations": {
+    "en": "famous",
+    "ar": "مشهور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.olej",
+   "rank": 592,
+   "pl": "olej",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "oil",
+    "ar": "زيت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ryz",
+   "rank": 593,
+   "pl": "ryż",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "rice",
+    "ar": "أرز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nieznany",
+   "rank": 594,
+   "pl": "nieznany",
+   "pos": "adjective",
+   "translations": {
+    "en": "unknown",
+    "ar": "مجهول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.makaron",
+   "rank": 595,
+   "pl": "makaron",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "pasta",
+    "ar": "معكرونة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.maka",
+   "rank": 596,
+   "pl": "mąka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "flour",
+    "ar": "طحين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kurczak",
+   "rank": 597,
+   "pl": "kurczak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "chicken",
+    "ar": "دجاج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slynny",
+   "rank": 598,
+   "pl": "słynny",
+   "pos": "adjective",
+   "translations": {
+    "en": "famous",
+    "ar": "شهير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wolowina",
+   "rank": 599,
+   "pl": "wołowina",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "beef",
+    "ar": "لحم بقري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wieprzowina",
+   "rank": 600,
+   "pl": "wieprzowina",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pork",
+    "ar": "لحم خنزير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podobny",
+   "rank": 601,
+   "pl": "podobny",
+   "pos": "adjective",
+   "translations": {
+    "en": "similar",
+    "ar": "مشابه"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kielbasa",
+   "rank": 602,
+   "pl": "kiełbasa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "sausage",
+    "ar": "نقانق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szynka",
+   "rank": 603,
+   "pl": "szynka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "ham",
+    "ar": "لحم مقدد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozny",
+   "rank": 604,
+   "pl": "różny",
+   "pos": "adjective",
+   "translations": {
+    "en": "different, various",
+    "ar": "مختلف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pomidor",
+   "rank": 605,
+   "pl": "pomidor",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "tomato",
+    "ar": "طماطم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ogorek",
+   "rank": 606,
+   "pl": "ogórek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "cucumber",
+    "ar": "خيار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.taki-sam",
+   "rank": 607,
+   "pl": "taki sam",
+   "pos": "adjective",
+   "translations": {
+    "en": "the same",
+    "ar": "نفسه"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cebula",
+   "rank": 608,
+   "pl": "cebula",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "onion",
+    "ar": "بصل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czosnek",
+   "rank": 609,
+   "pl": "czosnek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "garlic",
+    "ar": "ثوم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jedyny",
+   "rank": 610,
+   "pl": "jedyny",
+   "pos": "adjective",
+   "translations": {
+    "en": "only, sole",
+    "ar": "الوحيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.marchew",
+   "rank": 611,
+   "pl": "marchew",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "carrot",
+    "ar": "جزر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kapusta",
+   "rank": 612,
+   "pl": "kapusta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "cabbage",
+    "ar": "ملفوف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wspolny",
+   "rank": 613,
+   "pl": "wspólny",
+   "pos": "adjective",
+   "translations": {
+    "en": "common, shared",
+    "ar": "مشترك"
+   }
+  },
+  {
+   "id": "nouns-adjectives.salatka",
+   "rank": 614,
+   "pl": "sałatka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "salad",
+    "ar": "سلطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gruszka",
+   "rank": 615,
+   "pl": "gruszka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pear",
+    "ar": "كمثرى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.samotny",
+   "rank": 616,
+   "pl": "samotny",
+   "pos": "adjective",
+   "translations": {
+    "en": "lonely, single",
+    "ar": "وحيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.banan",
+   "rank": 617,
+   "pl": "banan",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "banana",
+    "ar": "موز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pomarancza",
+   "rank": 618,
+   "pl": "pomarańcza",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "orange",
+    "ar": "برتقال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zonaty",
+   "rank": 619,
+   "pl": "żonaty",
+   "pos": "adjective",
+   "translations": {
+    "en": "married (man)",
+    "ar": "متزوج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cytryna",
+   "rank": 620,
+   "pl": "cytryna",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "lemon",
+    "ar": "ليمون"
+   }
+  },
+  {
+   "id": "nouns-adjectives.truskawka",
+   "rank": 621,
+   "pl": "truskawka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "strawberry",
+    "ar": "فراولة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zamezna",
+   "rank": 622,
+   "pl": "zamężna",
+   "pos": "adjective",
+   "translations": {
+    "en": "married (woman)",
+    "ar": "متزوجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ciasto",
+   "rank": 623,
+   "pl": "ciasto",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "cake, dough",
+    "ar": "كعكة، عجين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ciastko",
+   "rank": 624,
+   "pl": "ciastko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "biscuit, cookie",
+    "ar": "بسكويت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozwiedziony",
+   "rank": 625,
+   "pl": "rozwiedziony",
+   "pos": "adjective",
+   "translations": {
+    "en": "divorced",
+    "ar": "مطلق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lody",
+   "rank": 626,
+   "pl": "lody",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "ice cream",
+    "ar": "مثلجات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czekolada",
+   "rank": 627,
+   "pl": "czekolada",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "chocolate",
+    "ar": "شوكولاتة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pierogi",
+   "rank": 628,
+   "pl": "pierogi",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "dumplings",
+    "ar": "فطائر محشوة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dorosly",
+   "rank": 629,
+   "pl": "dorosły",
+   "pos": "adjective",
+   "translations": {
+    "en": "adult",
+    "ar": "بالغ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.danie",
+   "rank": 630,
+   "pl": "danie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "dish",
+    "ar": "طبق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.menu",
+   "rank": 631,
+   "pl": "menu",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "menu",
+    "ar": "قائمة الطعام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.starszy",
+   "rank": 632,
+   "pl": "starszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "elderly, older",
+    "ar": "مسن، أكبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.smak",
+   "rank": 633,
+   "pl": "smak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "taste",
+    "ar": "طعم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zapach",
+   "rank": 634,
+   "pl": "zapach",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "smell",
+    "ar": "رائحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mlodszy",
+   "rank": 635,
+   "pl": "młodszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "younger",
+    "ar": "أصغر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dzwiek",
+   "rank": 636,
+   "pl": "dźwięk",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sound",
+    "ar": "صوت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obraz",
+   "rank": 637,
+   "pl": "obraz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "picture, painting",
+    "ar": "صورة، لوحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.odpowiedni",
+   "rank": 638,
+   "pl": "odpowiedni",
+   "pos": "adjective",
+   "translations": {
+    "en": "suitable",
+    "ar": "مناسب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdjecie",
+   "rank": 639,
+   "pl": "zdjęcie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "photo",
+    "ar": "صورة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kamera",
+   "rank": 640,
+   "pl": "kamera",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "camera",
+    "ar": "كاميرا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.odpowiedzialny",
+   "rank": 641,
+   "pl": "odpowiedzialny",
+   "pos": "adjective",
+   "translations": {
+    "en": "responsible",
+    "ar": "مسؤول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ekran",
+   "rank": 642,
+   "pl": "ekran",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "screen",
+    "ar": "شاشة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.aplikacja",
+   "rank": 643,
+   "pl": "aplikacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "app",
+    "ar": "تطبيق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uczciwy",
+   "rank": 644,
+   "pl": "uczciwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "honest",
+    "ar": "صادق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.haslo",
+   "rank": 645,
+   "pl": "hasło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "password, slogan",
+    "ar": "كلمة المرور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plik",
+   "rank": 646,
+   "pl": "plik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "file",
+    "ar": "ملف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szczery",
+   "rank": 647,
+   "pl": "szczery",
+   "pos": "adjective",
+   "translations": {
+    "en": "sincere",
+    "ar": "صريح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.siec",
+   "rank": 648,
+   "pl": "sieć",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "network",
+    "ar": "شبكة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.urzadzenie",
+   "rank": 649,
+   "pl": "urządzenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "device",
+    "ar": "جهاز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wierny",
+   "rank": 650,
+   "pl": "wierny",
+   "pos": "adjective",
+   "translations": {
+    "en": "faithful",
+    "ar": "وفي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.maszyna",
+   "rank": 651,
+   "pl": "maszyna",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "machine",
+    "ar": "آلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.narzedzie",
+   "rank": 652,
+   "pl": "narzędzie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "tool",
+    "ar": "أداة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dumny",
+   "rank": 653,
+   "pl": "dumny",
+   "pos": "adjective",
+   "translations": {
+    "en": "proud",
+    "ar": "فخور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.technologia",
+   "rank": 654,
+   "pl": "technologia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "technology",
+    "ar": "تكنولوجيا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.energia",
+   "rank": 655,
+   "pl": "energia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "energy",
+    "ar": "طاقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prad",
+   "rank": 656,
+   "pl": "prąd",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "electricity, current",
+    "ar": "كهرباء، تيار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.odwazny",
+   "rank": 657,
+   "pl": "odważny",
+   "pos": "adjective",
+   "translations": {
+    "en": "brave",
+    "ar": "شجاع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gaz",
+   "rank": 658,
+   "pl": "gaz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "gas",
+    "ar": "غاز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.paliwo",
+   "rank": 659,
+   "pl": "paliwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "fuel",
+    "ar": "وقود"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tchorzliwy",
+   "rank": 660,
+   "pl": "tchórzliwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "cowardly",
+    "ar": "جبان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.benzyna",
+   "rank": 661,
+   "pl": "benzyna",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "petrol",
+    "ar": "بنزين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.srodowisko",
+   "rank": 662,
+   "pl": "środowisko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "environment",
+    "ar": "بيئة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cierpliwy",
+   "rank": 663,
+   "pl": "cierpliwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "patient",
+    "ar": "صبور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przyroda",
+   "rank": 664,
+   "pl": "przyroda",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "nature",
+    "ar": "طبيعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.natura",
+   "rank": 665,
+   "pl": "natura",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "nature",
+    "ar": "طبيعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uwazny",
+   "rank": 666,
+   "pl": "uważny",
+   "pos": "adjective",
+   "translations": {
+    "en": "careful, attentive",
+    "ar": "منتبه"
+   }
+  },
+  {
+   "id": "nouns-adjectives.klimat",
+   "rank": 667,
+   "pl": "klimat",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "climate",
+    "ar": "مناخ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.temperatura",
+   "rank": 668,
+   "pl": "temperatura",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "temperature",
+    "ar": "درجة الحرارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ostrozny",
+   "rank": 669,
+   "pl": "ostrożny",
+   "pos": "adjective",
+   "translations": {
+    "en": "careful",
+    "ar": "حذر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.stopien",
+   "rank": 670,
+   "pl": "stopień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "degree, step",
+    "ar": "درجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cieplo",
+   "rank": 671,
+   "pl": "ciepło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "warmth, heat",
+    "ar": "دفء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niesmialy",
+   "rank": 672,
+   "pl": "nieśmiały",
+   "pos": "adjective",
+   "translations": {
+    "en": "shy",
+    "ar": "خجول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zimno",
+   "rank": 673,
+   "pl": "zimno",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "cold",
+    "ar": "برد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kamien",
+   "rank": 674,
+   "pl": "kamień",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "stone",
+    "ar": "حجر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.towarzyski",
+   "rank": 675,
+   "pl": "towarzyski",
+   "pos": "adjective",
+   "translations": {
+    "en": "sociable",
+    "ar": "اجتماعي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.piasek",
+   "rank": 676,
+   "pl": "piasek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sand",
+    "ar": "رمل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plaza",
+   "rank": 677,
+   "pl": "plaża",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "beach",
+    "ar": "شاطئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.goscinny",
+   "rank": 678,
+   "pl": "gościnny",
+   "pos": "adjective",
+   "translations": {
+    "en": "hospitable",
+    "ar": "مضياف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wyspa",
+   "rank": 679,
+   "pl": "wyspa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "island",
+    "ar": "جزيرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brzeg",
+   "rank": 680,
+   "pl": "brzeg",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "shore, edge",
+    "ar": "شاطئ، حافة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.hojny",
+   "rank": 681,
+   "pl": "hojny",
+   "pos": "adjective",
+   "translations": {
+    "en": "generous",
+    "ar": "كريم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.fala",
+   "rank": 682,
+   "pl": "fala",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "wave",
+    "ar": "موجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.statek",
+   "rank": 683,
+   "pl": "statek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "ship",
+    "ar": "سفينة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skapy",
+   "rank": 684,
+   "pl": "skąpy",
+   "pos": "adjective",
+   "translations": {
+    "en": "stingy",
+    "ar": "بخيل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lodz",
+   "rank": 685,
+   "pl": "łódź",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "boat",
+    "ar": "قارب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rower",
+   "rank": 686,
+   "pl": "rower",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bicycle",
+    "ar": "دراجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.motor",
+   "rank": 687,
+   "pl": "motor",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "motorbike",
+    "ar": "دراجة نارية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zazdrosny",
+   "rank": 688,
+   "pl": "zazdrosny",
+   "pos": "adjective",
+   "translations": {
+    "en": "jealous",
+    "ar": "غيور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.taksowka",
+   "rank": 689,
+   "pl": "taksówka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "taxi",
+    "ar": "سيارة أجرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.metro",
+   "rank": 690,
+   "pl": "metro",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "underground, metro",
+    "ar": "مترو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zakochany",
+   "rank": 691,
+   "pl": "zakochany",
+   "pos": "adjective",
+   "translations": {
+    "en": "in love",
+    "ar": "عاشق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ruch",
+   "rank": 692,
+   "pl": "ruch",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "movement, traffic",
+    "ar": "حركة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.korek",
+   "rank": 693,
+   "pl": "korek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "traffic jam, cork",
+    "ar": "زحمة سير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wsciekly",
+   "rank": 694,
+   "pl": "wściekły",
+   "pos": "adjective",
+   "translations": {
+    "en": "furious",
+    "ar": "غاضب جدا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wypadek",
+   "rank": 695,
+   "pl": "wypadek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "accident",
+    "ar": "حادث"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skrzyzowanie",
+   "rank": 696,
+   "pl": "skrzyżowanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "crossroads",
+    "ar": "تقاطع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdenerwowany",
+   "rank": 697,
+   "pl": "zdenerwowany",
+   "pos": "adjective",
+   "translations": {
+    "en": "upset, nervous",
+    "ar": "منزعج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swiatla",
+   "rank": 698,
+   "pl": "światła",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "traffic lights",
+    "ar": "إشارة المرور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.parking",
+   "rank": 699,
+   "pl": "parking",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "car park",
+    "ar": "موقف سيارات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zaskoczony",
+   "rank": 700,
+   "pl": "zaskoczony",
+   "pos": "adjective",
+   "translations": {
+    "en": "surprised",
+    "ar": "متفاجئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podrozny",
+   "rank": 701,
+   "pl": "podróżny",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "traveller",
+    "ar": "مسافر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.turysta",
+   "rank": 702,
+   "pl": "turysta",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "tourist",
+    "ar": "سائح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdziwiony",
+   "rank": 703,
+   "pl": "zdziwiony",
+   "pos": "adjective",
+   "translations": {
+    "en": "astonished",
+    "ar": "مندهش"
+   }
+  },
+  {
+   "id": "nouns-adjectives.walizka",
+   "rank": 704,
+   "pl": "walizka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "suitcase",
+    "ar": "حقيبة سفر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plecak",
+   "rank": 705,
+   "pl": "plecak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "backpack",
+    "ar": "حقيبة ظهر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przestraszony",
+   "rank": 706,
+   "pl": "przestraszony",
+   "pos": "adjective",
+   "translations": {
+    "en": "frightened",
+    "ar": "خائف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rezerwacja",
+   "rank": 707,
+   "pl": "rezerwacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "booking",
+    "ar": "حجز"
+   }
+  },
+  {
+   "id": "nouns-adjectives.recepcja",
+   "rank": 708,
+   "pl": "recepcja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "reception",
+    "ar": "استقبال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pijany",
+   "rank": 709,
+   "pl": "pijany",
+   "pos": "adjective",
+   "translations": {
+    "en": "drunk",
+    "ar": "سكران"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolejka",
+   "rank": 710,
+   "pl": "kolejka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "queue",
+    "ar": "طابور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wejscie",
+   "rank": 711,
+   "pl": "wejście",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "entrance",
+    "ar": "مدخل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zywy",
+   "rank": 712,
+   "pl": "żywy",
+   "pos": "adjective",
+   "translations": {
+    "en": "alive, lively",
+    "ar": "حي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wyjscie",
+   "rank": 713,
+   "pl": "wyjście",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "exit",
+    "ar": "مخرج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kasa",
+   "rank": 714,
+   "pl": "kasa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "till, cash desk",
+    "ar": "صندوق الدفع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.martwy",
+   "rank": 715,
+   "pl": "martwy",
+   "pos": "adjective",
+   "translations": {
+    "en": "dead",
+    "ar": "ميت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.reszta",
+   "rank": 716,
+   "pl": "reszta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "change, the rest",
+    "ar": "الباقي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zakupy",
+   "rank": 717,
+   "pl": "zakupy",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "shopping",
+    "ar": "تسوق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.supermarket",
+   "rank": 718,
+   "pl": "supermarket",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "supermarket",
+    "ar": "سوبرماركت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slepy",
+   "rank": 719,
+   "pl": "ślepy",
+   "pos": "adjective",
+   "translations": {
+    "en": "blind",
+    "ar": "أعمى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.targ",
+   "rank": 720,
+   "pl": "targ",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "market (open-air)",
+    "ar": "سوق شعبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.towar",
+   "rank": 721,
+   "pl": "towar",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "goods",
+    "ar": "بضاعة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gluchy",
+   "rank": 722,
+   "pl": "głuchy",
+   "pos": "adjective",
+   "translations": {
+    "en": "deaf",
+    "ar": "أصم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.produkt",
+   "rank": 723,
+   "pl": "produkt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "product",
+    "ar": "منتج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jakosc",
+   "rank": 724,
+   "pl": "jakość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "quality",
+    "ar": "جودة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ranny",
+   "rank": 725,
+   "pl": "ranny",
+   "pos": "adjective",
+   "translations": {
+    "en": "injured",
+    "ar": "جريح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.marka",
+   "rank": 726,
+   "pl": "marka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "brand",
+    "ar": "علامة تجارية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.reklama",
+   "rank": 727,
+   "pl": "reklama",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "advertisement",
+    "ar": "إعلان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bolesny",
+   "rank": 728,
+   "pl": "bolesny",
+   "pos": "adjective",
+   "translations": {
+    "en": "painful",
+    "ar": "مؤلم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.oferta",
+   "rank": 729,
+   "pl": "oferta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "offer",
+    "ar": "عرض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.promocja",
+   "rank": 730,
+   "pl": "promocja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "special offer",
+    "ar": "تخفيض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pelnoletni",
+   "rank": 731,
+   "pl": "pełnoletni",
+   "pos": "adjective",
+   "translations": {
+    "en": "of age",
+    "ar": "راشد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.znizka",
+   "rank": 732,
+   "pl": "zniżka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "discount",
+    "ar": "خصم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozmiar",
+   "rank": 733,
+   "pl": "rozmiar",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "size",
+    "ar": "مقاس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ciezarna",
+   "rank": 734,
+   "pl": "ciężarna",
+   "pos": "adjective",
+   "translations": {
+    "en": "pregnant",
+    "ar": "حامل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.para",
+   "rank": 735,
+   "pl": "para",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pair, couple",
+    "ar": "زوج"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kieszen",
+   "rank": 736,
+   "pl": "kieszeń",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pocket",
+    "ar": "جيب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lepszy",
+   "rank": 737,
+   "pl": "lepszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "better",
+    "ar": "أفضل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.portfel",
+   "rank": 738,
+   "pl": "portfel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "wallet",
+    "ar": "محفظة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zegarek",
+   "rank": 739,
+   "pl": "zegarek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "watch",
+    "ar": "ساعة يد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gorszy",
+   "rank": 740,
+   "pl": "gorszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "worse",
+    "ar": "أسوأ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.okulary",
+   "rank": 741,
+   "pl": "okulary",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "glasses",
+    "ar": "نظارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.parasol",
+   "rank": 742,
+   "pl": "parasol",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "umbrella",
+    "ar": "مظلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiekszy",
+   "rank": 743,
+   "pl": "większy",
+   "pos": "adjective",
+   "translations": {
+    "en": "bigger",
+    "ar": "أكبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pierscionek",
+   "rank": 744,
+   "pl": "pierścionek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "ring",
+    "ar": "خاتم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sweter",
+   "rank": 745,
+   "pl": "sweter",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sweater",
+    "ar": "كنزة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spodnica",
+   "rank": 746,
+   "pl": "spódnica",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "skirt",
+    "ar": "تنورة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mniejszy",
+   "rank": 747,
+   "pl": "mniejszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "smaller",
+    "ar": "أصغر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skarpetki",
+   "rank": 748,
+   "pl": "skarpetki",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "socks",
+    "ar": "جوارب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rekawiczki",
+   "rank": 749,
+   "pl": "rękawiczki",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "gloves",
+    "ar": "قفازات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.najlepszy",
+   "rank": 750,
+   "pl": "najlepszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "best",
+    "ar": "الأفضل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szalik",
+   "rank": 751,
+   "pl": "szalik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "scarf",
+    "ar": "وشاح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.recznik",
+   "rank": 752,
+   "pl": "ręcznik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "towel",
+    "ar": "منشفة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.najgorszy",
+   "rank": 753,
+   "pl": "najgorszy",
+   "pos": "adjective",
+   "translations": {
+    "en": "worst",
+    "ar": "الأسوأ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.mydlo",
+   "rank": 754,
+   "pl": "mydło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "soap",
+    "ar": "صابون"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szczoteczka-do-zebow",
+   "rank": 755,
+   "pl": "szczoteczka do zębów",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "toothbrush",
+    "ar": "فرشاة أسنان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prawy",
+   "rank": 756,
+   "pl": "prawy",
+   "pos": "adjective",
+   "translations": {
+    "en": "right (side)",
+    "ar": "أيمن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zab",
+   "rank": 757,
+   "pl": "ząb",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "tooth",
+    "ar": "سن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.palec",
+   "rank": 758,
+   "pl": "palec",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "finger",
+    "ar": "إصبع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lewy",
+   "rank": 759,
+   "pl": "lewy",
+   "pos": "adjective",
+   "translations": {
+    "en": "left (side)",
+    "ar": "أيسر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ramie",
+   "rank": 760,
+   "pl": "ramię",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "arm, shoulder",
+    "ar": "ذراع، كتف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.plecy",
+   "rank": 761,
+   "pl": "plecy",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "back",
+    "ar": "ظهر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gorny",
+   "rank": 762,
+   "pl": "górny",
+   "pos": "adjective",
+   "translations": {
+    "en": "upper",
+    "ar": "علوي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brzuch",
+   "rank": 763,
+   "pl": "brzuch",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "stomach, belly",
+    "ar": "بطن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zoladek",
+   "rank": 764,
+   "pl": "żołądek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "stomach",
+    "ar": "معدة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dolny",
+   "rank": 765,
+   "pl": "dolny",
+   "pos": "adjective",
+   "translations": {
+    "en": "lower",
+    "ar": "سفلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skora",
+   "rank": 766,
+   "pl": "skóra",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "skin, leather",
+    "ar": "جلد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.krew",
+   "rank": 767,
+   "pl": "krew",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "blood",
+    "ar": "دم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przedni",
+   "rank": 768,
+   "pl": "przedni",
+   "pos": "adjective",
+   "translations": {
+    "en": "front",
+    "ar": "أمامي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kosc",
+   "rank": 769,
+   "pl": "kość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "bone",
+    "ar": "عظم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gardlo",
+   "rank": 770,
+   "pl": "gardło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "throat",
+    "ar": "حلق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tylny",
+   "rank": 771,
+   "pl": "tylny",
+   "pos": "adjective",
+   "translations": {
+    "en": "back, rear",
+    "ar": "خلفي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.goraczka",
+   "rank": 772,
+   "pl": "gorączka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "fever",
+    "ar": "حمى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przeziebienie",
+   "rank": 773,
+   "pl": "przeziębienie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "cold (illness)",
+    "ar": "زكام"
+   }
+  },
+  {
+   "id": "nouns-adjectives.srodkowy",
+   "rank": 774,
+   "pl": "środkowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "middle",
+    "ar": "أوسط"
+   }
+  },
+  {
+   "id": "nouns-adjectives.grypa",
+   "rank": 775,
+   "pl": "grypa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "flu",
+    "ar": "إنفلونزا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kaszel",
+   "rank": 776,
+   "pl": "kaszel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "cough",
+    "ar": "سعال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.recepta",
+   "rank": 777,
+   "pl": "recepta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "prescription",
+    "ar": "وصفة طبية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wewnetrzny",
+   "rank": 778,
+   "pl": "wewnętrzny",
+   "pos": "adjective",
+   "translations": {
+    "en": "internal",
+    "ar": "داخلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wizyta",
+   "rank": 779,
+   "pl": "wizyta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "visit, appointment",
+    "ar": "زيارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pacjent",
+   "rank": 780,
+   "pl": "pacjent",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "patient",
+    "ar": "مريض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zewnetrzny",
+   "rank": 781,
+   "pl": "zewnętrzny",
+   "pos": "adjective",
+   "translations": {
+    "en": "external",
+    "ar": "خارجي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pielegniarka",
+   "rank": 782,
+   "pl": "pielęgniarka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "nurse",
+    "ar": "ممرضة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dentysta",
+   "rank": 783,
+   "pl": "dentysta",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "dentist",
+    "ar": "طبيب أسنان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.polnocny",
+   "rank": 784,
+   "pl": "północny",
+   "pos": "adjective",
+   "translations": {
+    "en": "northern",
+    "ar": "شمالي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.karetka",
+   "rank": 785,
+   "pl": "karetka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "ambulance",
+    "ar": "سيارة إسعاف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ubezpieczenie",
+   "rank": 786,
+   "pl": "ubezpieczenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "insurance",
+    "ar": "تأمين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poludniowy",
+   "rank": 787,
+   "pl": "południowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "southern",
+    "ar": "جنوبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.badanie",
+   "rank": 788,
+   "pl": "badanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "examination, study",
+    "ar": "فحص، دراسة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.operacja",
+   "rank": 789,
+   "pl": "operacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "operation",
+    "ar": "عملية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wschodni",
+   "rank": 790,
+   "pl": "wschodni",
+   "pos": "adjective",
+   "translations": {
+    "en": "eastern",
+    "ar": "شرقي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.smierc",
+   "rank": 791,
+   "pl": "śmierć",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "death",
+    "ar": "موت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dusza",
+   "rank": 792,
+   "pl": "dusza",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "soul",
+    "ar": "روح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zachodni",
+   "rank": 793,
+   "pl": "zachodni",
+   "pos": "adjective",
+   "translations": {
+    "en": "western",
+    "ar": "غربي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.duch",
+   "rank": 794,
+   "pl": "duch",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "spirit, ghost",
+    "ar": "روح، شبح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.umysl",
+   "rank": 795,
+   "pl": "umysł",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "mind",
+    "ar": "عقل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.morski",
+   "rank": 796,
+   "pl": "morski",
+   "pos": "adjective",
+   "translations": {
+    "en": "sea, marine",
+    "ar": "بحري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiedza",
+   "rank": 797,
+   "pl": "wiedza",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "knowledge",
+    "ar": "معرفة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.doswiadczenie",
+   "rank": 798,
+   "pl": "doświadczenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "experience",
+    "ar": "خبرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gorski",
+   "rank": 799,
+   "pl": "górski",
+   "pos": "adjective",
+   "translations": {
+    "en": "mountain",
+    "ar": "جبلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.umiejetnosc",
+   "rank": 800,
+   "pl": "umiejętność",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "skill",
+    "ar": "مهارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zdolnosc",
+   "rank": 801,
+   "pl": "zdolność",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "ability",
+    "ar": "قدرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.lesny",
+   "rank": 802,
+   "pl": "leśny",
+   "pos": "adjective",
+   "translations": {
+    "en": "forest",
+    "ar": "حرجي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.talent",
+   "rank": 803,
+   "pl": "talent",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "talent",
+    "ar": "موهبة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wysilek",
+   "rank": 804,
+   "pl": "wysiłek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "effort",
+    "ar": "جهد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sukces",
+   "rank": 805,
+   "pl": "sukces",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "success",
+    "ar": "نجاح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.letni",
+   "rank": 806,
+   "pl": "letni",
+   "pos": "adjective",
+   "translations": {
+    "en": "summer",
+    "ar": "صيفي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.porazka",
+   "rank": 807,
+   "pl": "porażka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "failure",
+    "ar": "فشل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.blad",
+   "rank": 808,
+   "pl": "błąd",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "mistake",
+    "ar": "خطأ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zimowy",
+   "rank": 809,
+   "pl": "zimowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "winter",
+    "ar": "شتوي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.klopot",
+   "rank": 810,
+   "pl": "kłopot",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "trouble",
+    "ar": "مشكلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ryzyko",
+   "rank": 811,
+   "pl": "ryzyko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "risk",
+    "ar": "مخاطرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wiosenny",
+   "rank": 812,
+   "pl": "wiosenny",
+   "pos": "adjective",
+   "translations": {
+    "en": "spring",
+    "ar": "ربيعي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szansa",
+   "rank": 813,
+   "pl": "szansa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "chance",
+    "ar": "فرصة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.okazja",
+   "rank": 814,
+   "pl": "okazja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "occasion, opportunity",
+    "ar": "مناسبة، فرصة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.jesienny",
+   "rank": 815,
+   "pl": "jesienny",
+   "pos": "adjective",
+   "translations": {
+    "en": "autumn",
+    "ar": "خريفي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wybor",
+   "rank": 816,
+   "pl": "wybór",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "choice",
+    "ar": "اختيار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.propozycja",
+   "rank": 817,
+   "pl": "propozycja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "proposal",
+    "ar": "اقتراح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dzienny",
+   "rank": 818,
+   "pl": "dzienny",
+   "pos": "adjective",
+   "translations": {
+    "en": "daily, day",
+    "ar": "يومي، نهاري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pomysl",
+   "rank": 819,
+   "pl": "pomysł",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "idea",
+    "ar": "فكرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.opinia",
+   "rank": 820,
+   "pl": "opinia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "opinion",
+    "ar": "رأي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nocny",
+   "rank": 821,
+   "pl": "nocny",
+   "pos": "adjective",
+   "translations": {
+    "en": "night",
+    "ar": "ليلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.argument",
+   "rank": 822,
+   "pl": "argument",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "argument",
+    "ar": "حجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dyskusja",
+   "rank": 823,
+   "pl": "dyskusja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "discussion",
+    "ar": "نقاش"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poranny",
+   "rank": 824,
+   "pl": "poranny",
+   "pos": "adjective",
+   "translations": {
+    "en": "morning",
+    "ar": "صباحي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.klotnia",
+   "rank": 825,
+   "pl": "kłótnia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "quarrel",
+    "ar": "شجار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.konflikt",
+   "rank": 826,
+   "pl": "konflikt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "conflict",
+    "ar": "صراع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wieczorny",
+   "rank": 827,
+   "pl": "wieczorny",
+   "pos": "adjective",
+   "translations": {
+    "en": "evening",
+    "ar": "مسائي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spor",
+   "rank": 828,
+   "pl": "spór",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "dispute",
+    "ar": "نزاع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.porozumienie",
+   "rank": 829,
+   "pl": "porozumienie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "agreement",
+    "ar": "اتفاق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.codzienny",
+   "rank": 830,
+   "pl": "codzienny",
+   "pos": "adjective",
+   "translations": {
+    "en": "everyday",
+    "ar": "يومي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zgoda",
+   "rank": 831,
+   "pl": "zgoda",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "consent, agreement",
+    "ar": "موافقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.prosba",
+   "rank": 832,
+   "pl": "prośba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "request",
+    "ar": "طلب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tygodniowy",
+   "rank": 833,
+   "pl": "tygodniowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "weekly",
+    "ar": "أسبوعي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zaproszenie",
+   "rank": 834,
+   "pl": "zaproszenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "invitation",
+    "ar": "دعوة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.podziekowanie",
+   "rank": 835,
+   "pl": "podziękowanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "thanks",
+    "ar": "شكر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przeprosiny",
+   "rank": 836,
+   "pl": "przeprosiny",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "apology",
+    "ar": "اعتذار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miesieczny",
+   "rank": 837,
+   "pl": "miesięczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "monthly",
+    "ar": "شهري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zyczenia",
+   "rank": 838,
+   "pl": "życzenia",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "wishes",
+    "ar": "تمنيات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pozdrowienia",
+   "rank": 839,
+   "pl": "pozdrowienia",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "greetings",
+    "ar": "تحيات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.roczny",
+   "rank": 840,
+   "pl": "roczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "annual",
+    "ar": "سنوي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rada",
+   "rank": 841,
+   "pl": "rada",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "advice, council",
+    "ar": "نصيحة، مجلس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pozwolenie",
+   "rank": 842,
+   "pl": "pozwolenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "permission",
+    "ar": "إذن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.staly",
+   "rank": 843,
+   "pl": "stały",
+   "pos": "adjective",
+   "translations": {
+    "en": "permanent, constant",
+    "ar": "دائم، ثابت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zakaz",
+   "rank": 844,
+   "pl": "zakaz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "ban",
+    "ar": "منع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obowiazek",
+   "rank": 845,
+   "pl": "obowiązek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "duty",
+    "ar": "واجب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tymczasowy",
+   "rank": 846,
+   "pl": "tymczasowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "temporary",
+    "ar": "مؤقت"
+   }
+  },
+  {
+   "id": "nouns-adjectives.odpowiedzialnosc",
+   "rank": 847,
+   "pl": "odpowiedzialność",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "responsibility",
+    "ar": "مسؤولية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zasada",
+   "rank": 848,
+   "pl": "zasada",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "rule, principle",
+    "ar": "قاعدة، مبدأ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czesty",
+   "rank": 849,
+   "pl": "częsty",
+   "pos": "adjective",
+   "translations": {
+    "en": "frequent",
+    "ar": "متكرر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przepis",
+   "rank": 850,
+   "pl": "przepis",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "regulation, recipe",
+    "ar": "لائحة، وصفة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.instrukcja",
+   "rank": 851,
+   "pl": "instrukcja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "instructions",
+    "ar": "تعليمات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rzadki",
+   "rank": 852,
+   "pl": "rzadki",
+   "pos": "adjective",
+   "translations": {
+    "en": "rare",
+    "ar": "نادر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.znak",
+   "rank": 853,
+   "pl": "znak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "sign",
+    "ar": "علامة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tablica",
+   "rank": 854,
+   "pl": "tablica",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "board, blackboard",
+    "ar": "لوحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pilny",
+   "rank": 855,
+   "pl": "pilny",
+   "pos": "adjective",
+   "translations": {
+    "en": "urgent",
+    "ar": "عاجل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ogloszenie",
+   "rank": 856,
+   "pl": "ogłoszenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "announcement, ad",
+    "ar": "إعلان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.artykul",
+   "rank": 857,
+   "pl": "artykuł",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "article",
+    "ar": "مقال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dokladny",
+   "rank": 858,
+   "pl": "dokładny",
+   "pos": "adjective",
+   "translations": {
+    "en": "exact, precise",
+    "ar": "دقيق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tekst",
+   "rank": 859,
+   "pl": "tekst",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "text",
+    "ar": "نص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tresc",
+   "rank": 860,
+   "pl": "treść",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "content",
+    "ar": "محتوى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zrozumialy",
+   "rank": 861,
+   "pl": "zrozumiały",
+   "pos": "adjective",
+   "translations": {
+    "en": "understandable",
+    "ar": "مفهوم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.tytul",
+   "rank": 862,
+   "pl": "tytuł",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "title",
+    "ar": "عنوان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozdzial",
+   "rank": 863,
+   "pl": "rozdział",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "chapter",
+    "ar": "فصل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.oczywisty",
+   "rank": 864,
+   "pl": "oczywisty",
+   "pos": "adjective",
+   "translations": {
+    "en": "obvious",
+    "ar": "واضح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zeszyt",
+   "rank": 865,
+   "pl": "zeszyt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "notebook",
+    "ar": "دفتر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kartka",
+   "rank": 866,
+   "pl": "kartka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "sheet of paper, card",
+    "ar": "ورقة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.papier",
+   "rank": 867,
+   "pl": "papier",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "paper",
+    "ar": "ورق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.widoczny",
+   "rank": 868,
+   "pl": "widoczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "visible",
+    "ar": "مرئي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dlugopis",
+   "rank": 869,
+   "pl": "długopis",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "pen",
+    "ar": "قلم حبر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.olowek",
+   "rank": 870,
+   "pl": "ołówek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "pencil",
+    "ar": "قلم رصاص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niewidoczny",
+   "rank": 871,
+   "pl": "niewidoczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "invisible",
+    "ar": "غير مرئي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slownik",
+   "rank": 872,
+   "pl": "słownik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "dictionary",
+    "ar": "قاموس"
+   }
+  },
+  {
+   "id": "nouns-adjectives.biblioteka",
+   "rank": 873,
+   "pl": "biblioteka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "library",
+    "ar": "مكتبة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cenny",
+   "rank": 874,
+   "pl": "cenny",
+   "pos": "adjective",
+   "translations": {
+    "en": "valuable",
+    "ar": "ثمين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gramatyka",
+   "rank": 875,
+   "pl": "gramatyka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "grammar",
+    "ar": "قواعد اللغة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wymowa",
+   "rank": 876,
+   "pl": "wymowa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pronunciation",
+    "ar": "نطق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bezplatny",
+   "rank": 877,
+   "pl": "bezpłatny",
+   "pos": "adjective",
+   "translations": {
+    "en": "free of charge",
+    "ar": "مجاني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.akcent",
+   "rank": 878,
+   "pl": "akcent",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "accent, stress",
+    "ar": "لهجة، نبرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.litera",
+   "rank": 879,
+   "pl": "litera",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "letter (of the alphabet)",
+    "ar": "حرف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.darmowy",
+   "rank": 880,
+   "pl": "darmowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "free of charge",
+    "ar": "مجاني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ocena",
+   "rank": 881,
+   "pl": "ocena",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "mark, grade",
+    "ar": "درجة، تقييم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swiadectwo",
+   "rank": 882,
+   "pl": "świadectwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "certificate",
+    "ar": "شهادة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.platny",
+   "rank": 883,
+   "pl": "płatny",
+   "pos": "adjective",
+   "translations": {
+    "en": "paid",
+    "ar": "مدفوع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dyplom",
+   "rank": 884,
+   "pl": "dyplom",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "diploma",
+    "ar": "دبلوم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.studia",
+   "rank": 885,
+   "pl": "studia",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "university studies",
+    "ar": "دراسة جامعية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.elektryczny",
+   "rank": 886,
+   "pl": "elektryczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "electric",
+    "ar": "كهربائي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przedmiot",
+   "rank": 887,
+   "pl": "przedmiot",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "subject, object",
+    "ar": "مادة، شيء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.matematyka",
+   "rank": 888,
+   "pl": "matematyka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "mathematics",
+    "ar": "رياضيات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.komputerowy",
+   "rank": 889,
+   "pl": "komputerowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "computer",
+    "ar": "حاسوبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.fizyka",
+   "rank": 890,
+   "pl": "fizyka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "physics",
+    "ar": "فيزياء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.chemia",
+   "rank": 891,
+   "pl": "chemia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "chemistry",
+    "ar": "كيمياء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.internetowy",
+   "rank": 892,
+   "pl": "internetowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "internet, online",
+    "ar": "إلكتروني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.biologia",
+   "rank": 893,
+   "pl": "biologia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "biology",
+    "ar": "أحياء"
+   }
+  },
+  {
+   "id": "nouns-adjectives.geografia",
+   "rank": 894,
+   "pl": "geografia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "geography",
+    "ar": "جغرافيا"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przerwa",
+   "rank": 895,
+   "pl": "przerwa",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "break",
+    "ar": "استراحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cyfrowy",
+   "rank": 896,
+   "pl": "cyfrowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "digital",
+    "ar": "رقمي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kurs",
+   "rank": 897,
+   "pl": "kurs",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "course",
+    "ar": "دورة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zawod",
+   "rank": 898,
+   "pl": "zawód",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "profession",
+    "ar": "مهنة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.techniczny",
+   "rank": 899,
+   "pl": "techniczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "technical",
+    "ar": "تقني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kariera",
+   "rank": 900,
+   "pl": "kariera",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "career",
+    "ar": "مسيرة مهنية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.stanowisko",
+   "rank": 901,
+   "pl": "stanowisko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "position, post",
+    "ar": "منصب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.medyczny",
+   "rank": 902,
+   "pl": "medyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "medical",
+    "ar": "طبي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wynagrodzenie",
+   "rank": 903,
+   "pl": "wynagrodzenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "salary",
+    "ar": "أجر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.pensja",
+   "rank": 904,
+   "pl": "pensja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "salary",
+    "ar": "راتب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sportowy",
+   "rank": 905,
+   "pl": "sportowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "sports",
+    "ar": "رياضي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.emerytura",
+   "rank": 906,
+   "pl": "emerytura",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "pension, retirement",
+    "ar": "تقاعد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bezrobocie",
+   "rank": 907,
+   "pl": "bezrobocie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "unemployment",
+    "ar": "بطالة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.muzyczny",
+   "rank": 908,
+   "pl": "muzyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "musical",
+    "ar": "موسيقي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.cv",
+   "rank": 909,
+   "pl": "CV",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "CV",
+    "ar": "سيرة ذاتية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.fabryka",
+   "rank": 910,
+   "pl": "fabryka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "factory",
+    "ar": "مصنع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.artystyczny",
+   "rank": 911,
+   "pl": "artystyczny",
+   "pos": "adjective",
+   "translations": {
+    "en": "artistic",
+    "ar": "فني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zaklad",
+   "rank": 912,
+   "pl": "zakład",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "plant, works",
+    "ar": "منشأة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przedsiebiorstwo",
+   "rank": 913,
+   "pl": "przedsiębiorstwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "enterprise",
+    "ar": "مؤسسة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.religijny",
+   "rank": 914,
+   "pl": "religijny",
+   "pos": "adjective",
+   "translations": {
+    "en": "religious",
+    "ar": "ديني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.handel",
+   "rank": 915,
+   "pl": "handel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "trade",
+    "ar": "تجارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zysk",
+   "rank": 916,
+   "pl": "zysk",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "profit",
+    "ar": "ربح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.katolicki",
+   "rank": 917,
+   "pl": "katolicki",
+   "pos": "adjective",
+   "translations": {
+    "en": "Catholic",
+    "ar": "كاثوليكي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.strata",
+   "rank": 918,
+   "pl": "strata",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "loss",
+    "ar": "خسارة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dlug",
+   "rank": 919,
+   "pl": "dług",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "debt",
+    "ar": "دين"
+   }
+  },
+  {
+   "id": "nouns-adjectives.angielski",
+   "rank": 920,
+   "pl": "angielski",
+   "pos": "adjective",
+   "translations": {
+    "en": "English",
+    "ar": "إنجليزي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kredyt",
+   "rank": 921,
+   "pl": "kredyt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "loan, credit",
+    "ar": "قرض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.inwestycja",
+   "rank": 922,
+   "pl": "inwestycja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "investment",
+    "ar": "استثمار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.niemiecki",
+   "rank": 923,
+   "pl": "niemiecki",
+   "pos": "adjective",
+   "translations": {
+    "en": "German",
+    "ar": "ألماني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.budzet",
+   "rank": 924,
+   "pl": "budżet",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "budget",
+    "ar": "ميزانية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.waluta",
+   "rank": 925,
+   "pl": "waluta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "currency",
+    "ar": "عملة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.euro",
+   "rank": 926,
+   "pl": "euro",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "euro",
+    "ar": "يورو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.francuski",
+   "rank": 927,
+   "pl": "francuski",
+   "pos": "adjective",
+   "translations": {
+    "en": "French",
+    "ar": "فرنسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.moneta",
+   "rank": 928,
+   "pl": "moneta",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "coin",
+    "ar": "عملة معدنية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.banknot",
+   "rank": 929,
+   "pl": "banknot",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "banknote",
+    "ar": "ورقة نقدية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rosyjski",
+   "rank": 930,
+   "pl": "rosyjski",
+   "pos": "adjective",
+   "translations": {
+    "en": "Russian",
+    "ar": "روسي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.gotowka",
+   "rank": 931,
+   "pl": "gotówka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "cash",
+    "ar": "نقد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wartosc",
+   "rank": 932,
+   "pl": "wartość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "value",
+    "ar": "قيمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ukrainski",
+   "rank": 933,
+   "pl": "ukraiński",
+   "pos": "adjective",
+   "translations": {
+    "en": "Ukrainian",
+    "ar": "أوكراني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rozwoj",
+   "rank": 934,
+   "pl": "rozwój",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "development",
+    "ar": "تطور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wzrost",
+   "rank": 935,
+   "pl": "wzrost",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "growth, height",
+    "ar": "نمو، طول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.arabski",
+   "rank": 936,
+   "pl": "arabski",
+   "pos": "adjective",
+   "translations": {
+    "en": "Arabic",
+    "ar": "عربي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spadek",
+   "rank": 937,
+   "pl": "spadek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "fall, inheritance",
+    "ar": "انخفاض، إرث"
+   }
+  },
+  {
+   "id": "nouns-adjectives.poziom",
+   "rank": 938,
+   "pl": "poziom",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "level",
+    "ar": "مستوى"
+   }
+  },
+  {
+   "id": "nouns-adjectives.amerykanski",
+   "rank": 939,
+   "pl": "amerykański",
+   "pos": "adjective",
+   "translations": {
+    "en": "American",
+    "ar": "أمريكي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.warunki",
+   "rank": 940,
+   "pl": "warunki",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "conditions",
+    "ar": "ظروف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.potrzeba",
+   "rank": 941,
+   "pl": "potrzeba",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "need",
+    "ar": "حاجة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brytyjski",
+   "rank": 942,
+   "pl": "brytyjski",
+   "pos": "adjective",
+   "translations": {
+    "en": "British",
+    "ar": "بريطاني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.brak",
+   "rank": 943,
+   "pl": "brak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "lack",
+    "ar": "نقص"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sila",
+   "rank": 944,
+   "pl": "siła",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "strength, force",
+    "ar": "قوة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.hiszpanski",
+   "rank": 945,
+   "pl": "hiszpański",
+   "pos": "adjective",
+   "translations": {
+    "en": "Spanish",
+    "ar": "إسباني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.moc",
+   "rank": 946,
+   "pl": "moc",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "power",
+    "ar": "قوة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.walka",
+   "rank": 947,
+   "pl": "walka",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "fight",
+    "ar": "قتال"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wloski",
+   "rank": 948,
+   "pl": "włoski",
+   "pos": "adjective",
+   "translations": {
+    "en": "Italian",
+    "ar": "إيطالي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bron",
+   "rank": 949,
+   "pl": "broń",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "weapon",
+    "ar": "سلاح"
+   }
+  },
+  {
+   "id": "nouns-adjectives.atak",
+   "rank": 950,
+   "pl": "atak",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "attack",
+    "ar": "هجوم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czeski",
+   "rank": 951,
+   "pl": "czeski",
+   "pos": "adjective",
+   "translations": {
+    "en": "Czech",
+    "ar": "تشيكي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.obrona",
+   "rank": 952,
+   "pl": "obrona",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "defence",
+    "ar": "دفاع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zwyciestwo",
+   "rank": 953,
+   "pl": "zwycięstwo",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "victory",
+    "ar": "انتصار"
+   }
+  },
+  {
+   "id": "nouns-adjectives.organizacja",
+   "rank": 954,
+   "pl": "organizacja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "organisation",
+    "ar": "منظمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.slowacki",
+   "rank": 955,
+   "pl": "słowacki",
+   "pos": "adjective",
+   "translations": {
+    "en": "Slovak",
+    "ar": "سلوفاكي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.instytucja",
+   "rank": 956,
+   "pl": "instytucja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "institution",
+    "ar": "مؤسسة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.urzednik",
+   "rank": 957,
+   "pl": "urzędnik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "official, clerk",
+    "ar": "موظف حكومي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.krajowy",
+   "rank": 958,
+   "pl": "krajowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "domestic, national",
+    "ar": "محلي، وطني"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wladze",
+   "rank": 959,
+   "pl": "władze",
+   "pos": "noun",
+   "gender": "pl",
+   "translations": {
+    "en": "authorities",
+    "ar": "السلطات"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kierownik",
+   "rank": 960,
+   "pl": "kierownik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "manager",
+    "ar": "مدير"
+   }
+  },
+  {
+   "id": "nouns-adjectives.swiatowy",
+   "rank": 961,
+   "pl": "światowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "world, global",
+    "ar": "عالمي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zespol",
+   "rank": 962,
+   "pl": "zespół",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "team, band",
+    "ar": "فريق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czlonek",
+   "rank": 963,
+   "pl": "członek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "member",
+    "ar": "عضو"
+   }
+  },
+  {
+   "id": "nouns-adjectives.calkowity",
+   "rank": 964,
+   "pl": "całkowity",
+   "pos": "adjective",
+   "translations": {
+    "en": "total, complete",
+    "ar": "كلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przedstawiciel",
+   "rank": 965,
+   "pl": "przedstawiciel",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "representative",
+    "ar": "ممثل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uczestnik",
+   "rank": 966,
+   "pl": "uczestnik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "participant",
+    "ar": "مشارك"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czesciowy",
+   "rank": 967,
+   "pl": "częściowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "partial",
+    "ar": "جزئي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.widz",
+   "rank": 968,
+   "pl": "widz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "viewer, spectator",
+    "ar": "مشاهد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sluchacz",
+   "rank": 969,
+   "pl": "słuchacz",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "listener",
+    "ar": "مستمع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.miejscowy",
+   "rank": 970,
+   "pl": "miejscowy",
+   "pos": "adjective",
+   "translations": {
+    "en": "local",
+    "ar": "محلي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.czytelnik",
+   "rank": 971,
+   "pl": "czytelnik",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "reader",
+    "ar": "قارئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.autor",
+   "rank": 972,
+   "pl": "autor",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "author",
+    "ar": "مؤلف"
+   }
+  },
+  {
+   "id": "nouns-adjectives.sasiedni",
+   "rank": 973,
+   "pl": "sąsiedni",
+   "pos": "adjective",
+   "translations": {
+    "en": "neighbouring",
+    "ar": "مجاور"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bohater",
+   "rank": 974,
+   "pl": "bohater",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "hero, main character",
+    "ar": "بطل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.postac",
+   "rank": 975,
+   "pl": "postać",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "figure, character",
+    "ar": "شخصية"
+   }
+  },
+  {
+   "id": "nouns-adjectives.centralny",
+   "rank": 976,
+   "pl": "centralny",
+   "pos": "adjective",
+   "translations": {
+    "en": "central",
+    "ar": "مركزي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wydarzenie",
+   "rank": 977,
+   "pl": "wydarzenie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "event",
+    "ar": "حدث"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zjawisko",
+   "rank": 978,
+   "pl": "zjawisko",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "phenomenon",
+    "ar": "ظاهرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nagly",
+   "rank": 979,
+   "pl": "nagły",
+   "pos": "adjective",
+   "translations": {
+    "en": "sudden",
+    "ar": "مفاجئ"
+   }
+  },
+  {
+   "id": "nouns-adjectives.proces",
+   "rank": 980,
+   "pl": "proces",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "process, trial",
+    "ar": "عملية، محاكمة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dzialanie",
+   "rank": 981,
+   "pl": "działanie",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "action, operation",
+    "ar": "عمل، نشاط"
+   }
+  },
+  {
+   "id": "nouns-adjectives.spozniony",
+   "rank": 982,
+   "pl": "spóźniony",
+   "pos": "adjective",
+   "translations": {
+    "en": "late (delayed)",
+    "ar": "متأخر"
+   }
+  },
+  {
+   "id": "nouns-adjectives.akcja",
+   "rank": 983,
+   "pl": "akcja",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "action, campaign",
+    "ar": "حملة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.krok",
+   "rank": 984,
+   "pl": "krok",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "step",
+    "ar": "خطوة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.etap",
+   "rank": 985,
+   "pl": "etap",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "stage",
+    "ar": "مرحلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.punktualny",
+   "rank": 986,
+   "pl": "punktualny",
+   "pos": "adjective",
+   "translations": {
+    "en": "punctual",
+    "ar": "دقيق في المواعيد"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rodzaj",
+   "rank": 987,
+   "pl": "rodzaj",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "kind, type",
+    "ar": "نوع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.typ",
+   "rank": 988,
+   "pl": "typ",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "type",
+    "ar": "نوع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.zepsuty",
+   "rank": 989,
+   "pl": "zepsuty",
+   "pos": "adjective",
+   "translations": {
+    "en": "broken",
+    "ar": "معطل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.forma",
+   "rank": 990,
+   "pl": "forma",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "form",
+    "ar": "شكل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.ksztalt",
+   "rank": 991,
+   "pl": "kształt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "shape",
+    "ar": "شكل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.nowiutki",
+   "rank": 992,
+   "pl": "nowiutki",
+   "pos": "adjective",
+   "translations": {
+    "en": "brand new",
+    "ar": "جديد تماما"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wielkosc",
+   "rank": 993,
+   "pl": "wielkość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "size",
+    "ar": "حجم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dlugosc",
+   "rank": 994,
+   "pl": "długość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "length",
+    "ar": "طول"
+   }
+  },
+  {
+   "id": "nouns-adjectives.uzywany",
+   "rank": 995,
+   "pl": "używany",
+   "pos": "adjective",
+   "translations": {
+    "en": "used, second-hand",
+    "ar": "مستعمل"
+   }
+  },
+  {
+   "id": "nouns-adjectives.szerokosc",
+   "rank": 996,
+   "pl": "szerokość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "width",
+    "ar": "عرض"
+   }
+  },
+  {
+   "id": "nouns-adjectives.waga",
+   "rank": 997,
+   "pl": "waga",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "weight, scales",
+    "ar": "وزن، ميزان"
+   }
+  },
+  {
+   "id": "nouns-adjectives.wysportowany",
+   "rank": 998,
+   "pl": "wysportowany",
+   "pos": "adjective",
+   "translations": {
+    "en": "fit, athletic",
+    "ar": "رياضي"
+   }
+  },
+  {
+   "id": "nouns-adjectives.odleglosc",
+   "rank": 999,
+   "pl": "odległość",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "distance",
+    "ar": "مسافة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przestrzen",
+   "rank": 1000,
+   "pl": "przestrzeń",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "space",
+    "ar": "فضاء، مساحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.przystojny",
+   "rank": 1001,
+   "pl": "przystojny",
+   "pos": "adjective",
+   "translations": {
+    "en": "handsome",
+    "ar": "وسيم"
+   }
+  },
+  {
+   "id": "nouns-adjectives.powierzchnia",
+   "rank": 1002,
+   "pl": "powierzchnia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "surface, area",
+    "ar": "سطح، مساحة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.srodek",
+   "rank": 1003,
+   "pl": "środek",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "middle, means",
+    "ar": "وسط، وسيلة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.elegancki",
+   "rank": 1004,
+   "pl": "elegancki",
+   "pos": "adjective",
+   "translations": {
+    "en": "elegant",
+    "ar": "أنيق"
+   }
+  },
+  {
+   "id": "nouns-adjectives.bok",
+   "rank": 1005,
+   "pl": "bok",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "side",
+    "ar": "جانب"
+   }
+  },
+  {
+   "id": "nouns-adjectives.rog",
+   "rank": 1006,
+   "pl": "róg",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "corner, horn",
+    "ar": "زاوية، قرن"
+   }
+  },
+  {
+   "id": "nouns-adjectives.modny",
+   "rank": 1007,
+   "pl": "modny",
+   "pos": "adjective",
+   "translations": {
+    "en": "fashionable",
+    "ar": "عصري"
+   }
+  },
+  {
+   "id": "nouns-adjectives.dol",
+   "rank": 1008,
+   "pl": "dół",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "bottom, hole",
+    "ar": "أسفل، حفرة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.punkt",
+   "rank": 1009,
+   "pl": "punkt",
+   "pos": "noun",
+   "gender": "m",
+   "translations": {
+    "en": "point",
+    "ar": "نقطة"
+   }
+  },
+  {
+   "id": "nouns-adjectives.skromny",
+   "rank": 1010,
+   "pl": "skromny",
+   "pos": "adjective",
+   "translations": {
+    "en": "modest",
+    "ar": "متواضع"
+   }
+  },
+  {
+   "id": "nouns-adjectives.linia",
+   "rank": 1011,
+   "pl": "linia",
+   "pos": "noun",
+   "gender": "f",
+   "translations": {
+    "en": "line",
+    "ar": "خط"
+   }
+  },
+  {
+   "id": "nouns-adjectives.kolo",
+   "rank": 1012,
+   "pl": "koło",
+   "pos": "noun",
+   "gender": "n",
+   "translations": {
+    "en": "wheel, circle",
+    "ar": "عجلة، دائرة"
+   }
+  }
+ ]
+}

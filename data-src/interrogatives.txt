@@ -1,0 +1,30 @@
+# Polish question words. Format: polish|english|arabic
+kto|who|من
+co|what|ماذا
+gdzie|where|أين
+kiedy|when|متى
+dlaczego|why|لماذا
+czemu|why (informal)|لماذا
+jak|how|كيف
+ile|how much, how many|كم
+który|which|أي
+jaki|what kind of|أي نوع
+czyj|whose|لمن
+skąd|where from|من أين
+dokąd|where to|إلى أين
+po co|what for|لأي غرض
+od kiedy|since when|منذ متى
+do kiedy|until when|حتى متى
+jak długo|how long|كم من الوقت
+jak często|how often|كم مرة
+o której|at what time|في أي ساعة
+która godzina|what time is it|كم الساعة
+ile razy|how many times|كم مرة
+z kim|with whom|مع من
+o czym|about what|عن ماذا
+o kim|about whom|عن من
+komu|to whom|لمن
+kogo|whom|من
+czym|with what|بماذا
+czy|(yes/no question word)|هل
+jakim cudem|how on earth|كيف بحق السماء
